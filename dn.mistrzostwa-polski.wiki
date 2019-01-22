@@ -161,33 +161,33 @@
 |
 | align = right |
 |-
-|2003<ref name="wb26">{{Cytuj | url = http://www.bojery.pl/wyniki-regat2/wiadomosci-bojerowe/19-wiadomosci-bojerowe-2003-2004/file | tytuł = Wiadomości Bojerowe NR 26/2003-2004 | opublikowany = Stowarzyszenie Flota Polska DN | data = 2003-11-01 }}</ref>
+|2003<ref name="wb26">{{Cytuj | url = http://www.bojery.pl/wyniki-regat2/wiadomosci-bojerowe/19-wiadomosci-bojerowe-2003-2004/file | tytuł = Wiadomości Bojerowe NR 26/2003-2004 | opublikowany = Stowarzyszenie Flota Polska DN | język = pl | data = 2003-11-01 }}</ref>
 | [[Giżycko]], jezioro [[Niegocin]]
 | {{Flaga|POL}} [[Michał Burczyński]]
 | {{Flaga|POL}} [[Karol Jabłoński]]
-| {{Flaga|GER}} Jakob Schneider
+| {{Flaga|POL}} Jakob Schneider
 | align = right | 51
 |-
-|2004<ref name="wb27">{{Cytuj | url = http://www.bojery.pl/wyniki-regat2/wiadomosci-bojerowe/20-wiadomosci-bojerowe-2004-2005/file | tytuł = Wiadomości Bojerowe NR 27/2004-2005 | opublikowany = Stowarzyszenie Flota Polska DN | data = 2003-09-01 }}</ref>
+|2004<ref name="wb27">{{Cytuj | url = http://www.bojery.pl/wyniki-regat2/wiadomosci-bojerowe/20-wiadomosci-bojerowe-2004-2005/file | tytuł = Wiadomości Bojerowe NR 27/2004-2005 | opublikowany = Stowarzyszenie Flota Polska DN | język = pl | data = 2004-09-01 }}</ref>
 | Jezioro [[Śniardwy]]
 | {{Flaga|POL}} [[Karol Jabłoński]]
 | {{Flaga|POL}} [[Michał Burczyński]]
 | {{Flaga|POL}} Andrzej Dalecki
 | align = right | 66
 |-
-|2005
-|
-|
-|
-|
-| align = right |
+|2005<ref name="wb28">{{Cytuj | url = http://www.bojery.pl/wyniki-regat2/wiadomosci-bojerowe/21-wiadomosci-bojerowe-2005-2006/file | tytuł = Wiadomości Bojerowe NR 28/2005-2006 | opublikowany = Stowarzyszenie Flota Polska DN | język = pl | data = 2005-06-01 }}</ref>
+| [[Mikołajki]]
+| {{Flaga|POL}} [[Karol Jabłoński]]
+| {{Flaga|GER}} Bernd Zeiger
+| {{Flaga|POL}} Jakob Schneider
+| align = right | 56
 |-
-|2006<ref>{{Cytuj | url = http://www.bojery.pl/index.php/wyniki-regat2/doc_download/104-miedzynarodowe-mistrzostwa-polski-2006 | tytuł = Międzynarodowe Mistrzostwa Polski DN 2006 | data = 2006-02-26 | opublikowany = bojery.pl | język = pl | data dostępu = 2017-02-28}}</ref>
+|2006<ref>{{Cytuj | url = http://www.bojery.pl/index.php/wyniki-regat2/doc_download/104-miedzynarodowe-mistrzostwa-polski-2006 | tytuł = Międzynarodowe Mistrzostwa Polski DN 2006 | data = 2006-02-26 | opublikowany = bojery.pl | język = pl | data dostępu = 2017-02-28}}</ref><ref name="wb29">{{Cytuj | url = http://www.bojery.pl/wyniki-regat2/wiadomosci-bojerowe/22-wiadomosci-bojerowe-2006-2007/file | tytuł = Wiadomości Bojerowe NR 29/2006-2007 | opublikowany = Stowarzyszenie Flota Polska DN | język = pl | data = 2006-10-01 }}</ref>
 | jezioro [[Jamno]]
 | {{Flaga|GER}} Bernd Zeiger
 | {{Flaga|POL}} [[Michał Burczyński]]
 | {{Flaga|POL}} Paweł Burczyński
-| align = right |
+| align = right | 41
 |-
 |2007
 |
@@ -196,12 +196,12 @@
 |
 | align = right |
 |-
-|2008
-|
-|
-|
-|
-| align = right |
+|2008<ref name="wb31">{{Cytuj | url = http://www.bojery.pl/wyniki-regat2/wiadomosci-bojerowe/23-wiadomosci-bojerowe-2008-2009/file | tytuł = Wiadomości Bojerowe NR 31/2008-2009 | opublikowany = Stowarzyszenie Flota Polska DN | język = pl | data = 2008-11-01 }}</ref>
+| Jezioro [[Siemianówka]]
+| {{Flaga|POL}} [[Michał Burczyński]]
+| {{Flaga|POL}} [[Adam Baranowski]]
+| {{Flaga|POL}} Paweł Burczyński
+| align = right | 50
 |-
 |2009
 |

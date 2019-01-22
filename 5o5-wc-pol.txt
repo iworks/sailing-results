@@ -1,0 +1,36 @@
+==== Polacy na Mistrzostwach Świata ====
+
+{| class="wikitable"
+! Rok
+! Kraj
+! Miejsce
+! Sternik
+! Załogant
+! Miejsce
+! Liczba startujących
+|-
+|rowspan=3| 2016
+|rowspan=3| {{Flaga|GBR}}
+|rowspan=3| [[Weymouth]]
+| Karol Milewski
+| Bartosz Milewski
+|align=right|67
+|rowspan=3 align=right|130
+|-
+| Przemek Zagórski
+| Michał Olko
+|align=right|90
+|-
+| Domaski
+| Kacper Kaczmarek
+|align=right|116
+|-
+| 2017<ref name="wc2017">{{Cytuj stronę | url = https://yachtscoring.com/event_results_cumulative.cfm?eID=4206 | tytuł = SAP 2017 International 5O5 World Championship | opublikowany = Yacht Scoring | język = en | data dostępu = 2018-06-05}}</ref>
+| {{Flaga|USA}}
+| [[Annapolis]]
+| Przemek Zagórski
+| Michał Olko
+|align=right|60
+|align=right|87
+|}
+

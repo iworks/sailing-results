@@ -1,0 +1,329 @@
+=== Mistrzostwa Polski ===
+{| class="wikitable"
+! Rok
+! Miejsce
+! {{trofeum| medal świat| złoty}} Zwycięzca
+! {{trofeum| medal świat| srebrny}} 2. miejsce
+! {{trofeum| medal świat| brązowy}} 3. miejsce
+! Zawodników
+|-
+| 1971<ref name="psko2007" />
+| [[Szczecin]]
+| Lutomski Krzysztof
+| 
+| 
+|align=right| 
+|-
+| 1972<ref name="psko2007" />
+| [[Szczecin]]
+| Paweł Woszewski
+| 
+| 
+|align=right| 
+|-
+| 1973<ref name="psko2007" />
+| [[Szczecin]]
+| Aleksandra Woszewska
+| 
+| 
+|align=right| 
+|-
+| 1974<ref name="psko2007" />
+| [[Szczecin]]
+| Jacek Kondlewski
+| 
+| 
+|align=right| 
+|-
+| 1975<ref name="psko2007" />
+| [[Szczecin]]
+| Tadeusz Bartlewski
+| 
+| 
+|align=right| 
+|-
+| 1976<ref name="psko2007" />
+| [[Ostróda]]
+| Dariusz Wojtowicz
+| 
+| 
+|align=right| 
+|-
+| 1977<ref name="psko2007" />
+| [[Kamień Pomorski]]
+| Adam Czajka
+| 
+| 
+|align=right| 
+|-
+| 1978<ref name="psko2007" />
+| [[Tałty]]
+| Jarosław Kaczorowski
+| 
+| 
+|align=right| 
+|-
+| 1979<ref name="psko2007" />
+| [[Myślibórz]]
+| Dariusz Benert
+| 
+| 
+|align=right| 
+|-
+| 1980<ref name="psko2007" />
+| [[Wigry]]
+| Aleksandra Znaniecka
+| 
+| 
+|align=right| 
+|-
+| 1981<ref name="psko2007" />
+| [[Giżycko]]
+| Maciej Kruczyński
+| 
+| 
+|align=right| 
+|-
+| 1986<ref name="psko2007" />
+| [[Giżycko]]
+| Paweł Kuczys
+| 
+| 
+|align=right| 
+|-
+| 1987<ref name="psko2007" />
+| [[Poraj]]
+| Jarosław Tucholski
+| 
+| 
+|align=right| 
+|-
+| 1988<ref name="psko2007" />
+| 
+| Bartosz Chmielewski
+| 
+| 
+|align=right| 
+|-
+| 1989<ref name="psko2007" />
+| [[Szczecin]]
+| Tomasz Skurzak
+| 
+| 
+|align=right| 
+|-
+| 1990<ref name="psko2007" />
+| [[Trzebież]]
+| Damian Żuk
+| 
+| 
+|align=right| 
+|-
+| 1991<ref name="psko2007" />
+| [[Puck]]
+| Weronika Glinkiewicz
+| 
+| 
+|align=right| 
+|-
+| 1992<ref name="psko2007" />
+| [[Puck]]
+| Wojciech Bromka
+| 
+| 
+|align=right| 
+|-
+| 1993<ref name="psko2007" />
+| [[Gdynia]]
+| Paweł Oskroba
+| 
+| 
+|align=right| 99
+|-
+| 1994<ref name="psko2007" />
+| [[Gdynia]]
+| Marcin Rudawski
+| 
+| 
+|align=right| 136
+|-
+| 1995<ref name="psko2007" />
+| [[Gdynia]]
+| Marcin Czajkowski
+| 
+| 
+|align=right| 
+|-
+| 1996<ref name="psko2007" />
+| [[Puck]]
+| Marcin Czajkowski
+| 
+| 
+|align=right| 146
+|-
+| 1997<ref name="psko2007" />
+| [[Charzykowy]]
+| Marcin Czajkowski
+| 
+| 
+|align=right| 153
+|-
+|rowspan=2| 1998<ref name="psko2007" />
+|rowspan=2| [[Puck]]
+| Przemysław Struś
+| 
+| 
+|align=right rowspan=2| 135
+|-
+| Agnieszka Konys
+|-
+|rowspan=2| 1999<ref name="psko2007" />
+|rowspan=2| [[Sława]]
+| Zbigniew Hermach
+| 
+| 
+|rowspan=2 align=right| 140
+|-
+| Karolina Wolniewicz
+| 
+| 
+|-
+|rowspan=2| 2000<ref name="psko2007" />
+|rowspan=2| [[Żywiec]]
+| Kuba Winkowski
+| 
+| 
+|rowspan=2 align=right| 103
+|-
+| Zuzanna Hanke
+| 
+| 
+|-
+|rowspan=2| 2001<ref name="psko2007" />
+|rowspan=2| [[Kiekrz]]
+| [[Patryk Piasecki]]
+| 
+| 
+|align=right| 73
+|-
+| Zuzanna Hanke
+| 
+| 
+|align=right| 52
+|-
+|rowspan=2| 2002<ref name="psko2007" />
+|rowspan=2| [[Puck]]
+| Tomek Januszewski
+| 
+| 
+|align=right|
+|-
+| Kasia Pic 
+| 
+| 
+|align=right|
+|-
+|rowspan=2| 2003<ref name="psko2007" />
+|rowspan=2| [[Puck]]
+| Łukasz Przybytek
+| 
+| 
+|align=right|
+|-
+| [[Agnieszka Skrzypulec]]
+| 
+| 
+|align=right|
+|-
+|rowspan=2| 2004<ref name="psko2007" />
+|rowspan=2| [[Puck]]
+| Łukasz Przybytek
+| 
+| 
+|align=right|
+|-
+| [[Agnieszka Skrzypulec]]
+| 
+| 
+|align=right|
+|-
+|rowspan=2| 2005<ref name="psko2007" />
+|rowspan=2| [[Zegrze]]
+| Tadeusz Kubiak 
+| 
+| 
+|align=right|
+|-
+| Weronika Fogel
+| 
+| 
+|align=right|
+|-
+|rowspan=2| 2006<ref name="psko2007" />
+|rowspan=2| [[Puck]]
+| Wiktor Kobryń
+| 
+| 
+|align=right|
+|-
+| Ewa Ilska
+| 
+| 
+|align=right|
+|-
+| 2008<ref name="mmp2008" />
+| [[Kamień Pomorski]]
+| Konrad Lipski
+| Maciej Figiel
+| Sara Piasecka
+|align=right| 
+|-
+| 2009<ref name="mmp2009" />
+| [[Kamień Pomorski]]
+| Maciej Figiel
+| Adrian Raczkowski
+| Sara Piasecka
+|align=right| 
+|-
+| 2010<ref name="mmp2010" />
+| [[Kamień Pomorski]]
+| Adrian Raczkowski
+| Aleksander Bajko
+| Martyna Mik
+|align=right| 
+|-
+| 2012<ref name="mmp2012" />
+| [[Kamień Pomorski]]
+| Bartosz Wałczyk
+| Marcin Urbański
+| Mikołaj Jaworski
+|align=right| 
+|-
+| 2014<ref name="mmp2014" />
+| [[Kamień Pomorski]]
+| Paweł Abramowicz
+| 
+| 
+|align=right| 
+|-
+| 2015<ref name="mmp2015" />
+|
+| Filip Szmit
+| Jakub Gołębiowski
+| Kacper Paszek
+|align=right| 
+|-
+| 2016<ref name="mmp2016" /><ref name="mmp2016se" />
+| [[Dziwnów]]
+| Patryk Kosmalski
+| Mateusz Grzempa
+| Kamil Manowiecki
+|align=right| 
+|-
+| 2017<ref name="mmp2017" /><ref name="mmp2017z" />
+| [[Dziwnów]]
+| Rafał Pogorzelski
+| Klara Sobczak
+| Mateusz Gwóźdź
+|align=right| 
+|}

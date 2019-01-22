@@ -1,0 +1,205 @@
+==== Mistrzostwa Polski ====
+{| class="wikitable"
+!Rok
+!Miejsce
+!{{trofeum|medal świat|złoty}} Zwycięzca
+!{{trofeum|medal świat|srebrny}} 2. miejsce
+!{{trofeum|medal świat|brązowy}} 3. miejsce
+!Liczba załóg
+|-
+| 1968
+| 
+| [[Andrzej Iwiński (żeglarz)|Andrzej Iwiński]]
+| 
+| 
+|align=right| 
+|-
+| 1974
+| 
+| [[Andrzej Iwiński (żeglarz)|Andrzej Iwiński]]
+| 
+| 
+|align=right| 
+|-
+| 1979
+| 
+| [[Andrzej Iwiński (żeglarz)|Andrzej Iwiński]]
+| 
+| 
+|align=right| 
+|-
+| 1980
+| 
+| [[Andrzej Iwiński (żeglarz)|Andrzej Iwiński]]
+| 
+| 
+|align=right| 
+|-
+| 1981
+| 
+| [[Andrzej Iwiński (żeglarz)|Andrzej Iwiński]]
+| 
+| 
+|align=right| 
+|-
+| 1982
+| 
+| [[Andrzej Iwiński (żeglarz)|Andrzej Iwiński]]
+| 
+| 
+|align=right| 
+|-
+| 1983
+| 
+| [[Andrzej Iwiński (żeglarz)|Andrzej Iwiński]]
+| 
+| 
+|align=right| 
+|-
+| 1984
+| 
+| [[Andrzej Iwiński (żeglarz)|Andrzej Iwiński]]
+| 
+| 
+|align=right| 
+|-
+| 1985
+| 
+| [[Andrzej Iwiński (żeglarz)|Andrzej Iwiński]]
+| 
+| 
+|align=right| 
+|-
+| 1986
+| 
+| [[Andrzej Iwiński (żeglarz)|Andrzej Iwiński]]
+| 
+| 
+|align=right| 
+|-
+| 1987
+| 
+| [[Andrzej Iwiński (żeglarz)|Andrzej Iwiński]]
+| 
+| 
+|align=right| 
+|-
+| 1988
+| 
+| [[Andrzej Iwiński (żeglarz)|Andrzej Iwiński]]
+| 
+| 
+|align=right| 
+|-
+| 1989
+| 
+| [[Andrzej Iwiński (żeglarz)|Andrzej Iwiński]]
+| 
+| 
+|align=right| 
+|-
+| 1990
+| 
+| [[Andrzej Iwiński (żeglarz)|Andrzej Iwiński]] / [[Henryk Blaszka]]
+| 
+| 
+|align=right| 
+|-
+| 1991
+| 
+| [[Andrzej Iwiński (żeglarz)|Andrzej Iwiński]] / [[Henryk Blaszka]]
+| 
+| 
+|align=right| 
+|-
+| 1992
+| 
+| [[Andrzej Iwiński (żeglarz)|Andrzej Iwiński]] / [[Henryk Blaszka]]
+| 
+| 
+|align=right| 
+|-
+| 1999
+| 
+| [[Henryk Blaszka]] / Marcin Kledzik
+| 
+| 
+|align=right| 
+|-
+| 2001
+| 
+| [[Henryk Blaszka]] / Tomasz Kledzik
+| 
+| 
+|align=right| 
+|-
+| 2003
+| 
+| [[Henryk Blaszka]] / Tomasz Kledzik
+| 
+| 
+|align=right| 
+|-
+| 2004
+| 
+| [[Henryk Blaszka]] / Tomasz Kledzik
+| 
+| 
+|align=right| 
+|-
+| 2005
+| 
+| [[Henryk Blaszka]] / Tomasz Kledzik
+| 
+| 
+|align=right| 
+|-
+| 2006
+| 
+| [[Henryk Blaszka]] / Tomasz Kledzik
+| 
+| 
+|align=right| 
+|-
+| 2007
+| 
+| [[Henryk Blaszka]] / Tomasz Kledzik
+| 
+| 
+|align=right| 
+|-
+| 2011<ref name="mp2011">{{Cytuj stronę | url = http://www.sailfd.pl/images/pdf/wyniki/MP2011.pdf | tytuł = Mistrzostwa Polski w klasie FD | data = 2011-10-11 | opublikowany = FD Polska | data dostępu = 2018-08-27}}</ref>
+| [[Nieporęt]]
+| Paweł Świderski / Marcin Zawistowski
+| [[Henryk Blaszka]] / Tomasz Kledzik
+| Ireneusz Pierwoła-Górski / Piotr Tyszkiewicz
+|align=right|8
+|-
+| 2012<ref name="mp2012">{{Cytuj stronę | url = http://www.sailfd.pl/images/pdf/wyniki/MP2012.pdf | tytuł = Mistrzostwa Polski W Klasach Nieolimpijskich | data = 2012-09-09 | opublikowany = FD Polska | data dostępu = 2018-08-27}}</ref>
+| [[Charzykowy]]
+| Ireneusz Pierwoła-Górski / Wojciech Ożedżeński
+| [[Henryk Blaszka]] / Tomasz Kledzik
+| Paweł Swiderski / Marcin Zawistowski
+|align=right| 9
+|-
+| 2015<ref name="mp2015" />
+| [[Otmuchów]]
+| Ireneusz Pierwoła-Górski / Piotr Tyszkiewicz
+| [[Henryk Blaszka]] / Tomasz Kledzik
+| Paweł Swiderski / Marcin Zawistowski
+|align=right|10
+|-
+| 2016<ref name="mp2016"/>
+| [[Otmuchów]]
+| Maciej Rokosz / Piotr Tyszkiewicz
+| Jacek Tyszkiewicz / Katarzyna Sobieraj
+| [[Henryk Blaszka]] / Tomasz Kledzik
+|align=right|15
+|-
+| 2017<ref name="mp2017" />
+| [[Otmuchów]]
+| Maciej Rokosz / Tomasz Kledzik
+| Paweł Żebrowski / Maciej Żebrowski
+| Jacek Tyszkiewicz / Katarzyna Sobieraj
+|align=right|15
+|}

@@ -1,0 +1,363 @@
+= Mistrzostwa Świata DN =
+{| class="wikitable"
+! Rok
+! Kraj
+! Miejsce
+! {{trofeum| medal świat| złoty}} Zwycięzca
+! {{trofeum| medal świat| srebrny}} 2. miejsce
+! {{trofeum| medal świat| brązowy}} 3. miejsce
+! Startujących
+|-
+| 1975
+|
+|
+|
+|
+| {{Flaga|POL}} [[Bogdan Kramer]]
+|align=right|
+|-
+| 1976
+| {{Flaga|SWE}} [[Szwecja]]
+| [[Stora Yartin]]
+| {{Flaga|POL}} [[Romuald Knasiecki]]
+| {{Flaga|POL}} Zbigniew Stanisławski
+|
+|align=right|
+|-
+| 1977
+| {{Flaga|USA}} [[Stany Zjednoczone|USA]]
+| [[Saint Michaels]]
+|
+| {{Flaga|POL}} Zbigniew Stanisławski
+|
+|align=right|
+|-
+| 1978
+| {{Flaga|POL}} [[Polska]]
+| [[Krynica Morska]]
+| {{Flaga|POL}} [[Bogdan Kramer]]
+|
+|
+|align=right|
+|-
+| 1979
+| {{Flaga|USA}} [[Stany Zjednoczone|USA]]
+| jezioro [[Champlain (jezioro)|Champlain]]
+| {{Flaga|POL}} [[Piotr Burczyński]]
+|
+| {{Flaga|POL}} Stanisław Macur
+|align=right|
+|-
+| 1980
+|
+|
+|
+|
+|
+|align=right|
+|-
+| 1981
+| {{Flaga|CAN}} [[Kanada]]
+| [[Hamilton Bay]]
+|
+|
+| {{Flaga|POL}} [[Piotr Burczyński]]
+|align=right|
+|-
+| 1982
+|
+|
+|
+|
+|
+|align=right|
+|-
+| 1983
+| {{Flaga|USA}} [[Stany Zjednoczone|USA]]
+| [[Trenton (New Jersey)|Trenton]]
+|
+| {{Flaga|POL}} [[Piotr Burczyński]]
+| {{Flaga|POL}} Stanisław Macur
+|align=right|
+|-
+| 1984
+|
+|
+|
+|
+|
+|align=right|
+|-
+| 1985
+| {{Flaga|USA}} [[Stany Zjednoczone|USA]]
+| [[Bamagat Bay]]
+|
+|
+| {{Flaga|POL}} [[Bogdan Kramer]]
+|align=right|
+|-
+| 1986
+| {{Flaga|USA}} [[Stany Zjednoczone|USA]]
+| jezioro [[St. Clair (jezioro w Ameryce Północnej)|St. Clair]]
+|
+|
+| {{Flaga|POL}} Stanisław Macur
+|align=right|
+|-
+| 1987
+|
+|
+|
+|
+|
+|align=right|
+|-
+| 1988
+| {{Flaga|SUN}} [[Związek Socjalistycznych Republik Radzieckich|ZSRR]]
+| [[Petersburg|Leningrad]]
+|
+| {{Flaga|POL}} [[Piotr Burczyński]]
+|
+|align=right|
+|-
+| 1989
+|
+|
+|
+|
+|
+|align=right|
+|-
+| 1990
+| {{Flaga|SWE}} [[Szwecja]]
+| [[Arsunda]]
+| {{Flaga|POL}} [[Władysław Stefanowicz]]
+|
+|
+|align=right|
+|-
+| 1991
+|
+|
+|
+|
+|
+|align=right|
+|-
+| 1992
+| {{Flaga|SWE}} [[Szwecja]]
+| [[Arsunda]]
+| {{Flaga|POL}} [[Karol Jabłoński]]
+|
+|
+|align=right|
+|-
+| 1993
+| {{Flaga|USA}} [[Stany Zjednoczone|USA]]
+| [[jezioro Genewskie]]
+|
+| {{Flaga|POL}} [[Karol Jabłoński]]
+|
+|align=right|
+|-
+| 1994
+| {{Flaga|POL}} [[Polska]]
+| [[Nieporęt]]
+|
+| {{Flaga|POL}} [[Karol Jabłoński]]
+|
+|align=right|
+|-
+| 1995
+| {{Flaga|CAN}} [[Kanada]]
+| [[Montreal]]
+| {{Flaga|POL}} [[Karol Jabłoński]]
+| {{Flaga|POL}} [[Piotr Burczyński]]
+|
+|align=right|
+|-
+| 1996
+| {{Flaga|AUT}} [[Austria]]
+| [[Wiedeń]]
+| {{Flaga|POL}} [[Karol Jabłoński]]
+|
+|
+|align=right|
+|-
+| 1997
+| {{Flaga|USA}} [[USA]]
+| jezioro [[St. Clair (jezioro w Ameryce Północnej)|St. Clair]]
+| {{Flaga|POL}} [[Karol Jabłoński]]
+|
+|
+|align=right|
+|-
+| 1998
+| {{Flaga|FIN}} [[Finlandia]]
+| [[Pyhajarvi]]
+| 
+|
+| {{Flaga|POL}} [[Piotr Burczyński]]
+|align=right|
+|-
+| 1999
+| {{Flaga|CAN}} [[Kanada]]
+| [[Saint Louis|St. Louis]]
+| 
+|
+| {{Flaga|POL}} [[Michał Burczyński]]
+|align=right|
+|-
+| 2000
+| {{Flaga|SWE}} [[Szwecja]]
+| jezioro [[Hjalmaren]]
+| {{Flaga|POL}} [[Karol Jabłoński]]
+|
+|
+|align=right|
+|-
+| 2001
+| {{Flaga|USA}} [[USA]]
+| [[Saginaw Bay]]
+| {{Flaga|POL}} [[Karol Jabłoński]]
+|
+|
+|align=right|
+|-
+| 2002
+| {{Flaga|EST}} [[Estonia]]
+| [[Haapsalu]]
+| 
+| {{Flaga|POL}} [[Karol Jabłoński]]
+| {{Flaga|POL}} [[Michał Burczyński]]
+|align=right|
+|-
+| 2003
+| {{Flaga|USA}} [[USA]]
+| jezioro [[Champlain (jezioro)|Champlain]]
+| {{Flaga|POL}} [[Karol Jabłoński]]
+|
+|
+|align=right|
+|-
+| 2004
+| {{Flaga|HUN}} [[Węgry]]
+| jezioro [[Balaton]]
+|
+| {{Flaga|POL}} [[Karol Jabłoński]]
+|
+|align=right|
+|-
+| 2005
+|
+|
+|
+|
+|
+|align=right|
+|-
+| 2006
+| {{Flaga|SWE}} [[Szwecja]]
+| [[Nässja]]
+| {{Flaga|POL}} [[Michał Burczyński]]
+| {{Flaga|POL}} [[Łukasz Zakrzewski]]
+|
+|align=right|
+|-
+| 2007
+|
+|
+|
+|
+|
+|align=right|
+|-
+| 2008
+| {{Flaga|CZE}} [[Czechy]]
+| [[Lipno]]
+|
+| {{Flaga|POL}} [[Łukasz Zakrzewski]]
+|
+|align=right|
+|-
+| 2009
+|
+|
+|
+|
+|
+|align=right|
+|-
+| [[Mistrzostwa Świata w Żeglarstwie Lodowym 2010|2010]]
+| {{Flaga|AUT}} [[Austria]]
+| [[Jezioro Nezyderskie|Neusiedler See]]
+| {{Flaga|POL}} [[Michał Burczyński]]
+| {{Flaga|POL}} [[Adam Baranowski]]
+| {{Flaga|POL}} [[Łukasz Zakrzewski]]
+|align=right|
+|-
+| [[Mistrzostwa Świata w Żeglarstwie Lodowym 2011|2011]]
+| {{Flaga|USA}} [[USA]]
+| [[Jezioro Senachwine]]
+|
+| {{Flaga|POL}} [[Michał Burczyński]]
+| {{Flaga|POL}} [[Łukasz Zakrzewski]]
+|align=right|
+|-
+| [[Mistrzostwa Świata w Żeglarstwie Lodowym 2012|2012]]
+| {{Flaga|SWE}} [[Szwecja]]
+| [[Arsunda]]
+| {{Flaga|POL}} [[Tomasz Zakrzewski]]
+|
+|
+|align=right|
+|-
+| [[Mistrzostwa Świata w Żeglarstwie Lodowym 2013|2013]]
+| {{Flaga|USA}} [[USA]]
+| jezioro [[Pepin (jezioro)|Pepin]]
+| {{Flaga|POL}} [[Tomasz Zakrzewski]]
+| {{Flaga|POL}} Robert Graczyk
+|
+|align=right|
+|-
+| [[Mistrzostwa Świata w Żeglarstwie Lodowym 2014|2014]]<ref name="wc2014">{{cytuj stronę|url=http://idniyra.eu/wp-content/uploads/2014/03/World-Championships-2014-Series-Standing-19-races-scored.pdf|tytuł=2014 Gold Cup World DN Championship Results|data=5 marca 2014|opublikowany=idniyra.eu|język=en|data dostępu=5 marca 2014}}</ref>
+| {{Flaga|EST}} [[Estonia]]
+| [[Haapsalu]]
+| {{Flaga|POL}} [[Karol Jabłoński]]
+| {{Flaga|POL}} [[Michał Burczyński]]
+| [[Tomasz Zakrzewski]]
+|align=right|
+|-
+| 2015<ref name="wc2015">{{cytuj stronę|url=http://idniyra.eu/?p=2543|tytuł=Karol Jablonski P-36 wins the 2015 DN World Championships|data=29 styczeń 2015|opublikowany=idniyra.eu|język=en|data dostępu=2 luty 2015}}</ref><ref>{{cytuj stronę|url=http://www.sailingscuttlebutt.com/2015/01/31/karol-jablonski-wins-dn-world-title/|tytuł=Karol Jablonski wins DN World title|data=31 styczeń 2015|opublikowany=sailingscuttlebutt.com|język=en|data dostępu=2 luty 2015}}</ref>
+| {{Flaga|CAN}} [[Kanada]]
+| jezioro [[Ontario (jezioro)|Ontario]]
+| {{Flaga|POL}} [[Karol Jabłoński]]
+| {{Flaga|POL}} Robert Graczyk
+| {{Flaga|POL}} [[Michał Burczyński]]
+|align=right|89
+|-
+| 2016<ref name="wc2016">{{cytuj stronę|url=http://idniyra.eu/the-top-ten-wc-2016/|tytuł=The Champions WC 2016|data=26 stycznia 2016|opublikowany=idniyra.org|język=en|data dostępu=26 stycznia 2017}}</ref><ref name="wc2016pdf">{{cytuj stronę|url=http://idniyra.eu/wp-content/uploads/2016/01/European-Championships-2016-Series-Standing-final.pdf|tytuł=European Championships 2016|data=29 stycznia 2016|opublikowany=idniyra.org|język=en|data dostępu=26 stycznia 2017}}</ref>
+| {{Flaga|SWE}} [[Szwecja]]
+| jezioro [[Glan (jezioro)|Glan]]
+| {{Flaga|POL}} [[Karol Jabłoński]]
+| {{Flaga|POL}} [[Michał Burczyński]]
+| {{Flaga|EST}} Vaiko Voorema
+|align=right|
+|-
+| 2017<ref name="wc2017">{{cytuj stronę|url=http://na.idniyra.org/2017/01/25/dn-worlds-complete-congratulations-karol-jablonski/|tytuł=DN Worlds Complete: Congratulations Karol Jablonski|data=26 stycznia 2017|opublikowany=na.idniyra.org|język=en|data dostępu=26 stycznia 2017}}</ref><ref name="wc2017pl">{{cytuj stronę|url=http://sailing.org.pl/article/zeglarstwo-sportowe/karol-jablonski-11-raz-mistrzem-swiata|tytuł=Karol Jabłoński 11 raz Mistrzem Świata!|data=26 stycznia 2017|opublikowany=sailing.org.pl|język=pl|data dostępu=26 stycznia 2017}}</ref>
+| {{Flaga|USA}} [[Stany Zjednoczone|USA]]
+| jezioro [[Kegonsa (jezioro)|Kegonsa]]
+| {{Flaga|POL}} [[Karol Jabłoński]]
+| {{Flaga|USA}} Matt Struble
+| {{Flaga|POL}} [[Michał Burczyński]]
+|align=right|108
+|-
+|2018<ref name="wc2018dn">{{cytuj stronę|url=https://idniyra.eu/wc2018-results-after-7-races-information-is-provisional-and-subject-to-modification/|tytuł=WC2018 results after 7 races|data=27 luty 2018|opublikowany=idniyra.eu|język=en|data dostępu=27 luty 2018}}</ref><ref name="wc2018pl">{{cytuj stronę|url=http://pya.org.pl/polski-zwiazek-zeglarski/news/karol-jablonski-po-raz-dwunasty-w-karierze-mistrzem-swiata-w-klasie-dn|tytuł=Karol Jabłoński po raz dwunasty w karierze mistrzem świata w klasie DN!|data=27 luty 2018|opublikowany=pya.org.pl|język=pl|data dostępu=27 luty 2018}}</ref>
+| {{Flaga|POL}} [[Polska|POL]]
+| jezioro [[Wielimie]]
+| {{Flaga|POL}} [[Karol Jabłoński]]
+| {{Flaga|POL}} Robert Graczyk
+| {{Flaga|POL}} [[Łukasz Zakrzewski]]
+|align=right|156
+|}
+

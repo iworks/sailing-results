@@ -1,0 +1,148 @@
+==== Polacy na Mistrzostwach Świata ====
+
+{| class="wikitable"
+! Rok
+! Kraj
+! Miejsce
+! Sternik
+! Załogant
+! Miejsce
+! Liczba startujących
+|-
+| 1992<ref name="wc1992" />
+| {{Flaga|ESP}}
+| [[Kadyks]]
+| Andrzej Iwiński
+| Henryk Blaszka
+|align=right|31
+|align=right|67
+|-
+| 1996<ref name="wc1996" />
+| {{Flaga|HUN}}
+| [[Balatonfüred]]
+| Andrzej Iwiński
+| Adam Iwiński
+|align=right|41
+|align=right|81
+|-
+|rowspan=3|1998<ref name="wc1998" />>
+|rowspan=3| {{Flaga|NED}}
+|rowspan=3| [[Den Oever]]
+| Maciek Rokosz
+| Jerzy Jodłowski
+|align=right|43
+|align=right rowspan=3|112
+|-
+|Jacek Śmiałkowski
+|Piotr Tyszkiewicz
+|align=right|89
+|-
+|Krzysztof Witczak
+|Marcin Kledzik
+|align=right|92
+|-
+| 1992<ref name="wc1992" />
+| {{Flaga|ESP}}
+| [[Kadyks]]
+| Andrzej Iwiński
+| Henryk Blaszka
+|align=right|31
+|align=right|67
+|-
+|rowspan=2|2004<ref name="wc2004" />
+|rowspan=2| {{Flaga|DEN}}
+|rowspan=2| [[Warnemünde]]
+| Henryk Blaszka
+| Tomasz Kledzik
+|align=right|27
+|align=right rowspan=2|94
+|-
+| Andrzej Kruszyński
+| Anna Nazar
+|align=right|93
+|-
+|rowspan=3| 2005<ref name="wc2005" />
+|rowspan=3| {{Flaga|HUN}}
+|rowspan=3| [[Balatonföldvár]]
+| Henryk Blaszka
+| Tomasz Kledzik
+|align=right|29
+|align=right rowspan=3|94
+|-
+| Maciej Marcinkiewicz
+| Artur Przybyła
+|align=right|79
+|-
+| Mariusz Moraniec
+| Łukasz Kalamarsz
+|align=right|81
+|-
+| 2006<ref name="wc2006" />
+| {{Flaga|USA}}
+| [[St. Petersburg (Floryda)|St. Petersburg]]
+| Mariusz Moraniec
+| Łukasz Kalamarsz
+|align=right|31
+|align=right|34
+|-
+| 2008<ref name="wc2008" />
+| {{Flaga|NZL}}
+| [[Napier (Nowa Zelandia)|Napier]]
+| Paweł Świderski
+| Marcin Zawistowski
+|align=right|36
+|align=right|46
+|-
+|rowspan=3|2009<ref name="wc2009" />
+|rowspan=3| {{Flaga|NED}}
+|rowspan=3| [[Medemblik]]
+|Ireneusz Pierwola-Gorski
+|Piotr Tyszkiewicz
+|align=right|41
+|align=right rowspan=3|92
+|-
+| Henryk Blaszka
+| Tomasz Kledzik
+|align=right|43
+|-
+| Paweł Świderski
+| Marcin Zawistowski
+|align=right|84
+|-
+|rowspan=3| 2011<ref name="wc2011" />
+|rowspan=3| {{Flaga|ITA}}
+|rowspan=3| [[Malcesine]]
+|Ireneusz Pierwola-Gorski
+|Piotr Tyszkiewicz
+|align=right|30
+|align=right rowspan=3|130
+|-
+| Henryk Blaszka
+| Tomasz Kledzik
+|align=right|47
+|-
+| Paweł Świderski
+| Marcin Zawistowski
+|align=right|116
+|-
+| 2013<ref name="wc2013" />
+| {{Flaga|HUN}}
+| [[Balatonföldvár]]
+| Paweł Świderski
+| Marcin Zawistowski
+|align=right|60
+|align=right|85
+|-
+|rowspan=2| 2017<ref name="wc2017" />
+|rowspan=2| {{Flaga|ITA}}
+|rowspan=2| [[Scarlino]]
+| Maciej Rokosz
+| Piotr Tyszkiewicz
+|align=right|53
+|rowspan=2 align=right|102
+|-
+| Jacek Tyszkiewicz
+| Eric Deleu
+|align=right|65
+|}
+

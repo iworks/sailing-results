@@ -1,0 +1,127 @@
+{| class="wikitable"
+! Rok
+! Kraj
+! Miejsce
+!rowspan=2! {{trofeum| medal świat| złoty}} Zwycięzca
+!rowspan=2! {{trofeum| medal świat| srebrny}} 2. miejsce
+!rowspan=2! {{trofeum| medal świat| brązowy}} 3. miejsce
+! Startujących
+|-
+|-
+| Année !| Lieu !| Nation !| Médaille D'Or !| Bateau
+|-
+| 2014 
+| Berlin (Allemagne) || {{Kraj|POL}} ||| Piotr Ogrodnick, Piotr Petryla, Grzegorz Banaczyk ||| Stawo.Pl, Flyer Proto
+|-
+| 2013 
+| Gdynia (Pologne) || {{Kraj|POL}} ||| Tarnacki Piotr, Becker Rafał, Mongird Krzystof ||| Toyota Nina, L'Arte3
+|-
+| 2012 
+| Traunsee (Autriche) || {{Kraj|POL}} ||| Ogrodnik Piotr, Banaszczyk Grzegorz, Choroba Paweł ||| Stawo.Pl, Flyer Proto
+|-
+| 2011 
+| Lake Usma (Lettonie) || {{Russie}} ||| Tarnacki Piotr, Becker Rafał, Mongird Krzystof ||| Toyota Nina, L'Arte3
+|-
+| 2010 
+| Quiberon (France) || {{Kraj|POL}} ||| Bill Andrew, Taranov Maxim, Tekuchev Mikhail ||| Monte Cristo, Sm 550
+|-
+| 2009
+| Moscou (Russie) || {{Russie}} ||| Neugodnikov Evgeniy, Bill Andrew, Ekimov Alexandr ||| Monte Cristo, Ricochet 559
+|-
+| 2008
+| Sopot (Pologne) || {{Kraj|POL}} ||| Tarnacki Piotr, Chodubski Jerzy, Goralski Bohdan ||| Apia, L’arte 3
+|-
+| 2007
+| Warnemünde (Allemagne) || {{Kraj|POL}} ||| Tarnacki Piotr, Chodubski Jerzy, Goralski Bohdan ||| Soncas, L’arte
+|-
+| 2006 
+| Mèze (France) || {{Kraj|FRA}} ||| Krauth Marcel, Krauth Marc, Beigneux Fabrice ||| Briska Iii, Lucas
+|-
+| 2005
+| Lake Usma (Lettonie) || {{Kraj|POL}} ||| Tarnacki Piotr, Chodubski Jerzy, Wosiński Łukasz ||| Soncas Willa Höpfer, L’arte
+|-
+| 2004
+| Nieuwpoort (Belgique) || {{Kraj|POL}} ||| Tarnacki Piotr, Chodubski Jerzy, Wosiński Łukasz ||| Pol-77, L’arte
+|-
+| 2003
+| Łeba (Pologne) || {{Kraj|POL}} ||| Tarnacki Przemysław, Szmul Michał, Wysocki Jacek ||| Pol-55, L’arte
+|-
+| 2002
+| Achenkirch (Autriche) || {{Kraj|FRA}} ||| Benaben Philippe, Loiselet Matthieu, Nobileau Rémi ||| Platypus Ii, L’arte
+|-
+| 2001 
+| Maubuisson (France) || {{Kraj|POL}} ||| Sawko Stanisław, Tarnacki Piotr, Wysocki Jacek ||| Hempel, L'Arte
+|-
+| 2000
+| Warnemünde (Allemagne) || {{Kraj|POL}} ||| Tarnacki Przemysław, Szmul Michał, Ossowski Marcin ||| Hempel, L'Arte
+|-
+| 1999
+| Gdynia (Pologne) || {{Kraj|POL}} ||| Sawko Stanisław, Domalewski Kazimierz, Tarnacki Przemysław ||| Hempel, L'Arte
+|-
+| 1998 
+| La Londe (France) || {{Kraj|FRA}} ||| Grivel Yves, Fosset Franck ||| Toupideck, Lucas
+|-
+| 1997
+| Traunkirchen (Autriche) || {{Kraj|POL}} ||| Sawko Stanisław, Domalewski Kazimierz, Tarnacki Przemysław ||| Smart, Opus 5500
+|-
+| 1996
+| Grau Du Roi (France) || {{Kraj|FRA}} ||| Krauth Marcel, Krauth Marc, Beigneux Fabrice ||| Briska Iii, Lucas
+|-
+| 1995
+| Bielersee (Suisse) || {{Kraj|POL}} ||| Wröbel Leon ||| Hotel Sobieski, Shanta
+|-
+| 1994
+| Krynica Morska (Pologne) || {{Kraj|POL}} ||| Wröbel Leon ||| Hotel Sobieski, Shanta
+|-
+| 1993
+| Rust (Autriche) || {{Autriche}} ||| Binder Christian ||| Binder
+|-
+| 1992
+| Nieuwpoort (Belgique) ||  ||| Une Seule Manche Courue ||| Pas De Classement
+|-
+| 1991
+| La Londe (France) || {{Kraj|FRA}} ||| Conraux Fred ||| Les Gros, Microbe
+|-
+| 1990 
+| Puck (Pologne) || {{Kraj|FRA}} ||| Jeantheau ||| Rellik-Louvertex, Lucas
+|-
+| 1989 
+| La Baule (France) || {{Kraj|FRA}} ||| Notarantonio, Hafner, Russo ||| Nouchka, Speculation
+|-
+| 1988 
+| Hourtin (France) || {{Kraj|POL}} ||| Kaczorowski Jarosław ||| Kumpelka, Lucas
+|-
+| 1987 
+| Ouistreham (France) || {{Kraj|POL}} ||| Kaczorowski Jarosław ||| Kumpelka, Lucas
+|-
+| 1986 
+| Brest (France) || {{Kraj|FRA}} ||| Lucas Benoît ||| Les Copines, Lucas
+|-
+| 1985 
+| Evian (France) || {{Kraj|FRA}} ||| Delage ||| Elvstrom Grom, Neptune Proto
+|-
+| 1984 
+| Granville (France) || {{Kraj|FRA}} ||| Lucas Benoît ||| Les Copines, Lucas
+|-
+| 1983 
+| La Rochelle (France) || {{Kraj|FRA}} ||| Le Troquer ||| Boatique, Speculation
+|-
+| 1982 
+| Toulon (France) || {{Kraj|FRA}} ||| Russo ||| Boatique, Speculation
+|-
+| 1981 
+| Saint-Malo (France) || {{Kraj|FRA}} ||| Lucas Paul ||| Saumon Futé, Lucas
+|-
+| 1980 
+| Brest (France) || {{Kraj|FRA}} ||| Delage ||| Performance, Neptune
+|-
+| 1979 
+| La Grande Motte (France) || {{Kraj|FRA}} ||| Fauroux ||| Microtune, Neptune Proto
+|-
+| 1978 
+| Deauville (France) || {{Kraj|FRA}} ||| Devillard Gérard ||| Décagone, Edel 2 Proto
+|-
+| 1977 
+| Lorient (France) || {{Kraj|FRA}} ||| Andrieu Daniel, Levaillant L., Dreo T. ||| Alacrem, Cap Baba Proto
+
+|}

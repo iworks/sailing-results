@@ -1,0 +1,25 @@
+==== Standard ====
+
+{| class="wikitable"
+!Rok
+!Miejsce
+!{{trofeum|medal świat|złoty}} Zwycięzca
+!{{trofeum|medal świat|srebrny}} 2. miejsce
+!{{trofeum|medal świat|brązowy}} 3. miejsce
+!Startujących
+|-
+| 2016<ref>{{Cytuj stronę|url=https://zeglarski.info/assets/Pliki-PDF/MP-Omega-31-07-2016-wyniki-Standard.pdf|tytuł=Mistrzostwa Polski o Puchar Juliusza Sieradzkiego w klasie OMEGA Sport i Omega Standard 28-31 lipiec 2016 PUCK|data dostęp=2018-06-28}}</ref>
+| [[Puck]]
+| '''Romulad Knasiecki'''<br />Sebastian Knasiecki<br />Martyna Knasiecka
+| '''Dariusz Błasy'''<br />Dawid Palka<br />Krzysztof Brzezinka
+| '''Janusz Zimer'''<br />Łukasz Nykiel<br />Iwona Nykiel
+|align=right|27
+|-
+| 2017<ref>{{Cytuj stronę | url = https://zeglarski.info/artykuly/mp-w-klasie-omega-2017-bezwietrzny-final-zmagan-na-zatoce-puckiej/ | tytuł = MP w klasie Omega 2017: Bezwietrzny finał zmagań na Zatoce Puckiej | nazwisko = Olejniczak | imię = Dariusz | data = 2017-08-27 | opublikowany = Żeglarski.info | data dostępu = 2018-06-28}}</ref><ref>{{Cytuj stronę | url = https://zeglarski.info/wp-content/uploads/2017/08/MP-2017-Omega-Standard.pdf | tytuł = Wyniki oficjalne z 13:46 August 27, 2017 | data = 2017-08-27 | opublikowany = Żeglarski.info | data dostępu = 2018-06-28}}</ref>
+| [[Puck]]
+| '''Wiktor Kobryń'''<br />Elżbieta Malarz<br />Beniamin Piksa
+| '''Michał Gajda'''<br />Mariusz Kołakowski<br />Maciej Theus
+| '''Radosław Stachurski'''<br />Krzysztof Siuliński<br />Mateusz Kaczmarowski
+|align=right|30
+|}
+

@@ -1,0 +1,2191 @@
+=== Mistrzostwa świata ===
+'''Mistrzostwa świata klasy 505''' to coroczne regaty wyłaniające najlepszych żeglarzy klasy.
+
+{| class="wikitable"
+! Rok
+! Miejsce
+! {{trofeum| medal świat| złoty}} Zwycięzca
+! {{trofeum| medal świat| srebrny}} 2. miejsce
+! {{trofeum| medal świat| brązowy}} 3. miejsce
+! Startujących<ref group="uwaga">W nawiasie podano liczbę krajów.</ref>
+|-
+| 1956
+| {{Państwo|FRA}}<br />[[La Baule-Escoublac]]
+| {{Flaga|FRA}}<br />[[Jacques Lebrun|Jacques Baptiste Lebrun]]<ref>{{Cytuj | url = https://site-isaf.soticcloud.net/biog.php?memberid=116659&js=1 | tytuł = Sailor Biography : Sailors : Jacques Baptiste LEBRUN | opublikowany = World Sailing | język = en | data dostępu = 2018-12-05}}</ref><br />P. Harinkcouck
+|
+|
+|align=right|
+|-
+| 1957<ref name=ISAF_DENPE1>{{cytuj |url=http://www.sailing.org/biog.php?id=DENPE1|tytuł=Paul Elvstrøm – Results|język=en|opublikowany=World Sailing|data dostępu=2018-06-06}}</ref>
+| {{Flaga|FRA}}<br />[[La Baule-Escoublac]]
+| {{Flaga|DEN}}<br />[[Paul Elvstrøm]]<br />Pierre Poullain
+|
+|
+|align=right|
+|-
+| 1958<ref name=ISAF_DENPE1/>
+| {{Państwo|FRA}}<br />[[La Baule-Escoublac]]
+| {{Flaga|DEN}}<br />[[Paul Elvstrøm]]<br />Pierre Poullain
+|
+|
+|align=right|
+|-
+| 1959
+| {{Państwo|IRL}}<br />[[Cork]]
+| {{Flaga|FRA}}<br />Marcel Buffet<br />Patrick Wolff
+|
+|
+|align=right|
+|-
+| 1960
+| {{Państwo|FRA}}<br />[[La Baule-Escoublac]]
+| {{Flaga|FRA}}<br />Marcel Buffet<br />Patrick Wolff
+|
+|
+|align=right|
+|-
+| 1961<ref>{{cytuj |url=https://site-isaf.soticcloud.net/sailors/biog.php?memberid=238506|tytuł=D Doufier – Results|język=en|opublikowany=World Sailing|data dostępu=2018-06-06}}</ref>
+| {{Państwo|GBR}}<br />[[Weymouth]]
+| {{Flaga|FRA}}<br />Jean-Claude Cornu<br />D. Doufier
+|
+|
+|align=right|
+|-
+| 1962
+| {{Państwo|FRA}}<br />[[La Baule-Escoublac]]
+| {{Flaga|GBR}}<br />Keith Paul<br />Bill Moakes
+|
+|
+|align=right|
+|-
+| 1963
+| {{Państwo|USA}}<br />[[Larchmont]]
+| {{Flaga|AUS}} 1505<br />Brian Price<br />Chris Hough
+| {{Flaga|USA}}<br />Henry Schefter<br />Brian Smart
+|
+|align=right|
+|-
+| 1964
+| {{Państwo|IRL}}<br />[[Cork]]
+| {{Flaga|AUS}}<br />John Parrington<br />Chris Hough
+|
+|
+|align=right|
+|-
+| 1965
+| {{Państwo|MAR}}<br />[[Tanger]]
+| {{Flaga|GBR}} 2017<br />Derek Farrant<br />Robin Farrant
+|
+|
+|align=right|
+|-
+| 1966
+| {{Państwo|AUS}}<br />[[Adelaide]]
+| {{Flaga|AUS}} 2230<br />Jim Hardy<br />Max Whitnall
+| 2366<ref>{{Cytuj | url = https://www.int505.org.au/the-5o5/test-item/sail-nos-0-to-6999 | tytuł = Boat Registry - 0 to 6999 | opublikowany = 505 sailing Australia | język = en | data dostępu = 2018-12-05}}</ref><br />{{Flaga|DEN}} [[Paul Elvstrøm]]<br />{{Flaga|AUS}} Malcolm 'Pip' Pearson
+| {{Flaga|AUS}}<br />John B. Cuneo<br />A. Martin
+|align=right|
+|-
+| 1967<ref>{{cytuj |url=https://site-isaf.soticcloud.net/sailors/biog.php?memberid=238509|tytuł=B Moret – Results|język=en|opublikowany=World Sailing|data dostępu=2018-06-06}}</ref>
+| {{Państwo|FRA}}<br />[[La Baule-Escoublac]]
+| {{Flaga|FRA}}<br />B. Moret<br />R. Morch
+|
+|
+|align=right|
+|-
+| 1968<ref>{{cytuj | url = http://origin.sailing.org/regattainfo.php?view=regatta&view=fleetevent&rgtaid=14259&regattaid=14259&evntid=27681#results__14259 | tytuł = 505 World Championship 1968 | opublikowany = ISAF | język = en | data dostępu = 2018-05-28}}</ref><ref>{{cytuj |url=https://drive.google.com/file/d/0B9tnjo_cQvjSSjljc2tiZF9VeUk/view|tytuł=505 World Championship 1968|język=en|data dostępu=2018-06-07}}</ref>
+| {{Państwo|GER}}<br />[[Kilonia]]
+| {{Flaga|FRA}} 3100<br />Marcel Troupel<br />Philippe Lanaverre
+| {{Flaga|FRA}} 2767<br />Yves Pajot<br />Marc Pajot
+| {{Flaga|FRA}} 2940<br />Marcel Buffet<br />Daniel Nottet
+|align=right|75
+|-
+| 1969<ref>{{cytuj  |url= https://drive.google.com/drive/folders/0B9tnjo_cQvjSM1NqTmFhTmhUWkU |język=sv |tytuł=VM 1969 12 – 18 januari |data dostępu=2018-06-07}}</ref>
+| {{Państwo|ARG}}<br />[[Buenos Aires]]
+| {{Flaga|GBR}}<br />Larry Marks<br />Victor Deschamps
+| {{Flaga|IRL}}<br />Cudmore<br />Bruen
+| {{Flaga|ARG}}<br />Domato<br />Sidmann
+|align=right|
+|-
+| 1970<ref>{{cytuj | url = http://origin.sailing.org/regattainfo.php?view=regatta&view=fleetevent&rgtaid=14261&regattaid=14261&evntid=27683#results__14261 | tytuł = 505 World Championship 1970 | opublikowany = ISAF | język = en | data dostępu = 2018-05-28}}</ref>
+| {{Państwo|GBR}}<br />[[Plymouth]]
+| {{Flaga|GBR}}<br />Larry Marks<br />Victor Deschamps
+| {{Flaga|GBR}}<br />Gordon Wilson<br />Philip Wilson
+| {{Flaga|GBR}}<br />Derek Farrant<br />Robin Farrant
+|align=right|
+|-
+| 1971<ref>{{cytuj | url = http://www.sailing.org/regattainfo.php?view=eventoa&rgtaid=14262&regattaid=14262&evntid=27684#results__14262 | tytuł = 505 World Championship 1971 | opublikowany = ISAF | język = en | data dostępu = 2018-05-28}}</ref>
+| {{Państwo|USA}}<br />[[Santa Cruz (Kalifornia)|Santa Cruz]]
+| {{Flaga|GBR}} 4082<br />Derek Farrant<br />Robin Farrant
+| {{Flaga|USA}}<br />Dave Vickland<br />Pingree
+| {{Flaga|GBR}}<br />Peter Bainbridge
+|align=right|
+|-
+| 1972<ref>{{cytuj | url = http://www.sailing.org/regattainfo.php?view=eventoa&rgtaid=14263&regattaid=14263&evntid=27685#results__14263 | tytuł = 505 World Championship 1972 | opublikowany = ISAF | język = en | data dostępu = 2018-05-28}}</ref>
+| {{Państwo|FIN}}<br />[[Hanko]]
+| {{Flaga|FRA}} 4420<br />Nicolas Loday<br />Nicolas Fedorenko
+| {{Flaga|FRA}}<br />Bruno Levesque<br />Jean-Luc Bapst
+| {{Flaga|FIN}}<br />Kari Wilén<br />Jyri Wilén
+|align=right|
+|-
+| 1973<ref>{{Cytuj | url = http://origin.sailing.org/regattainfo.php?view=regatta&view=fleetevent&rgtaid=14264&regattaid=14264&evntid=27686#results__14264 | tytuł = 505 World Championship 1973 | opublikowany = ISAF | język = en | data dostępu = 2018-06-05}}</ref><ref>{{Cytuj | url = https://drive.google.com/drive/folders/0B9tnjo_cQvjSWUdVdWEtdmliT1E | tytuł = 1973: 505 World Champions from Felixstowe Ferry Sailng Club | język = en | data dostępu = 2018-11-13}}</ref>
+| {{Państwo|HKG}}<br />[[Hongkong]]
+| {{Flaga|GBR}} 4689<br />Peter White<br />John Davies
+| {{Flaga|USA}}<br />Dennis Surtees<br />Stephen Owens
+| {{Flaga|FRA}}<br />Yves Pajot<br />Yvon Kergreis
+| align = right | 90
+|-
+| 1974<ref>{{cytuj | url = http://origin.sailing.org/regattainfo.php?view=regatta&view=fleetevent&rgtaid=14265&regattaid=14265&evntid=27687#results__14265 | tytuł = 505 World Championship 1974 | opublikowany = ISAF | język = en | data dostępu = 2018-06-05}}</ref><ref>{{cytuj |url=https://drive.google.com/drive/folders/0B9tnjo_cQvjSNWUxX01ZRDljQlU|tytuł=505 Worlds 1974, Marstrand, Sweden|data dostępu=2018-06-07}}</ref>
+| {{Państwo|SWE}}<br />[[Marstrand]]
+| {{Flaga|FRA}} 4747<br />Yves Pajot<br />Marc Pajot
+| {{Flaga|USA}} 5059<br />Dennis Surtees<br />Stephen Owens
+| {{Flaga|SWE}} 3316<br />Björn Arnesson<br />Göran Andersson
+|align=right|
+|-
+| 1975<ref>{{cytuj | url = http://www.sailing.org/regattainfo.php?view=eventoa&rgtaid=14266&regattaid=14266&evntid=27688#results__14266 | tytuł = 505 World Championship 1975 | opublikowany = ISAF | język = en | data dostępu = 2018-06-05}}</ref>
+| {{Państwo|BMU}}<br />[[Hamilton (Bermudy)|Hamilton]]
+| {{Flaga|GBR}} 5384<br />John Loveday<br />Lewis Dann
+| {{Flaga|FRA}}<br />Jean-Marie Danielou<br />François Richard
+| {{Flaga|FRA}}<br />Marcel Buffet<br />Thierry Desfarges
+|align=right| 69
+|-
+| 1976
+| {{Państwo|AUS}}<br />[[Macquarie (jezioro)|jezioro Macquarie]]
+| {{Flaga|GBR}} 5789<br />Peter Colclough<br />Steve Jones
+| {{Flaga|AUS}}<br />Terry Kyrwood<br />Reg Crick
+| {{Flaga|AUS}}<br />R. Nonris<br />I. Rors
+|align=right|
+|-
+| 1977<ref>{{cytuj | url = http://site-isaf.soticcloud.net/regattainfo.php?view=eventoa&rgtaid=14268&regattaid=14268&evntid=27690#results__14268 | tytuł = 505 World Championship 1977 | opublikowany = ISAF | język = en | data dostępu = 2018-06-05}}</ref>
+| {{Państwo|FRA}}<br />[[La Rochelle]]
+| {{Flaga|GBR}} 6189<br />Peter Colclough<br />Phil Brown
+| {{Flaga|USA}}<br />Ethan Bixby<br />Larry Tuttle
+| {{Flaga|USA}}<br />Steve Taylor<br />Stan Honey
+|align=right|
+|-
+| 1978<ref>{{cytuj | url = http://origin.sailing.org/regattainfo.php?view=regatta&view=fleetevent&rgtaid=14269&regattaid=14269&evntid=27691#results__14269 | tytuł = 505 World Championship 1978 | opublikowany = ISAF | język = en | data dostępu = 2018-06-05}}</ref><ref>{{cytuj|url=https://www.int505.org.au/2015-04-19-20-15-13/results-world-championships/1978-copenhagen-denmark|tytuł=1978 - Copenhagen, Denmark|język=en|data dostępu=2018-11-05}}</ref>
+| {{Państwo|DEN}}<br />[[Kopenhaga]]
+| {{Flaga|GBR}} 6589<br />Peter Colclough<br />Phil Brown
+| {{Flaga|DEN}} 6208<br />[[Jørgen Bojsen-Møller]]<br />Jacob Bojsen-Møller
+| {{Flaga|AUS}} 6213<br />Terry Kyrwood<br />Reg Crick
+|align=right|86
+|-
+| 1979
+| {{Państwo|ZAF}}<br />[[Durban]]
+| {{Flaga|USA}} 6292<br />Steve Taylor<br />David Penfield
+| {{Flaga|USA}}<br />Dennis Surtees<br />Paul Cayard
+| {{Flaga|USA}}<br />Dan Thompson /
+|align=right|
+|-
+| 1980
+| {{Państwo|GBR}}<br />[[wyspa Hayling]]
+| {{Flaga|USA}} 6933<br />Steve Benjamin<br />Tucker Edmundson
+| {{Flaga|USA}}<br />Jon Andron<br />Howie Hamlin
+| {{Flaga|GBR}}<br />Peter Colclough<br />Harold Barnes
+|align=right|
+|-
+| 1981<ref>{{cytuj | url = http://www.sailing.org/regattainfo.php?view=eventoa&rgtaid=14272&regattaid=14272&evntid=27694#results__14272 | tytuł = 505 World Championship 1981 | opublikowany = ISAF | język = en | data dostępu = 2018-06-05}}</ref>
+| {{Państwo|USA}}<br />[[San Francisco]]
+| {{Flaga|USA}} 7093<br />Ethan Bixby<br />Cam Lewis
+| {{Flaga|USA}} 6933<br />Steve Benjamin<br />Tucker Edmundson
+| {{Flaga|DEN}} 7143<br />Jørgen Schønherr<br />Anders Kæmpe
+|align=right|86
+|-
+| 1982
+| {{Państwo|IRL}}<br />[[Cork]]
+| {{Flaga|USA}} 7093<br />Gary Knapp<br />Cam Lewis
+| {{Flaga|GBR}}<br />Peter Colclough<br />Harold Barnes
+| {{Flaga|USA}}<br />Steve Benjamin<br />Tucker Edmundson
+|align=right|
+|-
+| 1983
+| {{Państwo|AUS}}<br />[[Adelaide]]
+| {{Flaga|AUS}} 7517<br />Terry Kyrwood<br />Reg Crick
+| {{Flaga|AUS}}<br />Gary Bruniges<br />Greg Gardiner
+| {{Flaga|AUS}}<br />Geoff Kyrwood<br />Bob Kyrwood
+|align=right|
+|-
+| 1984<ref>{{cytuj | url = http://www.sailing.org/regattainfo.php?view=eventoa&rgtaid=14275&regattaid=14275&evntid=27697#results__14275 | tytuł = 505 World Championship 1984 | opublikowany = ISAF | język = en | data dostępu = 2018-06-05}}</ref>
+| {{Flaga|BRD}}<br />[[Gromitz]]
+| {{Flaga|AUS}} 7481<br />Dean Blatchford<br />Tom Woods
+| {{Flaga|GBR}}<br />Peter Colclough<br />Harold Barnes
+| {{Flaga|USA}}<br />Howie Hamlin<br />Rick Rattray
+|align=right|
+|-
+| 1985<ref>{{cytuj | url = http://www.sailing.org/regattainfo.php?view=eventoa&rgtaid=14276&regattaid=14276&evntid=27698#results__14276 | tytuł = 505 World Championship 1985 | opublikowany = ISAF | język = en | data dostępu = 2018-06-05}}</ref>
+| {{Państwo|JPN}}<br />[[Enoshima]]
+| {{Flaga|AUS}} 7738<br />Gary Bruniges<br />Greg Gardiner
+| {{Flaga|AUS}}<br />Dean Blatchford<br />Tom Woods
+| {{Flaga|GBR}}<br />Peter Colclough<br />Harold Barnes
+|align=right|55
+|-
+| 1986
+| {{Państwo|FRA}}<br />[[La Rochelle]]
+| {{Flaga|GBR}} 7940<br />Peter Colclough<br />Harold Barnes
+| {{Flaga|SWE}}<br />Krister Bergström<br />Magnus Holmberg
+| {{Flaga|SWE}}<br />Jan Bergström<br />Bengt Zachrisson
+|align=right|
+|-
+| 1987<ref>{{cytuj | url = http://www.sailing.org/regattainfo.php?view=eventoa&rgtaid=14278&regattaid=14278&evntid=27700#results__14278 | tytuł = 505 World Championship 1987 | opublikowany = ISAF | język = en | data dostępu = 2018-06-05}}</ref>
+| {{Państwo|FIN}}<br />[[Helsinki]]
+| {{Flaga|SWE}} 7655<br />Krister Bergström<br />Olle Wenrup
+| {{Flaga|DEN}} 8056<br />Jørgen Holm<br />Finn Jensen
+| {{Flaga|AUS}} 7481<br />Dean Blatchford<br />Tom Woods
+|align=right|74<br >(10)
+|-
+| 1988<ref>{{cytuj | url = http://origin.sailing.org/regattainfo.php?view=regatta&view=fleetevent&rgtaid=14279&regattaid=14279&evntid=27701#results__14279 | tytuł = 505 World Championship 1988 | opublikowany = ISAF | język = en | data dostępu = 2018-06-05}}</ref>
+| {{Państwo|AUS}}<br />[[Sydney]]
+| {{Flaga|SWE}} 7655<br />Krister Bergström<br />Olle Wenrup
+| {{Flaga|AUS}} 7481<br />Dean Blatchford<br />Tom Woods
+| {{Flaga|AUS}} 8035<br />Stephen McConaghy<br />Andrew McConaghy
+|align=right|90<br >(11)
+|-
+| 1989
+| {{Państwo|GBR}}<br />[[Felixstowe]]
+| {{Flaga|SWE}} 8211<br />Krister Bergström<br />Per Anders Hallberg
+| {{Flaga|GBR}}<br />Peter Colclough<br />Phil Brown
+| {{Flaga|USA}}<br />Bruce Edwards<br />David Shelton
+|align=right|
+|-
+| 1990<ref>{{cytuj | url = http://www.int505.org/old_site/1990worldsfinalresults.htm | tytuł = 505 World Championships Kingston Ontario, Canada 1990 | opublikowany = International 505 | język = en | data dostępu = 2018-05-28}}</ref><ref>{{cytuj | url = http://www.sailing.org/regattainfo.php?view=eventoa&rgtaid=14281&regattaid=14281&evntid=27703#results__14281 | tytuł = 505 World Championship 1990 | opublikowany = ISAF | język = en | data dostępu = 2018-06-05}}</ref>
+| {{Flaga|CAN}}<br />[[Kingston]]
+| {{Flaga|DEN}} 7956<br />Jørgen Schønherr<br />Anders Kæmpe
+| {{Flaga|FRA}} 8302<br />Philippe Boite<br />Jean-Luc Muzellec
+| {{Flaga|SWE}} 8211<br />Krister Bergström<br />Olle Wenrup
+| align = right | 76
+|-
+| 1991
+| {{Państwo|SWE}}<br />[[Marstrand]]
+| {{Flaga|SWE}} 8211<br />Krister Bergström<br />Per Anders Hallberg
+| {{Flaga|GBR}}<br />Ian Pinnell<br />Mark Darling
+| {{Flaga|DEN}}<br />Jørgen Schønherr<br />Anders Kæmpe
+|align=right|
+|-
+| 1992<ref>{{cytuj | url = https://www.int505.org/old_site/1992worldsfinalresults.htm | tytuł = The 1992 International 505 WORLDS, Santa Cruz/CA | opublikowany = International 505 | język = en | data dostępu = 2018-06-05}}</ref>
+| {{Państwo|USA}}<br />[[Santa Cruz (Kalifornia)|Santa Cruz]]
+| {{Flaga|AUS}} 8405<br />Chris Nicholson<br />Darren Nicholson
+| {{Flaga|DEN}} 8433<br />Jørgen Schønherr<br />Michael Poulsen
+| {{Flaga|USA}} 8266<br />Bruce Edwards<br />David Shelton
+| align = right | 85<br />(11)
+|-
+| 1993
+| {{Państwo|GER}}<br />[[Travemünde]]
+| {{Flaga|GBR}} 8431<br />Ian Barker<br />Tim Hancock
+| {{Flaga|GBR}}<br />Paul Brotherton<br />Bill Masterman
+| {{Flaga|DEN}}<br />Jørgen Schønherr<br />Michael Poulsen
+|align=right|
+|-
+| 1994
+| {{Państwo|ZAF}}<br />[[Durban]]
+| {{Flaga|AUS}} 8522<br />Chris Nicholson<br />Darren Nicholson
+| {{Flaga|GBR}} 8521<br />Ian Barker<br />Tim Hancock
+| {{Flaga|DEN}} 8266<br />Jørgen Schønherr<br />Michael Poulsen
+|align=right|
+|-
+| 1995<ref name="International 505">{{Cytuj | url = https://www.int505.org/old_site/95wrlds.htm | tytuł = Record Turnout at 1995 505 World Championship and Pre-Worlds | nazwisko = Meller | imię = Alexander | język = en | data dostępu = 2018-11-09}}</ref>
+| {{Państwo|GBR}}<br />[[Mount’s Bay]]
+| {{Flaga|GBR}} 8481<br />Jeremy Robinson<br />Bill Masterman
+| {{Flaga|SWE}} 8475<br />Krister Bergström<br />Thomas Moss
+| {{Flaga|SWE}} 8232<br />Ebbe Rosén<br />Olle Wenrup
+| align = right | 106
+|-
+| 1996<ref>{{cytuj|url=https://www.int505.org/old_site/96wart.htm|tytuł=1996 505 World Championship|język=en|data dostępu=2018-11-05}}</ref>
+| {{Państwo|AUS}}<br />[[Townsville]]
+| {{Flaga|GBR}} 8521<br />Paul Towers<br />Dan Johnson
+| {{Flaga|USA}} 8266<br />Howie Hamlin<br />Cam Lewis
+| {{Flaga|GBR}} 8510<br />Ian Barker<br />Daniel Cripps
+|align=right|96
+|-
+| 1997<ref>{{cytuj|url=https://www.int505.org.au/2015-04-19-20-15-13/results-world-championships/1997-gilleleje-denmark|tytuł=1997 - Gilleleje, Denmark|język=en|data=2015-04-19|data dostępu=2018-11-05|opublikowany=505 sailing Australia}}</ref>
+| {{Państwo|DNK}}<br />[[Gilleleje]]
+| {{Flaga|GBR}} 8552<br />Mark Upton-Brown<br />Ian Mitchell
+| {{Flaga|SWE}} 8232<br />Ebbe Rosén<br />Olle Wenrup
+| {{Flaga|USA}} 8266<br />Howie Hamlin<br />Mike Martin
+|align=right|79
+|-
+| 1998<ref>{{Cytuj | url = https://site-isaf.soticcloud.net/regattainfo.php?rgtaid=14289&evntid=27711&view=fleetevent#results__14289 | tytuł = Sea-Land - 505 World Championship | data = 1998-08-21 | opublikowany = ISAF | data dostępu = 2018-11-09}}</ref>
+| {{Państwo|USA}}<br />[[Hyannis]]
+| {{Flaga|USA}} 8610<br />Nick Trotman<br />Mike Mills
+| {{Flaga|USA}} 7771<br />Howie Hamlin<br />Mike Martin
+| {{Flaga|GBR}} 8704<br />Ian Barker<br />Daniel Cripps
+| align = right | 112
+|-
+| 1999<ref>{{cytuj | url = http://www.int505.org/old_site/1999worldsresults.htm#standings | tytuł = The 44th international 505 class World championship | opublikowany = International 505 | język = en | data dostępu = 2018-06-05}}</ref>
+| {{Państwo|FRA}}<br />[[Quiberon]]
+| {{Flaga|USA}} 8266<br />Howie Hamlin<br />Mike Martin
+| {{Flaga|USA}} 7771<br />Andy Beeckman<br />Ben Benjamin
+| {{Flaga|DEN}} 8728<br />Jørgen Schønherr<br />Anders Kæmpe
+| align = right | 137
+|-
+| 2000<ref>{{cytuj | url = http://www.int505.org/old_site/2000worlds/final-results.htm | tytuł = 505 World Championships 2000 – Overall Results | opublikowany = International 505 | język = en | data dostępu = 2018-06-05|data = 2000-11-23}}</ref>
+| {{Państwo|ZAF}}<br />[[Durban]]
+| {{Flaga|SWE}} 8655<br />Krister Bergström<br />Thomas Moss
+| {{Flaga|USA}} 8714<br />Mike Martin<br />Steve Bourdow
+| {{Flaga|USA}} 8266<br />Howie Hamlin<br />Peter Alarie
+| align = right | 56
+|-
+| 2001<ref>{{cytuj | url = http://www.int505.org/old_site/2001worlds/2001505WorldsResults.htm | tytuł = 2001 505 World Championship Results | opublikowany = International 505 | język = en | data dostępu = 2018-06-05|data = 2000-11-23}}</ref>
+| {{Państwo|PRT}}<br />[[Cascais]]
+| {{Flaga|GER}} 8788<br />Wolfgang Hunger<br />Holger Jess
+| {{Flaga|GBR}} 8774<br />Ian Pinnell<br />Tim Hancock
+| {{Flaga|SWE}} 8655<br />Krister Bergström<br />Thomas Moss
+| align = right | 105
+|-
+| 2002<ref>{{cytuj | url = http://www.int505.org/old_site/2002worlds/2002finalresults.htm| tytuł = Final Result for 505 Championship | opublikowany = International 505 | język = en | data dostępu = 2018-06-05|data = 2002-12-14}}</ref>
+| {{Państwo|AUS}}<br />[[Fremantle]]
+| {{Flaga|AUS}} 8804<br />Chris Nicholson<br />Darren Nicholson
+| {{Flaga|USA}} 8714<br />Howie Hamlin<br />Mike Martin
+| {{Flaga|SWE}} 8655<br />Krister Bergström<br />Thomas Moss
+| align=right| 98
+|-
+| 2003<ref>{{cytuj | url = http://www.int505.org/old_site/2003worlds/2003finalresults.htm | tytuł = 2003 Worlds Results | opublikowany = International 505 | język = en | data dostępu = 2018-06-05|data = 2003-08-01}}</ref>
+| {{Państwo|SWE}}<br />[[Malmö]]
+| {{Flaga|GER}} 8826<br />Wolfgang Hunger<br />Holger Jess
+| {{Flaga|SWE}} 8812<br />Krister Bergström<br />Johan Barne
+| {{Flaga|USA}} 8714<br />Howie Hamlin<br />Peter Alarie
+| align = right | 85
+|-
+| 2004<ref>{{Cytuj | url = http://www.int505.org/old_site/2004worlds/2004worldsresults.htm | tytuł = 2004 505 World Championships | data = 2004-08-20 | opublikowany = Santa Cruz Yacht Club | język = en | data dostępu = 2018-11-08}}</ref>
+| {{Państwo|USA}}<br />[[Santa Cruz (Kalifornia)|Santa Cruz]]
+| {{Flaga|USA}} 8854<br />Morgan Larson<br />Trevor Baylis
+| {{Flaga|USA}} 8266<br />Howie Hamlin<br />Peter Alarie
+| {{Flaga|USA}} 8714<br />Mike Martin<br />Jeff Nelson
+| align = right | 102
+|-
+| 2005<ref>{{Cytuj | url = https://www.yachtsandyachting.com/news/18729/CSC-505-worlds-overall | tytuł = CSC 505 Worlds at Rostock Warnemünde, Germany – Overall | opublikowany = Yachts and Yachting Online | język = en | data dostępu = 2018-06-05|data = 2005-08-29}}</ref><ref>{{Cytuj | url = http://www.sailing.org/news/9608.php | tytuł = Third 505 World Championship For HUNGER/JESS | opublikowany = World Sailing| język = en | data dostępu = 2018-06-05|data = 2005-08-29}}</ref><ref>{{Cytuj | url = http://www.int505.org/old_site/2005WorldsResults.htm | tytuł = CSC Int. 505 world championship – Results Worlds | opublikowany = International 505 | język = en | data dostępu = 2018-06-05|data = 2005-08-26}}</ref>
+| {{Państwo|GER}}<br />[[Warnemünde]]
+| {{Flaga|GER}} 8851<br />Wolfgang Hunger<br />Holger Jess
+| {{Flaga|USA}}<br />Mike Martin<br />Jesse Falsone
+| {{Flaga|GER}}<br />Dietrich Scheder-Bieschin<br />Reiner Görge
+|align=right|170
+|-
+| 2006<ref>{{Cytuj | url = http://www.int505.org/old_site/2006WorldsResults.htm | tytuł = Results for CSC 505 World Championships – 2006 Hayling Island SC | opublikowany = International 505 | język = en | data dostępu = 2018-06-05}}</ref><ref>{{cytuj|url=https://www.int505.org.au/2015-04-19-20-15-13/results-world-championships/2006-hayling-island-uk|tytuł=2006 - Hayling Island, UK|data dostępu=2018-11-05|język=en}}</ref>
+| {{Państwo|GBR}}<br />[[wyspa Hayling]]
+| {{Flaga|GBR}} 8908<br />Mark Upton-Brown<br />Ian Mitchell
+| {{Flaga|USA}} 8266<br />Howie Hamlin<br />Jeff Nelson
+| {{Flaga|GER}} 8875<br />Jens Findel<br />Johannes Tellen
+|align=right|113
+|-
+| 2007<ref name="wc2007">{{Cytuj | url = http://www.int505.org/old_site/2007WorldsResults.htm | tytuł = 505 World Championships 2007 Results Race to | opublikowany = International 505 | język = en | data dostępu = 2018-06-05|data = 2007-02-02}}</ref><ref name="wc2007b">{{cytuj|url=https://www.int505.org.au/2015-04-19-20-15-13/results-world-championships/2007-adelaide-australia|tytuł=MŚ 2007 – Results|język=en|opublikowany=World Sailing|data dostępu=2018-06-06}}</ref>
+| {{Państwo|AUS}}<br />[[Adelaide]]
+| {{Flaga|DEN}} 8620<br />Jan Saugmann<br />Morten Ramsbæk
+| {{Flaga|USA}} 8266<br />Howie Hamlin<br />Fritz Lanzinger
+| {{Flaga|AUS}} 8839<br />Sandy Higgins<br />Paul Marsh
+|align=right|92
+|-
+| 2008<ref name="wc2008">{{cytuj | url = https://www.int505.org.au/2015-04-19-20-15-13/results-world-championships/2008-palermo-italy | tytuł = 2008 - Palermo, Italy | język = en | data dostępu = 2018-11-04 }}</ref>
+| {{Państwo|ITA}}<br />[[Palermo]]
+| {{Flaga|GBR}} 8960<br />Ian Pinnell<br />Carl Gibbon
+| {{Flaga|USA}} 8762<br />Howie Hamlin<br />Andy Zinn
+| {{Flaga|GER}} 8957<br />Wolfgang Hunger<br />Julien Kleiner
+|align=right|123
+|-
+| 2009<ref>{{Cytuj | url = https://www.int505.org/events/results/results-world-championships/2009-san-francisco-usa | tytuł = 2009 – San Francisco, USA | data = 2009-08-30 | opublikowany = International 505 | język = en | data dostępu = 2018-08-30}}</ref>
+| {{Państwo|USA}}<br />[[San Francisco]]
+| {{Flaga|USA}} 8714<br />Mike Martin<br />Jeff Nelson
+| {{Flaga|USA}} 9002<br />Mike Holt<br />Carl Smit
+| {{Flaga|AUS}} 8786<br />Chris Nicholson<br />Casey Smith
+|align=right|98
+|-
+| 2010<ref name="wc2010">{{cytuj | url = https://www.sapsailing.com/gwt/Home.html#/regatta/overview/:eventId=ba1f5e28-7552-4277-ac32-e440a3432fb7&regattaId=505%20Worlds%202010 | tytuł = 505 Worlds 2010 | opublikowany = SAP Sailing | język = en | data dostępu = 2018-06-27}}</ref>
+| {{Państwo|DNK}}<br />[[Aarhus]]
+| {{Flaga|GER}} 9027<br />Wolfgang Hunger<br />Julien Kleiner
+| {{Flaga|DEN}} 8962<br />[[Jørgen Bojsen-Møller]]<br />Jacob Bojsen-Møller
+| {{Flaga|GBR}} 9032<br />Ian Pinnell<br />Ian Mitchell
+|align=right|121
+|-
+| 2011<ref name="wc2011">{{cytuj | url = https://www.sapsailing.com/gwt/Home.html#/regatta/overview/:eventId=a10c4fad-c07c-44f5-8241-614a165daae1&regattaId=SAP%20505%20Worlds%202011 | tytuł = 505 Worlds 2011 | opublikowany = SAP Sailing | język = en | data dostępu = 2018-06-27}}</ref>
+| {{Państwo|AUS}}<br />[[Wyspa Hamilton]]
+| {{Flaga|GER}} 9027<br />Wolfgang Hunger<br />Julien Kleiner
+| {{Flaga|USA}} 9002<br />Mike Holt<br />Carl Smit
+| {{Flaga|AUS}} 8946<br />Sandy Higgins<br />Paul Marsh
+|align=right|84
+|-
+| 2012<ref name="wc2012">{{cytuj | url = https://www.sapsailing.com/gwt/Home.html#/regatta/overview/:eventId=64e2b631-1a97-4270-9383-14481c8e960f&regattaId=505%20Worlds%202012 | tytuł = 505 Worlds 2012 | opublikowany = SAP Sailing | język = en | data dostępu = 2018-06-27}}</ref>
+| {{Państwo|FRA}}<br />[[La Rochelle]]
+| 8964<br />{{Flaga|DEN}} Jan Saugmann<br />{{Flaga|GER}} Martin Görge
+| {{Flaga|DEN}}<br />[[Jørgen Bojsen-Møller]]<br />Jacob Bojsen-Møller
+| {{Flaga|GER}}<br />Christian Kellner<br />Martin Schoeler
+|align=right|188
+|-
+| 2013<ref name="wc2013">{{cytuj|url=https://505worlds2013.sapsailing.com/gwt/Home.html#/regatta/overview/:eventId=35dc9389-b59d-4ebd-8f6b-432065642f40&regattaId=505%20Worlds%202013|tytuł=505 Worlds 2013|język=en|data dostępu=2018-11-05|data=2013-05-03}}</ref>
+| {{Państwo|BRB}}<br />Barbados
+| {{Flaga|GER}} 8992<br />Class Lehmann<br />Leon Oehme
+| {{Flaga|GER}} 9035<br />Stefan Boehm<br />Gerald Roos
+| {{Flaga|GER}} 9071<br />Wolfgang Hunger<br />Holger Jess
+|align=right|77
+|-
+| 2014<ref name="wc2014">{{cytuj | url = https://www.sapsailing.com/gwt/Home.html#/regatta/overview/:eventId=94e1e240-8a3d-466b-9f39-419f311eaace&regattaId=505%20Worlds%202014 | tytuł = 505 Worlds 2014 | opublikowany = SAP Sailing | język = en | data dostępu = 2018-06-27}}</ref>
+| {{Państwo|GER}}<br />[[Kilonia]]
+| {{Flaga|USA}} 9072<br />Mike Holt<br />Rob Woelfel
+| {{Flaga|AUS}} 9074<br />Peter Nicholas<br />Luke Payne
+| {{Flaga|GER}} 9071<br />Wolfgang Hunger<br />Julien Kleiner
+|align=right|161
+|-
+| 2015<ref name="wc2015">{{cytuj | url = https://505worlds2015.sapsailing.com/gwt/Home.html?#/regatta/overview/:eventId=b1e78f52-ce52-4b71-ac30-452599faf4a1&regattaId=505%20Worlds%202015 | tytuł = SAP Sailing – 5O5 Worlds 2015 – Overview | opublikowany = SAP Sailing | język = en | data dostępu = 2018-06-05|data = 2015-04-03}}</ref>
+| {{Państwo|ZAF}}<br />[[Port Elizabeth]]
+| {{Flaga|USA}} 9072<br />Mike Holt<br />Carl Smit
+| {{Flaga|GBR}} 9136<br />Ian Pinnell<br />Johannes Tellen
+| {{Flaga|USA}} 9091<br />Ted Conrads<br />Brian Haines
+| align = right | 36
+|-
+| 2016<ref name="wc2016">{{cytuj | url = https://sail1design.com/2016-505-world-championship-results/ | tytuł = 2016 505 World Championship Results | opublikowany = Sail 1 Design | język = en | data dostępu = 2018-06-05|data = 2016-08-06}}</ref>
+| {{Państwo|GBR}}<br />[[Weymouth]]
+| {{Flaga|USA}} 9106<br />Mike Martin<br />Adam Lowry
+| {{Flaga|USA}} 9072<br />Mike Holt<br />Carl Smit
+| {{Flaga|GER}} 9152<br />Wolfgang Hunger<br />Julien Kleiner
+|align=right|130
+|-
+| 2017<ref name="wc2017">{{cytuj | url = https://yachtscoring.com/event_results_cumulative.cfm?eID=4206 | tytuł = SAP 2017 International 5O5 World Championship | opublikowany = Yacht Scoring | język = en | data dostępu = 2018-06-05}}</ref>
+| {{Państwo|USA}}<br />[[Annapolis]]
+| {{Flaga|USA}} 9072<br />Mike Holt<br />Carl Smit
+| {{Flaga|USA}} 9106<br />Mike Martin<br />Adam Lowry
+| {{Flaga|GBR}} 9088<br />Andy Smith<br />Roger Gilbert
+|align=right|87
+|-
+| 2018<ref name="wc2018">{{cytuj | url = https://sap505worlds2018.com/results/worlds | tytuł = Results are final as of 17:12 on July 27, 2018 | data = 2018-07-27 | opublikowany = 505 Worlds 2018 | język = en | data dostępu = 2018-07-28}}</ref>
+| {{Państwo|POL}}<br />[[Gdynia]]
+| {{Flaga|DEU}} 8992<br />Lutz Stengel<br />Holger Jess
+| {{Flaga|USA}} 9072<br />Mike Holt<br />Rob Woelfel
+| {{Flaga|DEU}} 9121<br />Jan-Philipp Hofmann<br />Felix Björn Brockerhoff
+|align=right|127
+|-
+| 2019<ref>{{Cytuj | url = https://www.fsc.com.au/event/505-world-championships/ | tytuł = Fremantle, January 2019: 505 World Championship | opublikowany = Fremantle Sailing Club | język = en | data dostępu = 2018-12-20}}</ref><ref name="wc2019r">{{Cytuj | url = https://505worlds2019.sapsailing.com/gwt/Home.html#/regatta/leaderboard/:eventId=fbfa43cc-ff0d-42b9-96c5-6d218c636a62&regattaId=505%20Worlds%202019 | tytuł = 505 Worlds 2019 - Leaderboard | data = 2019-01-07 | opublikowany = SAP Sailing | język = en | data dostępu = 2019-01-07 }}</ref>
+| {{Państwo|AUS}}<br />[[Fremantle]]
+| {{Flaga|USA}} 9106<br />Mike Martin<br />Adam Lowry 
+| {{Flaga|USA}} 9072<br />Mike Holt<br />Carl Smit
+| {{Flaga|USA}} 9004<br />Parker Shinn<br />Eric Anderson 
+| align = right | 89
+|}
+
+==== Polacy na Mistrzostwach Świata ====
+{| class="wikitable"
+! Rok
+! Kraj
+! Miejsce
+! Sternik
+! Załogant
+! Miejsce
+! Startujących
+|-
+|rowspan=1| 2007<ref name="wc2007b" />
+|rowspan=1| {{Państwo|AUS}}
+|rowspan=1| [[Adelaide]]
+| Jakub Pawluk
+| Piotr Żółtowski
+|align=right|57
+|rowspan=1 align=right|92
+|-
+| rowspan = 3 |2008<ref name="wc2008"/>
+| rowspan = 3 |{{Państwo|Włochy}}
+| rowspan = 3 |[[Palermo]]
+| Marcin Józefowski
+| Jacek Barankiewicz	
+| align=right |75
+| rowspan = 3 align = right|123
+|-
+| Jarosław Grabowski
+| Michał Olko
+| align = right |89
+|-
+| Przemek Zagórski
+| Piotr Juckiewicz
+| align = right |90
+|-
+|rowspan=3| 2014<ref name="wc2014"/>
+|rowspan=3| {{Państwo|DEU}}
+|rowspan=3| [[Kilonia]]
+| Mateusz Jura
+| Bartosz Chroł
+|align=right|104
+|rowspan=3 align=right|161
+|-
+| Karol Milewski
+| Bartosz Milewski
+|align=right|127
+|-
+| Marcin Panek
+| Przemysław Rzepecki
+| align = right |132
+|-
+|rowspan=3| 2016<ref name="wc2016" />
+|rowspan=3| {{Państwo|GBR}}
+|rowspan=3| [[Weymouth]]
+| Karol Milewski
+| Bartosz Milewski
+|align=right|67
+|rowspan=3 align=right|130
+|-
+| Przemek Zagórski
+| Michał Olko
+|align=right|90
+|-
+| Domaski
+| Kacper Kaczmarek
+|align=right|116
+|-
+| 2017<ref name="wc2017" />
+| {{Państwo|USA}}
+| [[Annapolis]]
+| Przemek Zagórski
+| Michał Olko
+|align=right|60
+|align=right|87
+|-
+|rowspan=4| 2018<ref name="wc2018" />
+|rowspan=4| {{Państwo|POL}}
+|rowspan=4| [[Gdynia]]
+| Jakub Pawluk
+| Marcin Józefowski
+|align=right|36
+|rowspan=4 align=right|127
+|-
+| Karol Milewski
+| Bartosz Milewski
+|align=right|46
+|-
+| Mateusz Jura
+| Bartosz Chroł
+|align=right|51
+|-
+|colspan=3|Łącznie wystąpiło 30 polskich załóg.
+|-
+|rowspan=2| 2019<ref name="wc2019r" />
+|rowspan=2| {{Państwo|AUS}}
+|rowspan=2| [[Fremantle]]
+| Jakub Pawluk
+| Marcin Józefowski
+| align = right | 42
+| rowspan = 2 align = right | 89
+|-
+| Przemek Zagórski
+| Michał Olko
+| align = right | 77
+|}
+
+==== Klasyfikacja medalowa ====
+===== Według zawodników =====
+Poniższa tabela zawiera zestawienie zawodników, którzy zdobyli przynajmniej jeden medal mistrzostw świata kasy 505.
+
+{| class="wikitable sortable"
+! Miejsce
+! Zawodnik
+! Państwo
+! Lata<ref group=uwaga>Lata, w których dany zawodnik zdobywał medale mistrzostw świata.</ref>
+! Złoto
+! Srebro
+! Brąz
+! Razem
+|- align = center
+| 1.
+| align = left | Krister Bergström
+| align = left | {{Państwo|SWE}}
+| 1986 – 2003
+| {{Żużel/Kolor|m1}} | 5
+| {{Żużel/Kolor|m2}} | 3
+| {{Żużel/Kolor|m3}} | 3
+| 11
+|- align = center
+| 2.
+| align = left | Wolfgang Hunger
+| align = left | {{Państwo|DEU}}
+| 2001 – 2016
+| {{Żużel/Kolor|m1}} | 5
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 4
+| 9
+|- align = center
+| 3.
+| align = left | Mike Martin
+| align = left | {{Państwo|USA}}
+| 1997 – 2019
+| {{Żużel/Kolor|m1}} | 4
+| {{Żużel/Kolor|m2}} | 5
+| {{Żużel/Kolor|m3}} | 2
+| 11
+|- align = center
+| 4.
+| align = left | Peter Colclough
+| align = left | {{Państwo|GBR}}
+| 1976 – 1989
+| {{Żużel/Kolor|m1}} | 4
+| {{Żużel/Kolor|m2}} | 3
+| {{Żużel/Kolor|m3}} | 2
+| 9
+|- align = center
+| 5.
+| align = left | Holger Jess
+| align = left | {{Państwo|DEU}}
+| 2001 – 2018
+| {{Żużel/Kolor|m1}} | 4
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 5
+|- align = center
+| 6.
+| align = left | Mike Holt
+| align = left | {{Państwo|USA}}
+| 2009 – 2019
+| {{Żużel/Kolor|m1}} | 3
+| {{Żużel/Kolor|m2}} | 5
+| {{Żużel/Kolor|m3}} | 0
+| 8
+|- align = center
+| 7.
+| align = left | Chris Nicholson
+| align = left | {{Państwo|AUS}}
+| 1992 – 2009
+| {{Żużel/Kolor|m1}} | 3
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 4
+|- align = center
+| 8.
+| align = left | Darren Nicholson
+| align = left | {{Państwo|AUS}}
+| 1992 – 2002
+| {{Żużel/Kolor|m1}} | 3
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 3
+|- align = center
+| 9.
+| align = left | Carl Smit
+| align = left | {{Państwo|USA}}
+| 2009 – 2019
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 4
+| {{Żużel/Kolor|m3}} | 0
+| 6
+|- align = center
+| 10.
+| align = left | Olle Wenrup
+| align = left | {{Państwo|SWE}}
+| 1987 – 1997
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 2
+| 5
+|- align = center
+| 11.
+| align = left | {{sortname|Paul|Elvstrøm}}
+| align = left | {{Państwo|DEN}}
+| 1957 – 1966
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 3
+|- align = center
+| 11.
+| align = left | Phil Brown
+| align = left | {{Państwo|GBR}}
+| 1977 – 1989
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 3
+|- align = center
+| 11.
+| align = left | Cam Lewis
+| align = left | {{Państwo|USA}}
+| 1981 – 1996
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 3
+|- align = center
+| 11.
+| align = left | Adam Lowry
+| align = left | {{Państwo|USA}}
+| 2016 – 2019
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 3
+|- align = center
+| 15.
+| align = left | Julien Kleiner
+| align = left | {{Państwo|DEU}}
+| 2008 – 2016
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 3
+| 5
+|- align = center
+| 16.
+| align = left | Marcel Buffet
+| align = left | {{Państwo|FRA}}
+| 1959 – 1975
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 2
+| 4
+|- align = center
+| 17.
+| align = left | Derek Farrant
+| align = left | {{Państwo|GBR}}
+| 1965 – 1971
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 3
+|- align = center
+| 17.
+| align = left | Robin Farrant
+| align = left | {{Państwo|GBR}}
+| 1965 – 1971
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 3
+|- align = center
+| 17.
+| align = left | Ian Mitchell
+| align = left | {{Państwo|GBR}}
+| 1997 – 2010
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 3
+|- align = center
+| 20.
+| align = left | Pierre Poullain
+| align = left | {{Państwo|DEN}}
+| 1957 – 1958
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 2
+|- align = center
+| 20.
+| align = left | Patrick Wolff
+| align = left | {{Państwo|FRA}}
+| 1959 – 1960
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 2
+|- align = center
+| 20.
+| align = left | Chris Hough
+| align = left | {{Państwo|AUS}}
+| 1963 – 1964
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 2
+|- align = center
+| 20.
+| align = left | Larry Marks
+| align = left | {{Państwo|GBR}}
+| 1969 – 1970
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 2
+|- align = center
+| 20.
+| align = left | Victor Deschamps
+| align = left | {{Państwo|GBR}}
+| 1969 – 1970
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 2
+|- align = center
+| 20.
+| align = left | Per Anders Hallberg
+| align = left | {{Państwo|SWE}}
+| 1989 – 1991
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 2
+|- align = center
+| 20.
+| align = left | Mark Upton-Brown
+| align = left | {{Państwo|GBR}}
+| 1997 – 2006
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 2
+|- align = center
+| 20.
+| align = left | Jan Saugmann
+| align = left | {{Państwo|DEN}}
+| 2007 – 2012
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 2
+|- align = center
+| 28.
+| align = left | Howie Hamlin
+| align = left | {{Państwo|USA}}
+| 1980 – 2008
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 8
+| {{Żużel/Kolor|m3}} | 4
+| 13
+|- align = center
+| 29.
+| align = left | Ian Pinnell
+| align = left | {{Państwo|GBR}}
+| 1991 – 2015
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 3
+| {{Żużel/Kolor|m3}} | 1
+| 5
+|- align = center
+| 30.
+| align = left | Harold Barnes
+| align = left | {{Państwo|GBR}}
+| 1980 – 1986
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 2
+| {{Żużel/Kolor|m3}} | 2
+| 5
+|- align = center
+| 31.
+| align = left | Dean Blatchford
+| align = left | {{Państwo|AUS}}
+| 1984 – 1988
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 2
+| {{Żużel/Kolor|m3}} | 1
+| 4
+|- align = center
+| 31.
+| align = left | Tom Woods
+| align = left | {{Państwo|AUS}}
+| 1984 – 1988
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 2
+| {{Żużel/Kolor|m3}} | 1
+| 4
+|- align = center
+| 33.
+| align = left | Tim Hancock
+| align = left | {{Państwo|GBR}}
+| 1993 – 2001
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 2
+| {{Żużel/Kolor|m3}} | 0
+| 3
+|- align = center
+| 34.
+| align = left | Jørgen Schønherr
+| align = left | {{Państwo|DEN}}
+| 1981 – 1999
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 5
+| 7
+|- align = center
+| 35.
+| align = left | Ian Barker
+| align = left | {{Państwo|GBR}}
+| 1993 – 1998
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 2
+| 4
+|- align = center
+| 35.
+| align = left | Thomas Moss
+| align = left | {{Państwo|SWE}}
+| 1995 – 2002
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 2
+| 4
+|- align = center
+| 37.
+| align = left | Yves Pajot
+| align = left | {{Państwo|FRA}}
+| 1968 – 1974
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 1
+| 3
+|- align = center
+| 37.
+| align = left | Reg Crick
+| align = left | {{Państwo|AUS}}
+| 1976 – 1983
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 1
+| 3
+|- align = center
+| 37.
+| align = left | Terry Kyrwood
+| align = left | {{Państwo|AUS}}
+| 1976 – 1983
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 1
+| 3
+|- align = center
+| 37.
+| align = left | Steve Benjamin
+| align = left | {{Państwo|USA}}
+| 1980 – 1982
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 1
+| 3
+|- align = center
+| 37.
+| align = left | Tucker Edmundson
+| align = left | {{Państwo|USA}}
+| 1980 – 1982
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 1
+| 3
+|- align = center
+| 37.
+| align = left | Jeff Nelson
+| align = left | {{Państwo|USA}}
+| 2004 – 2009
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 1
+| 3
+|- align = center
+| 43.
+| align = left | Marc Pajot
+| align = left | {{Państwo|FRA}}
+| 1968 – 1974
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 2
+|- align = center
+| 43.
+| align = left | Ethan Bixby
+| align = left | {{Państwo|USA}}
+| 1977 – 1981
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 2
+|- align = center
+| 43.
+| align = left | Gary Bruniges
+| align = left | {{Państwo|AUS}}
+| 1983 – 1985
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 2
+|- align = center
+| 43.
+| align = left | Greg Gardiner
+| align = left | {{Państwo|AUS}}
+| 1983 – 1985
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 2
+|- align = center
+| 43.
+| align = left | Bill Masterman
+| align = left | {{Państwo|GBR}}
+| 1993 – 1995
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 2
+|- align = center
+| 43.
+| align = left | Rob Woelfel
+| align = left | {{Państwo|USA}}
+| 2014 – 2018
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 2
+|- align = center
+| 49.
+| align = left | Anders Kæmpe
+| align = left | {{Państwo|DEN}}
+| 1981 – 1999
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 3
+| 4
+|- align = center
+| 50.
+| align = left | Steve Taylor
+| align = left | {{Państwo|USA}}
+| 1977 – 1979
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 2
+|- align = center
+| 51.
+| align = left | {{sortname|Jacques|Baptiste|Lebrun|Jacques Lebrun}}
+| align = left | {{Państwo|FRA}}
+| 1956
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | P. Harinkcouck
+| align = left | {{Państwo|FRA}}
+| 1956
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | D. Doufier
+| align = left | {{Państwo|FRA}}
+| 1961
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Jean-Claude Cornu
+| align = left | {{Państwo|FRA}}
+| 1961
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Bill Moakes
+| align = left | {{Państwo|GBR}}
+| 1962
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Keith Paul
+| align = left | {{Państwo|GBR}}
+| 1962
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Brian Price
+| align = left | {{Państwo|AUS}}
+| 1963
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | John Parrington
+| align = left | {{Państwo|AUS}}
+| 1964
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Jim Hardy
+| align = left | {{Państwo|AUS}}
+| 1966
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Max Whitnall
+| align = left | {{Państwo|AUS}}
+| 1966
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | B. Moret
+| align = left | {{Państwo|FRA}}
+| 1967
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | R. Morch
+| align = left | {{Państwo|FRA}}
+| 1967
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Marcel Troupel
+| align = left | {{Państwo|FRA}}
+| 1968
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Philippe Lanaverre
+| align = left | {{Państwo|FRA}}
+| 1968
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Nicolas Fedorenko
+| align = left | {{Państwo|FRA}}
+| 1972
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Nicolas Loday
+| align = left | {{Państwo|FRA}}
+| 1972
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | John Davies
+| align = left | {{Państwo|GBR}}
+| 1973
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Peter White
+| align = left | {{Państwo|GBR}}
+| 1973
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | John Loveday
+| align = left | {{Państwo|GBR}}
+| 1975
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Lewis Dann
+| align = left | {{Państwo|GBR}}
+| 1975
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Steve Jones
+| align = left | {{Państwo|GBR}}
+| 1976
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | David Penfield
+| align = left | {{Państwo|USA}}
+| 1979
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Gary Knapp
+| align = left | {{Państwo|USA}}
+| 1982
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Jeremy Robinson
+| align = left | {{Państwo|GBR}}
+| 1995
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Dan Johnson
+| align = left | {{Państwo|GBR}}
+| 1996
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Paul Towers
+| align = left | {{Państwo|GBR}}
+| 1996
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Mike Mills
+| align = left | {{Państwo|USA}}
+| 1998
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Nick Trotman
+| align = left | {{Państwo|USA}}
+| 1998
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Morgan Larson
+| align = left | {{Państwo|USA}}
+| 2004
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Trevor Baylis
+| align = left | {{Państwo|USA}}
+| 2004
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Morten Ramsbæk
+| align = left | {{Państwo|DEU}}
+| 2007
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Carl Gibbon
+| align = left | {{Państwo|GBR}}
+| 2008
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Martin Görge
+| align = left | {{Państwo|DEN}}
+| 2012
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Class Lehmann
+| align = left | {{Państwo|DEU}}
+| 2013
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Leon Oehme
+| align = left | {{Państwo|DEU}}
+| 2013
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 51.
+| align = left | Lutz Stengel
+| align = left | {{Państwo|DEU}}
+| 2018
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 87.
+| align = left | Dennis Surtees
+| align = left | {{Państwo|USA}}
+| 1973 – 1979
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 3
+| {{Żużel/Kolor|m3}} | 0
+| 3
+|- align = center
+| 87.
+| align = left | Jacob Bojsen-Møller
+| align = left | {{Państwo|DEN}}
+| 1978 – 2012
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 3
+| {{Żużel/Kolor|m3}} | 0
+| 3
+|- align = center
+| 87.
+| align = left | {{sortname|Jørgen|Bojsen-Møller}}
+| align = left | {{Państwo|DEN}}
+| 1978 – 2012
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 3
+| {{Żużel/Kolor|m3}} | 0
+| 3
+|- align = center
+| 90.
+| align = left | Stephen Owens
+| align = left | {{Państwo|USA}}
+| 1973 – 1974
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 2
+| {{Żużel/Kolor|m3}} | 0
+| 2
+|- align = center
+| 91.
+| align = left | Michael Poulsen
+| align = left | {{Państwo|DEN}}
+| 1992 – 1994
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 2
+| 3
+|- align = center
+| 91.
+| align = left | Peter Alarie
+| align = left | {{Państwo|USA}}
+| 2000 – 2004
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 2
+| 3
+|- align = center
+| 93.
+| align = left | Ebbe Rosén
+| align = left | {{Państwo|SWE}}
+| 1995 – 1997
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 1
+| 2
+|- align = center
+| 93.
+| align = left | Johannes Tellen
+| align = left | {{Państwo|DEU}}
+| 2006 – 2015
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 1
+| 2
+|- align = center
+| 95.
+| align = left | Brian Smart
+| align = left | {{Państwo|USA}}
+| 1963
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Henry Schefter
+| align = left | {{Państwo|USA}}
+| 1963
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Malcolm 'Pip' Pearson
+| align = left | {{Państwo|AUS}}
+| 1966
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Bruen
+| align = left | {{Państwo|IRL}}
+| 1969
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Cudmore
+| align = left | {{Państwo|IRL}}
+| 1969
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Gordon Wilson
+| align = left | {{Państwo|GBR}}
+| 1970
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Philip Wilson
+| align = left | {{Państwo|GBR}}
+| 1970
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Dave Vickland
+| align = left | {{Państwo|USA}}
+| 1971
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Pingree
+| align = left | {{Państwo|USA}}
+| 1971
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Bruno Levesque
+| align = left | {{Państwo|FRA}}
+| 1972
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Jean-Luc Bapst
+| align = left | {{Państwo|FRA}}
+| 1972
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | François Richard
+| align = left | {{Państwo|FRA}}
+| 1975
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Jean-Marie Danielou
+| align = left | {{Państwo|FRA}}
+| 1975
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Larry Tuttle
+| align = left | {{Państwo|USA}}
+| 1977
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Paul Cayard
+| align = left | {{Państwo|USA}}
+| 1979
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Jon Andron
+| align = left | {{Państwo|USA}}
+| 1980
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Magnus Holmberg
+| align = left | {{Państwo|SWE}}
+| 1986
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Finn Jensen
+| align = left | {{Państwo|DEN}}
+| 1987
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Jørgen Holm
+| align = left | {{Państwo|DEN}}
+| 1987
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Jean-Luc Muzellec
+| align = left | {{Państwo|FRA}}
+| 1990
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Philippe Boite
+| align = left | {{Państwo|FRA}}
+| 1990
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Mark Darling
+| align = left | {{Państwo|GBR}}
+| 1991
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Paul Brotherton
+| align = left | {{Państwo|GBR}}
+| 1993
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Andy Beeckman
+| align = left | {{Państwo|USA}}
+| 1999
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Ben Benjamin
+| align = left | {{Państwo|USA}}
+| 1999
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Steve Bourdow
+| align = left | {{Państwo|USA}}
+| 2000
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Johan Barne
+| align = left | {{Państwo|SWE}}
+| 2003
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Jesse Falsone
+| align = left | {{Państwo|USA}}
+| 2005
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Fritz Lanzinger
+| align = left | {{Państwo|USA}}
+| 2007
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Andy Zinn
+| align = left | {{Państwo|USA}}
+| 2008
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Gerald Roos
+| align = left | {{Państwo|DEU}}
+| 2013
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Stefan Boehm
+| align = left | {{Państwo|DEU}}
+| 2013
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Luke Payne
+| align = left | {{Państwo|AUS}}
+| 2014
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 95.
+| align = left | Peter Nicholas
+| align = left | {{Państwo|AUS}}
+| 2014
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 129.
+| align = left | Bruce Edwards
+| align = left | {{Państwo|USA}}
+| 1989 – 1992
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 2
+| 2
+|- align = center
+| 129.
+| align = left | David Shelton
+| align = left | {{Państwo|USA}}
+| 1989 – 1992
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 2
+| 2
+|- align = center
+| 129.
+| align = left | Daniel Cripps
+| align = left | {{Państwo|GBR}}
+| 1996 – 1998
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 2
+| 2
+|- align = center
+| 129.
+| align = left | Paul Marsh
+| align = left | {{Państwo|AUS}}
+| 2007 – 2011
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 2
+| 2
+|- align = center
+| 129.
+| align = left | Sandy Higgins
+| align = left | {{Państwo|AUS}}
+| 2007 – 2011
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 2
+| 2
+|- align = center
+| 134.
+| align = left | A. Martin
+| align = left | {{Państwo|AUS}}
+| 1966
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | John B. Cuneo
+| align = left | {{Państwo|AUS}}
+| 1966
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Daniel Nottet
+| align = left | {{Państwo|FRA}}
+| 1968
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Domato
+| align = left | {{Państwo|ARG}}
+| 1969
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Sidmann
+| align = left | {{Państwo|ARG}}
+| 1969
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Peter Bainbridge
+| align = left | {{Państwo|GBR}}
+| 1971
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Jyri Wilén
+| align = left | {{Państwo|FIN}}
+| 1972
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Kari Wilén
+| align = left | {{Państwo|FIN}}
+| 1972
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Yvon Kergreis
+| align = left | {{Państwo|FRA}}
+| 1973
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Björn Arnesson
+| align = left | {{Państwo|SWE}}
+| 1974
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Göran Andersson
+| align = left | {{Państwo|SWE}}
+| 1974
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Thierry Desfarges
+| align = left | {{Państwo|FRA}}
+| 1975
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | I. Rors
+| align = left | {{Państwo|AUS}}
+| 1976
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | R. Nonris
+| align = left | {{Państwo|AUS}}
+| 1976
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Stan Honey
+| align = left | {{Państwo|USA}}
+| 1977
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Dan Thompson
+| align = left | {{Państwo|USA}}
+| 1979
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Bob Kyrwood
+| align = left | {{Państwo|AUS}}
+| 1983
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Geoff Kyrwood
+| align = left | {{Państwo|AUS}}
+| 1983
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Rick Rattray
+| align = left | {{Państwo|USA}}
+| 1984
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Bengt Zachrisson
+| align = left | {{Państwo|SWE}}
+| 1986
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Jan Bergström
+| align = left | {{Państwo|SWE}}
+| 1986
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Andrew McConaghy
+| align = left | {{Państwo|AUS}}
+| 1988
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Stephen McConaghy
+| align = left | {{Państwo|AUS}}
+| 1988
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Dietrich Scheder-Bieschin
+| align = left | {{Państwo|DEU}}
+| 2005
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Reiner Görge
+| align = left | {{Państwo|DEU}}
+| 2005
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Jens Findel
+| align = left | {{Państwo|DEU}}
+| 2006
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Casey Smith
+| align = left | {{Państwo|AUS}}
+| 2009
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Christian Kellner
+| align = left | {{Państwo|DEU}}
+| 2012
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Martin Schoeler
+| align = left | {{Państwo|DEU}}
+| 2012
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Brian Haines
+| align = left | {{Państwo|USA}}
+| 2015
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Ted Conrads
+| align = left | {{Państwo|USA}}
+| 2015
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Andy Smith
+| align = left | {{Państwo|GBR}}
+| 2017
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Roger Gilbert
+| align = left | {{Państwo|GBR}}
+| 2017
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Felix Björn Brockerhoff
+| align = left | {{Państwo|DEU}}
+| 2018
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Jan-Philipp Hofmann
+| align = left | {{Państwo|DEU}}
+| 2018
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Eric Anderson
+| align = left | {{Państwo|USA}}
+| 2019
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 134.
+| align = left | Parker Shinn
+| align = left | {{Państwo|USA}}
+| 2019
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|}
+
+===== Według państw =====
+W poniższej tabeli przedstawione zostały państwa, których reprezentanci zdobyli przynajmniej jeden medal mistrzostw świata klasy 5O5.
+
+{| class="wikitable sortable"
+! Miejsce
+! Państwo
+! Złoto
+! Srebro
+! Brąz
+! Razem
+|- align |- align = center
+| 1.
+| align = left | {{Państwo|GBR}}
+| {{Żużel/Kolor|m1}} | 17
+| {{Żużel/Kolor|m2}} | 9
+| {{Żużel/Kolor|m3}} | 8
+| 34
+|- align = center
+| 2.
+| align = left | {{Państwo|USA}}
+| {{Żużel/Kolor|m1}} | 13
+| {{Żużel/Kolor|m2}} | 24
+| {{Żużel/Kolor|m3}} | 12
+| 49
+|- align = center
+| 3.
+| align = left | {{Państwo|AUS}}
+| {{Żużel/Kolor|m1}} | 9
+| {{Żużel/Kolor|m2}} | 6
+| {{Żużel/Kolor|m3}} | 9
+| 24
+|- align = center
+| 4.
+| align = left | {{Państwo|FRA}}
+| {{Żużel/Kolor|m1}} | 8
+| {{Żużel/Kolor|m2}} | 4
+| {{Żużel/Kolor|m3}} | 3
+| 15
+|- align = center
+| 5.
+| align = left | {{Państwo|DEU}}
+| {{Żużel/Kolor|m1}} | 8
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 8
+| 17
+|- align = center
+| 6.
+| align = left | {{Państwo|SWE}}
+| {{Żużel/Kolor|m1}} | 5
+| {{Żużel/Kolor|m2}} | 4
+| {{Żużel/Kolor|m3}} | 6
+| 15
+|- align = center
+| 7.
+| align = left | {{Państwo|DEN}}
+| {{Żużel/Kolor|m1}} | 4
+| {{Żużel/Kolor|m2}} | 5
+| {{Żużel/Kolor|m3}} | 5
+| 14
+|- align = center
+| 8.
+| align = left | {{Państwo|IRL}}
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 9.
+| align = left | {{Państwo|ARG}}
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 10.
+| align = left | {{Państwo|FIN}}
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|}

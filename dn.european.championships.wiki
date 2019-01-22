@@ -1,0 +1,407 @@
+=== Mistrzostwa Europy ===
+
+Przypisy<ref name="ecrw">{{cytuj|url=https://www.idniyra.org/racing/championship-history/european-championship-history/|tytuł=European Championship Regatta Winners|data dostępu=2018-10-31|język=en}}</ref>
+
+{| class="wikitable"
+! Rok
+! Kraj
+! Miejsce
+! {{trofeum| medal świat| złoty}} Zwycięzca
+! {{trofeum| medal świat| srebrny}} 2. miejsce
+! {{trofeum| medal świat| brązowy}} 3. miejsce
+! Startujących
+|-
+| 1966
+| {{Państwo|Austria}}
+| [[Neusiedlam See]]
+| {{Flaga|NED}} Kess Kortenoever
+|
+|
+| align = right |
+|-
+| 1967
+| {{Państwo|Szwecja}}
+| [[Stora Värtan]]
+| {{Flaga|NED}} Bouw van Wijik
+|
+|
+| align = right |
+|-
+| 1968
+| {{Państwo|Austria}}
+| [[Podersdorf am See]]
+| {{Flaga|NED}} Bouw van Wijik
+|
+|
+| align = right |
+|-
+| 1969
+| {{Państwo|BRD}}
+| [[Steinhude Meer]]
+| {{Flaga|NED}} Jan Eindhoven
+|
+|
+| align = right |
+|-
+| 1970
+| colspan = 6 | ''Regaty się nie odbyły.''
+|-
+| 1971
+| {{Państwo|Holandia}}
+| [[Monnikendam]]
+| {{Flaga|SUN}} Endel Vooremaa
+|
+|
+| align = right |
+|-
+| 1972
+| {{Państwo|Szwecja}}
+| [[Gottskar]]
+| {{Flaga|SUN}} Endel Vooremaa
+|
+|
+| align = right |
+|-
+| 1973
+| {{Państwo|PRL}}
+| [[Giżycko]]
+| {{Flaga|SUN}} Endel Vooremaa
+|
+|
+| align = right |
+|-
+| 1974
+| colspan = 6 | ''Regaty się nie odbyły.''
+|-
+| 1975
+| colspan = 6 | ''Regaty się nie odbyły.''
+|-
+| 1976
+| {{Państwo|Szwecja}}
+| [[Stora Värtan]]
+| {{Flaga|SWE}} Ole Bloomquist
+|
+|
+| align = right |
+|-
+| 1977
+| {{Państwo|PRL}}
+| [[Krynica Morska]]
+| {{Flaga|PRL}} [[Piotr Burczyński]]
+|
+|
+| align = right |
+|-
+| 1978
+| {{Państwo|PRL}}
+| [[Krynica Morska]]
+| {{Flaga|SUN}} Vello Kuusk
+| {{Flaga|PRL}} [[Bogdan Kramer]]
+|
+| align = right |
+|-
+| 1979
+| {{Państwo|Austria}}
+| [[Jezioro Nezyderskie]]
+| {{Flaga|BRD}} Robert Ettl
+|
+| {{Flaga|PRL}} [[Bogdan Kramer]]
+| align = right |
+|-
+| 1980
+| {{Państwo|Szwecja}}
+| [[Yasteras]]
+| {{Flaga|PRL}} [[Bogdan Kramer]]
+|
+|
+| align = right |
+|-
+| 1981
+| {{Państwo|Szwecja}}
+| [[Vänersborg|Vanersborg]]
+| {{Flaga|PRL}} [[Bogdan Kramer]]
+|
+| {{Flaga|PRL}} Stanisław Macur
+| align = right |
+|-
+| 1982
+| {{Państwo|BRD}}
+| [[Hanower]]
+| {{Flaga|SUN}} Matti Kuulmann
+| {{Flaga|PRL}} [[Piotr Burczyński]]
+|
+| align = right |
+|-
+| 1983
+| {{Państwo|Szwecja}}
+| [[Västerås]]
+| {{Flaga|SUN}} Vaiko Voorema
+| {{Flaga|PRL}} [[Piotr Burczyński]]
+| {{Flaga|PRL}} [[Bogdan Kramer]]
+| align = right |
+|-
+| 1984
+| {{Flaga|PRL}} [[Polska]]
+| [[Krynica Morska]]
+| {{Flaga|PRL}} [[Bogdan Kramer]]
+|
+| {{Flaga|PRL}} [[Piotr Burczyński]]
+| align = right |
+|-
+| 1985
+| {{Państwo|Szwecja}}
+| [[Gränna]]
+| {{Flaga|SUN}} Vaiko Voorema
+| {{Flaga|PRL}} [[Karol Jabłoński]]
+| {{Flaga|PRL}} [[Piotr Burczyński]]
+| align = right |
+|-
+| 1986
+| colspan = 6 | ''Regaty się nie odbyły.''
+|-
+| 1987
+| {{Państwo|Szwecja}}
+| [[Kungsbacka]]
+| {{Flaga|PRL}} [[Władysław Stefanowicz]]
+| {{Flaga|PRL}} [[Piotr Burczyński]]
+|
+| align = right |
+|-
+| 1988
+| {{Państwo|SUN}}
+| [[Petersburg|Leningrad]]
+| {{Flaga|PRL}} [[Piotr Burczyński]]
+| {{Flaga|PRL}} Andrzej Dalecki
+|
+| align = right |
+|-
+| 1989
+| {{Państwo|Finlandia}}
+| [[Vasa]]
+| {{Flaga|PRL}} [[Piotr Burczyński]]
+|
+| {{Flaga|PRL}} Stanisław Macur
+| align = right |
+|-
+| 1990
+| {{Państwo|Szwecja}}
+| [[Arsunda]]
+| {{Flaga|SWE}} Soren Snackestrom
+| {{Flaga|POL}} [[Władysław Stefanowicz]]
+|
+| align = right |
+|-
+| 1991
+| {{Państwo|Estonia}}
+| [[Haapsalu]]
+| {{Flaga|EST}} Matti Kuulmann
+|
+|
+| align = right |
+|-
+| 1992
+| {{Państwo|Szwecja}}
+| [[Arsunda]]
+| {{Flaga|POL}} [[Karol Jabłoński]]
+| {{Flaga|POL}} Andrzej Dalecki
+| {{Flaga|POL}} [[Władysław Stefanowicz]]
+| align = right |
+|-
+| 1993
+| {{Państwo|Szwecja}}
+| [[Sundbyholm]]
+| {{Flaga|POL}} Stanisław Macur
+|
+|
+| align = right |
+|-
+| 1994
+| colspan = 6 | ''Regaty się nie odbyły.''
+|-
+| 1995
+| {{Państwo|Szwecja}}
+| [[Vasteras Maeleren]]
+| {{Flaga|EST}} Vaiko Vooremaa
+|
+|
+| align = right |
+|-
+| 1996
+| {{Państwo|Austria}}
+| [[Salzburg]]
+| {{Flaga|SWE}} Thomas Karlsson
+| {{Flaga|POL}} [[Karol Jabłoński]]
+|
+| align = right |
+|-
+| 1997
+| {{Państwo|Szwecja}}
+| [[Växjö]]
+| {{Flaga|SWE}} Thomas Karlsson
+| {{Flaga|POL}} [[Karol Jabłoński]]
+|
+| align = right |
+|-
+| 1998
+| {{Państwo|Finlandia}}
+| [[Säkylä]]
+| {{Flaga|SWE}} Thomas Karlsson
+| {{Flaga|POL}} [[Karol Jabłoński]]
+| align = right |
+|-
+| 1999
+| {{Państwo|Polska}}
+| [[Giżycko]]
+| {{Flaga|SWE}} Tomas Lindgren
+| {{Flaga|POL}} [[Karol Jabłoński]]
+|
+| align = right |
+|-
+| 2000
+| {{Państwo|Szwecja}}
+| [[Örebro]]
+| {{Flaga|DEU}} Bernd Zeiger
+|
+| {{Flaga|POL}} [[Karol Jabłoński]]
+| align = right |
+|-
+| 2001
+| {{Państwo|Czechy}}
+| [[Lipno]]
+| {{Flaga|POL}} [[Karol Jabłoński]]
+| {{Flaga|POL}} [[Michał Burczyński]]
+|
+| align = right |
+|-
+| 2002
+| {{Państwo|Estonia}}
+| [[Haapsalu]]
+| {{Flaga|POL}} [[Karol Jabłoński]]
+| {{Flaga|POL}} [[Michał Burczyński]]
+|
+| align = right |
+|-
+| 2003
+| {{Państwo|Szwecja}}
+| [[Ekerö]]
+| {{Flaga|SWE}} Thomas Karlsson
+|
+| {{Flaga|POL}} [[Michał Burczyński]]
+| align = right |
+|-
+| 2004
+| {{Państwo|Węgry}}
+| jezioro [[Balaton]]
+| {{Flaga|POL}} [[Michał Burczyński]]
+|
+| {{Flaga|POL}} [[Karol Jabłoński]]
+| align = right |
+|-
+| 2005
+| {{Państwo|Finlandia}}
+| [[Lomasakykä]]
+| {{Flaga|POL}} [[Michał Burczyński]]
+|
+|
+| align = right |
+|-
+| 2006
+| {{Państwo|Finlandia}}
+| [[Säkylä]]
+| {{Flaga|POL}} [[Michał Burczyński]]
+| {{Flaga|POL}} [[Łukasz Zakrzewski]]
+| {{Flaga|POL}} Jakub Schneider
+| align = right |
+|-
+| 2007
+| {{Państwo|Estonia}}
+| [[Haapsalu]]
+| {{Flaga|DEU}} Andreas Bock
+| {{Flaga|POL}} [[Michał Burczyński]]
+|
+| align = right |
+|-
+| 2008
+| {{Państwo|Czechy}}
+| [[Lipno]]
+| {{Flaga|POL}} [[Michał Burczyński]]
+|
+|
+| align = right |
+|-
+| 2009
+| {{Flaga|RUS}} [[Rosja]]
+| [[Petersburg]]
+| {{Flaga|EST}} Vaiko Vooremaa
+| {{Flaga|POL}} [[Łukasz Zakrzewski]]
+| {{Flaga|POL}} [[Michał Burczyński]]
+| align = right |
+|-
+| [[Mistrzostwa Europy w Żeglarstwie Lodowym 2010|2010]]
+| {{Państwo|Austria}}
+| [[Jezioro Nezyderskie]]
+| {{Flaga|DEU}} Bernd Zeiger
+| {{Flaga|POL}} [[Michał Burczyński]]
+|
+| align = right |
+|-
+| [[Mistrzostwa Europy w Żeglarstwie Lodowym 2011|2011]]<ref>{{cytuj| url = http://www.sportowefakty.pl/inne/2011/03/03/bojerowe-me-triumf-karola-jablonskiego/| tytuł = Bojerowe ME: Triumf Karola Jabłońskiego| data dostępu = 2011-03-05| | opublikowany = sportowefakty.pl| data = 2011-03-03}}</ref><ref>{{cytuj|url=http://www.sailinglatvia.lv/file.php?id=944|tytuł=European Championships|data=2011-03-03|data dostępu=2018-10-31}}</ref>
+| {{Państwo|Estonia}}
+| [[Kuressaare]]
+| {{Flaga|POL}} [[Karol Jabłoński]]
+| {{Flaga|POL}} [[Łukasz Zakrzewski]]
+| {{Flaga|POL}} Robert Graczyk
+| align = right | 155
+|-
+|-
+| 2012
+| colspan = 6 | ''Regaty się nie odbyły.''
+|-
+| 2013
+| {{Państwo|Polska}}
+| [[Jezioro Siemianowskie]]
+| {{Flaga|POL}} [[Karol Jabłoński]]
+| {{Flaga|POL}} [[Łukasz Zakrzewski]]
+|
+| align = right |
+|-
+| 2014<ref>{{cytuj|url=http://idniyra.eu/wp-content/uploads/2014/03/Europeans-Championships-Series-Standing-21-races-scored.pdf|tytuł=Europeans Championships – Series Standing – 21 races scored|data=7 marca 2014|opublikowany=idniyra.eu|język=en|data dostępu=7 marca 2014}}</ref>
+| {{Państwo|Estonia}}
+| [[Morze Bałtyckie]]
+| {{Flaga|POL}} [[Karol Jabłoński]]
+| {{Flaga|EST}} Vaiko Vooremaa
+| {{Flaga|USA}} [[Ron Sherry]]
+| align = right | 158
+|-
+| 2015<ref name="ec2015">{{cytuj|url=http://www.ijszeilen.nl/DN_Nederland/Nieuws/Artikelen/2015/3/8_A_Bridge_too_far__Day_5_of_the_European_Championship.html|tytuł=A Bridge too far: Day 5 of the European Championship|data=8 marca 2015|opublikowany=ijszeilen.nl|język=en|data dostępu=8 marca 2015}}</ref><ref>{{cytuj|url=http://idniyra.eu/?p=2774|tytuł=Karol Jablonski P-36 – Winner of EC 2015|data=6 marzec 2015|opublikowany=idniyra.eu|język=en|data dostępu=8 marca 2015}}</ref><ref>{{cytuj|url=http://www.puri.ee/media/DN-European-Championship-2015-tulemused.pdf|tytuł=European Championships 2015|język=en|data=2015-03-06|data dostępu=2018-10-29}}</ref>
+| {{Państwo|Estonia}}
+| Jezioro [[Võrtsjärv]]
+| {{Flaga|POL}} [[Karol Jabłoński]]
+| {{Flaga|POL}} [[Michał Burczyński]]
+| {{Flaga|POL}} [[Łukasz Zakrzewski]]
+| align = right | 126
+|-
+| 2016<ref>{{Cytuj|tytuł=Michał Burczyński wicemistrzem europy w DN!|data dostępu=2017-01-03|opublikowany=Magazyn Jachting|url=http://www.jachting.com/artykul/03-02-2016/michal-burczynski-wicemistrzem-europy-dn}}</ref>
+| {{Państwo|Szwecja}}
+| jezioro [[Glan (jezioro)|Glan]]
+| {{Flaga|USA}} [[Ron Sherry]]
+| {{Flaga|POL}} [[Michał Burczyński]]
+| {{Flaga|AUT}} Madars Alvikis
+| align = right | 126
+|-
+| 2017<ref name="ec2017i">{{cytuj|url=http://idniyra.eu/wp-content/uploads/2017/02/European-Championship-Series-Standing-23-races-scored.pdf|tytuł=European Champioships - Series Standing|data=21 luty 2015|opublikowany=idniyra.eu|język=en|data dostępu=23 luty 2015}}</ref><ref name="ec2017s">{{cytuj|url=http://sailing.org.pl/article/zeglarstwo-sportowe/cale-podium-bojerowych-mistrzostw-europy-dla-polakow|data=22 luty 2017|tytuł=Całe podium bojerowych Mistrzostw Europy dla Polaków!|opublikowany=sailing.org.pl|język=pl|data dostępu=23 luty 2017}}</ref>
+| {{Państwo|Węgry}}
+| jezioro [[Balaton]]
+| {{Flaga|POL}} [[Karol Jabłoński]]
+| {{Flaga|POL}} [[Michał Burczyński]]
+| {{Flaga|POL}} [[Łukasz Zakrzewski]]
+| align = right | 124
+|-
+| 2018<ref>{{cytuj | url = https://idniyra.eu/wp-content/uploads/2018/03/EC2018-FLEET-A-FINAL-after-5races.pdf | tytuł = DN European Championship 2018 | język = en | data dostępu = 2018-10-23 | data = 2018-03-02 }}</ref>
+| {{Państwo|Polska}}
+| Jezioro [[Wielimie]]
+| {{Flaga|USA}} Ron Sherry
+| {{Flaga|POL}} [[Michał Burczyński]]
+| {{Flaga|POL}} [[Karol Jabłoński]]
+| align = right | 151
+|}

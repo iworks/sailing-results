@@ -1,0 +1,125 @@
+== Open ==
+{| class="wikitable"
+! Rok
+! Kraj
+! Miejsce
+! {{trofeum| medal świat| złoty}} Zwycięzca
+! {{trofeum| medal świat| srebrny}} 2. miejsce
+! {{trofeum| medal świat| brązowy}} 3. miejsce
+! Startujących
+|-
+|1970
+|{{flaga|FRA}}
+|[[Lacanau]]
+|{{flaga|FRA}} Yves Carr / Hervé Carr
+|{{flaga|FRA}} Philippe Follenfant / Hubert Follenfant
+|{{flaga|FRA}} Didier Poisson / Denis Londeix
+|align=right| 
+|-
+|1971
+|{{flaga|BEL}}
+|[[Ostenda]]
+|{{flaga|NED}} Tom van Essen / Wouter van Essen
+|{{flaga|FRA}} Philippe Follenfant / Hubert Follenfant
+|{{flaga|FRA}} Bruno Demartial / Bernard Demartial
+|align=right| 
+|-
+|1972
+|{{flaga|CAN}}
+|[[Montreal]]
+|{{flaga|NED}} Sjoerd Vollebregt / Erik Vollebregt
+|{{flaga|FRA}} Philippe Follenfant / Hubert Follenfant
+|{{flaga|NED}} Tom van Essen / Wouter van Essen
+|align=right| 
+|-
+|1973
+|{{flaga|DEU}}
+|[[Kilonia]]
+|{{flaga|DEN}} Henrik Söderlund / Age Börresen
+|{{flaga|USA}} Peter Commette / Michael Loeb
+|{{flaga|NED}} Joop van Werkhoven / Robert van Werkhoven
+|align=right| 
+|-
+|1974
+|{{flaga|USA}}
+|[[Naples]]
+|{{flaga|ESP}} [[Toño Gorostegui]] / Manuel Albalat
+|{{flaga|FRA}} Philippe Lecrit / Dominique Duvallet
+|{{flaga|ESP}} Juan Santana / Francisco Colom
+|align=right| 
+|-
+|1975
+|{{flaga|USA}}
+|[[Nowy Jork]]
+|{{flaga|FRA}} Marc Laurent / Roger Surmin
+|{{flaga|FRA}} Philippe Follenfant / Hubert Follenfant
+|{{flaga|FRA}} Jean-Francois Fountaine / Claire Fountaine
+|align=right| 
+|-
+|1976
+| colspan="6" style="text-align:center;"| ''nie odbyły się''
+|-
+|1977
+|{{flaga|JPN}}
+|[[Shizuoka]]
+|{{flaga|USA}} David Ullman / Tom Linskey
+|{{flaga|JPN}} Katsunori Komatsu / Yasuyuki Hakomori
+|{{flaga|NZL}} Mark Paterson / David Mackay
+|align=right| 
+|-
+|1978
+|{{flaga|SWE}}
+|[[Marstrand]]
+|{{flaga|USA}} David Ullman / Tom Linskey
+|{{flaga|CAN}} Gerry Roufs / Charles Robitaille
+|{{flaga|FRG}} John Pudenz / Ulrich Kittmann
+|align=right| 
+|-
+|1979
+|{{flaga|NED}}
+|[[Medemblik]]
+|{{flaga|JPN}} Miyuki Kay / Ryo Komiya
+|{{flaga|FRA}} Laurent Delage / Claude Wattine
+|{{flaga|FRA}} Stephane Richer / Philippe Claude
+|align=right| 
+|-
+|1980
+|{{flaga|BRA}}
+|[[Porto Alegre]]
+|{{flaga|USA}} David Ullman / Tom Linskey
+|{{flaga|FRA}} Laurent Delage / Herv‚ Wattine
+|{{flaga|FRA}} Stephane Richer / Philippe Claude
+|align=right| 
+|-
+|1981
+|{{flaga|FRA}}
+|[[Quiberon]]
+|{{flaga|NZL}} David Barnes / Hamish Willcox
+|{{flaga|USA}} Steve Benjamin / Karl Steinfeld
+|{{flaga|ITA}} Tommaso Chieffi / Enrico Chieffi
+|align=right| 
+|-
+|1982
+|{{flaga|POR}}
+|[[Cascais]]
+|{{flaga|GDR}} Jörn Borowski / Eckbert Swensson
+|{{flaga|FRA}} Daniel Peponnet / Pascal Champaloux
+|{{flaga|NZL}} David Barnes / Hamish Willcox
+|align=right| 
+|-
+|1983
+|{{flaga|GBR}}
+|[[Weymouth]]
+|{{flaga|NZL}} David Barnes|David Barnes / Hamish Willcox
+|{{flaga|FRG}} Wolfgang Hunger / Jochen Hunger
+|{{flaga|ISR}} Shimshon Brokman / Eitan Friedlander
+|align=right| 
+|-
+|1984
+|{{flaga|NZL}}
+|[[Auckland]]
+|{{flaga|NZL}} David Barnes / Hamish Willcox
+|{{flaga|NZL}} Chris Dickson / Joe Allen
+|{{flaga|NZL}} Peter Evans / Sean Reeves
+|align=right| 
+|}<noinclude>[[:Kategoria:Szablony medalistów mistrzostw świata w żeglarstwie]]</noinclude>

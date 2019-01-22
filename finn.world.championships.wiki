@@ -1,0 +1,462 @@
+==Editions==
+{| class="wikitable"
+|-
+! Year !! City !! Country !! Dates !! Athletes !! Nations !! Note
+|-
+| [[1956 Finn Gold Cup|1956]] || [[Burnham-on-Crouch]] || {{GBR}} || align=center| 29 March – 2 April || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14643|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1957 Finn Gold Cup|1957]] || [[Karlstad]] || {{SWE}} || align=center| 31 July – 4 August || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14644|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1958 Finn Gold Cup|1958]] || [[Zeebrugge]] || {{BEL}} || align=center| 1–5 May || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14645|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1959 Finn Gold Cup|1959]] || [[Hellerup]] || {{DEN}} || align=center| 4–9 August || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14646|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1960 Finn Gold Cup|1960]] || [[Torquay]] || {{GBR}} || align=center| 4–10 June || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14647|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1961 Finn Gold Cup|1961]] || [[Travemünde]] || {{FRG}} || align=center| 14–19 August || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14648|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1962 Finn Gold Cup|1962]] || [[Tønsberg]] || {{NOR}} || align=center| 6–11 August || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14649|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1963 Finn Gold Cup|1963]] || [[Medemblik]] || {{NED}} || align=center| 12–19 August || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14650|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1964 Finn Gold Cup|1964]] || [[Torquay]] || {{GBR}} || align=center| 18–26 July || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14651|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1965 Finn Gold Cup|1965]] || [[Gdynia]] || {{POL}} || align=center| 22–29 July || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14652|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1966 Finn Gold Cup|1966]] || [[La Baule]] || {{FRA}} || align=center| 21–29 August || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14653|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1967 Finn Gold Cup|1967]] || [[Hanko]] || {{FIN}} || align=center| 6–12 August || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14654|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1968 Finn Gold Cup|1968]] || [[Whitstable]] || {{GBR}} || align=center| 6–12 August || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14655|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1969 Finn Gold Cup|1969]] || [[Hamilton, Bermuda|Hamilton]] || {{BER}} || align=center| 6–12 August || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14656|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1970 Finn Gold Cup|1970]] || [[Cascais]] || {{POR}} || align=center| 14–22 August || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14657|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1971 Finn Gold Cup|1971]] || [[Toronto]] || {{CAN}} || align=center| 1–9 October || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14658|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1972 Finn Gold Cup|1972]] || [[Anzio]] || {{ITA}} || align=center| 25 June – 1 July || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14659|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1973 Finn Gold Cup|1973]] || [[Brest, France|Brest]] || {{FRA}} || align=center| 14–23 July || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14660|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1974 Finn Gold Cup|1974]] || [[Long Beach]] || {{USA}} || align=center| 10–17 August || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14661|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1975 Finn Gold Cup|1975]] || [[Malmö]] || {{SWE}} || align=center| 10–19 June || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14662|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1976 Finn Gold Cup|1976]] || [[Brisbane]] || {{AUS}} || align=center| 2–10 January || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14663|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1977 Finn Gold Cup|1977]] || [[Palamós]] || {{ESP}} || align=center| 6–17 September || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14664|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1978 Finn Gold Cup|1978]] || [[Manzanillo, Colima|Manzanillo]] || {{MEX}} || align=center| 16–26 November || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14665|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1979 Finn Gold Cup|1979]] || [[Weymouth, Dorset|Weymouth]] || {{GBR}} || align=center| 5–15 September || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14666|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1980 Finn Gold Cup|1980]] || [[Takapuna]] || {{NZL}} || align=center| 18–27 February || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14667|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1981 Finn Gold Cup|1981]] || [[Grömitz]] || {{FRG}} || align=center| 5–19 July || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14668|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1982 Finn Gold Cup|1982]] || [[Medemblik]] || {{NED}} || align=center| 9–19 September || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14669|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1983 Finn Gold Cup|1983]] || [[Milwaukee]] || {{USA}} || align=center| 13–21 August || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14670|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1984 Finn Gold Cup|1984]] || [[Anzio]] || {{ITA}} || align=center| 17–27 May || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14671|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1985 Finn Gold Cup|1985]] || [[Marstrand]] || {{SWE}} || align=center| 26 June – 6 July || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14672|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1986 Finn Gold Cup|1986]] || [[Palma, Majorca|Palma]] || {{ESP}} || align=center| 5–13 July || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14673|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1987 Finn Gold Cup|1987]] || [[Kiel]] || {{FRG}} || align=center| 26 June – 7 July || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14674|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1988 Finn Gold Cup|1988]] || [[Ilhabela]] || {{BRA}} || align=center| 31 January – 11 February || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14675|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1989 Finn Gold Cup|1989]] || [[Alassio]] || {{ITA}} || align=center| 6–16 April || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14676|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1990 Finn Gold Cup|1990]] || [[Porto Carras]] || {{GRE}} || align=center| 5–15 July || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=331|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1991 Finn Gold Cup|1991]] || [[Kingston, Ontario|Kingston]] || {{CAN}} || align=center| 1–3 September || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=442|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1992 Finn Gold Cup|1992]] || [[Cádiz]] || {{ESP}} || align=center| 10–17 May || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=510|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1993 Finn Gold Cup|1993]] || [[Bangor, County Down|Bangor]] || {{GBR}} || align=center| 9–19 July || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=652|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1994 Finn Gold Cup|1994]] || [[Tallinn]] || {{EST}} || align=center| 12–21 August || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=837|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1995 Finn Gold Cup|1995]] || [[Melbourne]] || {{AUS}} || align=center| 7–15 January || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=901|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1996 Finn Gold Cup|1996]] || [[La Rochelle]] || {{FRA}} || align=center| 1–10 May || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=1192|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1997 Finn Gold Cup|1997]] || [[Gdańsk]] || {{POL}} || align=center| 3–13 July || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=1490|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1998 Finn Gold Cup|1998]] || [[Athens]] || {{GRE}} || align=center| 17–23 August || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=1821|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[1999 Finn Gold Cup|1999]] || [[Melbourne]] || {{AUS}} || align=center| 6–17 January || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=1959|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[2000 Finn Gold Cup|2000]] || [[Weymouth, Dorset|Weymouth]] || {{GBR}} || align=center| 11–16 June || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=2962|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[2001 Finn Gold Cup|2001]] || [[Marblehead, Massachusetts|Marblehead]] || {{USA}} || align=center| 21–29 September || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=4064|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[2002 Finn Gold Cup|2002]] || [[Athens]] || {{GRE}} || align=center| 20–28 July || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=4620|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[2003 ISAF Sailing World Championships|2003]] || [[Cádiz]] || {{ESP}} || align=center| 11–24 September || style="text-align:center;" colspan="2"| part of the [[2003 ISAF Sailing World Championships]]  || 
+|-
+| [[2004 Finn Gold Cup|2004]] || [[Rio de Janeiro]] || {{BRA}} || align=center| 12–20 February || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=5765|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[2005 Finn Gold Cup|2005]] || [[Moscow]] || {{RUS}} || align=center| 9–17 September || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=7309|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[2006 Finn Gold Cup|2006]] || [[Split, Croatia|Split]] || {{CRO}} || align=center| 8–16 July || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=8145|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[2007 ISAF Sailing World Championships|2007]] || [[Cascais]] || {{POR}} || align=center| 28 June – 13 July || style="text-align:center;" colspan="2"| part of the [[2007 ISAF Sailing World Championships]]  || 
+|-
+| [[2008 Finn Gold Cup|2008]] || [[Melbourne]] || {{AUS}} || align=center| 20–29 January || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/31909.php|title=Finn Gold Cup 2008|website=sailing.org}}</ref>
+|-
+| [[2009 Finn Gold Cup|2009]] || [[Vallensbæk]] || {{DEN}} || align=center| 3–11 July || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/finn-gold-cup-2009.php|title=Finn Gold Cup 2009|website=sailing.org}}</ref>
+|-
+| [[2010 Finn Gold Cup|2010]] || [[San Francisco]] || {{USA}} || align=center| 27 August – 4 September || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/finn-gold-cup-2010.php|title=Finn Gold Cup 2010|website=sailing.org}}</ref>
+|-
+| [[2011 ISAF Sailing World Championships|2011]] || [[Perth]] || {{AUS}} || align=center| 3–18 December || style="text-align:center;" colspan="2"| part of the [[2011 ISAF Sailing World Championships]]  || 
+|-
+| [[2012 Finn Gold Cup|2012]] || [[Falmouth, Cornwall|Falmouth]] || {{GBR}} || align=center| 10–18 May || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=14430|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[2013 Finn Gold Cup|2013]] || [[Tallinn]] || {{EST}} || align=center| 23–31 August || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=15508|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[2014 ISAF Sailing World Championships|2014]] || [[Santander, Spain|Santander]] || {{ESP}} || align=center| 12–21 September || style="text-align:center;" colspan="2"| part of the [[2014 ISAF Sailing World Championships]]  || 
+|-
+| [[2015 Finn Gold Cup|2015]] || [[Takapuna]] || {{NZL}} || align=center| 20–30 November || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=18264|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[2016 Finn Gold Cup|2016]] || [[Gaeta]] || {{ITA}} || align=center| 5–15 May || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=19363|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[2017 Finn Gold Cup|2017]] || [[Balatonföldvár]] || {{HUN}} || align=center| 1–10 September || align=center|  || align=center|  || <ref>{{cite web|url=http://www.sailing.org/regattainfo.php?rgtaid=20608|title=Regatta Information|website=sailing.org}}</ref>
+|-
+| [[2018 Sailing World Championships|2018]] || [[Aarhus]] || {{DEN}} || align=center| 30 July – 12 August || style="text-align:center;" colspan="2"| part of the [[2018 Sailing World Championships]]  || 
+|}
+
+
+=== Mistrzostwa Świata ===
+
+'''Mistrzostwa świata klasy 505''' to coroczne regaty wyłaniające najlepszych żeglarzy klasy.
+
+{| class="wikitable"
+! Rok
+! Miejsce
+! {{trofeum| medal świat| złoty}} Zwycięzca
+! {{trofeum| medal świat| srebrny}} 2. miejsce
+! {{trofeum| medal świat| brązowy}} 3. miejsce
+! Startujących
+{| {{MedalistTable|type={{Navbar-header|Year|Finn Gold Cup medallists}}}}
+|-
+|1956 [[Burnham-on-Crouch|Burnham]]<br>{{DetailsLink|1956 Finn Gold Cup}}
+|{{flagathlete|[[André Nelis]]|BEL}}
+|{{flagathlete|[[Paul Elvstrøm]]|DEN}}
+|{{flagathlete|[[Brian Roswell]]|CAN}}
+|-
+|1957 [[Karlstad]]<br>{{DetailsLink|1957 Finn Gold Cup}}
+|{{flagathlete|[[Jürgen Vogler]]|GDR}}
+|{{flagathlete|[[Harald Bredo Eriksen]]|NOR}}
+|{{flagathlete|[[André Nelis]]|BEL}}
+|-
+|1958 [[Zeebrugge]]<br>{{DetailsLink|1958 Finn Gold Cup}}
+|{{flagathlete|[[Paul Elvstrøm]]|DEN}}
+|{{flagathlete|[[André Nelis]]|BEL}}
+|{{flagathlete|[[Adelchi Pelaschier]]|ITA}}
+|-
+|1959 [[Hellerup]]<br>{{DetailsLink|1959 Finn Gold Cup}}
+|{{flagathlete|[[Paul Elvstrøm]]|DEN}}
+|{{flagathlete|[[André Nelis]]|BEL}}
+|{{flagathlete|[[Pierre Poullain]]|FRA}}
+|-
+|1960 [[Torquay]]<br>{{DetailsLink|1960 Finn Gold Cup}}
+|{{flagathlete|[[Vernon Stratton]]|GBR}}
+|{{flagathlete|[[André Nelis]]|BEL}}
+|{{flagathlete|[[Desmond Stratton]]|GBR}}
+|-
+|1961 [[Travemünde]]<br>{{DetailsLink|1961 Finn Gold Cup}}
+|{{flagathlete|[[André Nelis]]|BEL}}
+|{{flagathlete|[[Hans Fogh]]|DEN}}
+|{{flagathlete|[[Fred Miller (sailor)|Fred Miller]]|USA}}
+|-
+|1962 [[Tønsberg]]<br>{{DetailsLink|1962 Finn Gold Cup}}
+|{{flagathlete|[[Arne Åkerson]]|SWE}}
+|{{flagathlete|[[Boris Jacobsson]]|SWE}}
+|{{flagathlete|[[André Nelis]]|BEL}}
+|-
+|1963 [[Medemblik]]<br>{{DetailsLink|1963 Finn Gold Cup}}
+|{{flagathlete|[[Wilhelm Kuhweide]]|FRG}}
+|{{flagathlete|[[Boris Jacobsson]]|SWE}}
+|{{flagathlete|[[Hans Willems]]|NED}}
+|-
+|1964 [[Torquay]]<br>{{DetailsLink|1964 Finn Gold Cup}}
+|{{flagathlete|[[Hubert Raudaschl]]|AUT}}
+|{{flagathlete|[[Hakan Kellner]]|SWE}}
+|{{flagathlete|[[Richard Creagh-Osborne|Richard Creagh]]|CAN}}
+|-
+|1965 [[Gdynia]]<br>{{DetailsLink|1965 Finn Gold Cup}}
+|{{flagathlete|[[Jürgen Mier]]|GDR}}
+|{{flagathlete|[[Bernd Dehmel]]|GDR}}
+|{{flagathlete|[[Richard Hart (sailor)|Richard Hart]]|GBR}}
+|-
+|1966 [[La Baule]]<br>{{DetailsLink|1966 Finn Gold Cup}}
+|{{flagathlete|[[Wilhelm Kuhweide]]|FRG}}
+|{{flagathlete|[[Jörg Bruder]]|BRA}}
+|{{flagathlete|[[Bernhard Straubinger]]|FRG}}
+|-
+|1967 [[Hanko]]<br>{{DetailsLink|1967 Finn Gold Cup}}
+|{{flagathlete|[[Wilhelm Kuhweide]]|FRG}}
+|{{flagathlete|[[Valentin Mankin]]|URS}}
+|{{flagathlete|[[Uwe Mares]]|FRG}}
+|-
+|1968 [[Whitestable]]<br>{{DetailsLink|1968 Finn Gold Cup}}
+|{{flagathlete|[[Henning Wind]]|DEN}}
+|{{flagathlete|[[Uwe Mares]]|FRG}}
+|{{flagathlete|[[Jörg Bruder]]|BRA}}
+|-
+|1969 [[Hamilton, Bermuda|Hamilton]]<br>{{DetailsLink|1969 Finn Gold Cup}}
+|{{flagathlete|[[Thomas Lundqvist (sailor)|Thomas Lundqvist]]|SWE}}
+|{{flagathlete|[[Jörg Bruder]]|BRA}}
+|{{flagathlete|[[Peter Barrett (sailor)|Peter Barrett]]|USA}}
+|-
+|1970 [[Cascais]]<br>{{DetailsLink|1970 Finn Gold Cup}}
+|{{flagathlete|[[Jörg Bruder]]|BRA}}
+|{{flagathlete|[[Henry Spraque]]|USA}}
+|{{flagathlete|[[Robert Andre (sailor)|Robert Andre]]|USA}}
+|-
+|1971 [[Toronto]]<br>{{DetailsLink|1971 Finn Gold Cup}}
+|{{flagathlete|[[Jörg Bruder]]|BRA}}
+|{{flagathlete|[[Carl van Duyne]]|USA}}
+|{{flagathlete|[[Serge Maury]]|FRA}}
+|-
+|1972 [[Anzio]]<br>{{DetailsLink|1972 Finn Gold Cup}}
+|{{flagathlete|[[Jörg Bruder]]|BRA}}
+|{{flagathlete|[[John Bertrand (Australian sailor)|John Bertrand]]|AUS}}
+|{{flagathlete|[[Lennart Gustafsson]]|SWE}}
+|-
+|1973 [[Brest, France|Brest]]<br>{{DetailsLink|1973 Finn Gold Cup}}
+|{{flagathlete|[[Serge Maury]]|FRA}}
+|{{flagathlete|[[Magnus Olin]]|SWE}}
+|{{flagathlete|[[Guy Lilljegren]]|SWE}}
+|-
+|1974 [[Long Beach, California|Long Beach]]<br>{{DetailsLink|1974 Finn Gold Cup}}
+|{{flagathlete|[[Henry Spraque]]|USA}}
+|{{flagathlete|[[Guy Lilljegren]]|SWE}}
+|{{flagathlete|[[Kent Carlsson (sailor)|Kent Carlsson]]|SWE}}
+|-
+|1975 [[Malmö]]<br>{{DetailsLink|1975 Finn Gold Cup}}
+|{{flagathlete|[[Magnus Olin]]|SWE }}
+|{{flagathlete|[[Baudouin Binkhorst]]|NED}}
+|{{flagathlete|[[Jonty Farmer]]|NZL}}
+|-
+|1976 [[Brisbane]]<br>{{DetailsLink|1976 Finn Gold Cup}}
+|{{flagathlete|[[Chris Law (sailor)|Chris Law]]|GBR}}
+|{{flagathlete|[[Jonty Farmer]]|NZL}}
+|{{flagathlete|[[John Bertrand (Australian sailor)|John Bertrand]]|AUS}}
+|-
+|1977 [[Palamos]]<br>{{DetailsLink|1977 Finn Gold Cup}}
+|{{flagathlete|[[Joaquín Blanco Roca|Joaquín Blanco]]|ESP}}
+|{{flagathlete|[[José Doreste]]|ESP}}
+|{{flagathlete|[[Claudio Biekarck]]|BRA}}
+|-
+|1978 [[Manzanillo, Colima|Manzanillo]]<br>{{DetailsLink|1978 Finn Gold Cup}}
+|{{flagathlete|[[John Bertrand (American sailor)|John Bertrand]]|USA}}
+|{{flagathlete|[[Joaquín Blanco Roca|Joaquín Blanco]]|ESP}}
+|{{flagathlete|[[William Carl Buchan|Carl Buchan]]|USA}}
+|-
+|1979 [[Weymouth, Dorset|Weymouth]]<br>{{DetailsLink|1979 Finn Gold Cup}}
+|{{flagathlete|[[Cameron Lewis (sailor)|Cameron Lewis]]|USA}}
+|{{flagathlete|[[John Bertrand (American sailor)|John Bertrand]]|USA}}
+|{{flagathlete|[[Mark Neeleman]]|NED}}
+|-
+|1980 [[Auckland]]<br>{{DetailsLink|1980 Finn Gold Cup}}
+|{{flagathlete|[[Cameron Lewis (sailor)|Cameron Lewis]]|USA}}
+|{{flagathlete|[[John Bertrand (American sailor)|John Bertrand]]|USA}}
+|{{flagathlete|[[Lawrence Lemieux]]|CAN}}
+|-
+|1981 [[Gromitz]]<br>{{DetailsLink|1981 Finn Gold Cup}}
+|{{flagathlete|[[Wolfgang Gerz]]|FRG}}
+|{{flagathlete|[[Lasse Hjortnæs]]|DEN}}
+|{{flagathlete|[[Miroslav Rychzik]]|POL}}
+|-
+|1982 [[Medemblik]]<br>{{DetailsLink|1982 Finn Gold Cup}}
+|{{flagathlete|[[Lasse Hjortnæs]]|DEN}}
+|{{flagathlete|[[Henryk Blaszka]]|POL}}
+|{{flagathlete|[[Buzz Reynolds]]|USA}}
+|-
+|1983 [[Milwaukee]]<br>{{DetailsLink|1983 Finn Gold Cup}}
+|{{flagathlete|[[Paul van Cleve]]|USA}}
+|{{flagathlete|[[Wolfgang Gerz]]|FRG}}
+|{{flagathlete|[[Mark Neeleman]]|NED}}
+|-
+|1984 [[Anzio]]<br>{{DetailsLink|1984 Finn Gold Cup}}
+|{{flagathlete|[[Lasse Hjortnæs]]|DEN}}
+|{{flagathlete|[[Terence Neilson]]|CAN}}
+|{{flagathlete|[[Jörgen Lindhardtsen]]|DEN}}
+|-
+|1985 [[Marstrand]]<br>{{DetailsLink|1985 Finn Gold Cup}}
+|{{flagathlete|[[Lasse Hjortnæs]]|DEN}}
+|{{flagathlete|{{Interlanguage link multi|Oleg Khoperski|ru|Хопёрский, Олег Николаевич}}|URS}}
+|{{flagathlete|[[Ingvar Bengtsson (sailor)|Ingvar Bengtsson]]|SWE}}
+|-
+|1986 [[El Arenal, Majorca|El Arenal]]<br>{{DetailsLink|1986 Finn Gold Cup}}
+|{{flagathlete|[[Stig Westergaard]]|DEN}}
+|{{flagathlete|[[Brian Richard Ledbetter]]|USA}}
+|{{flagathlete|[[José Doreste]]|ESP}}
+|-
+|1987 [[Kiel]]<br>{{DetailsLink|1987 Finn Gold Cup}}
+|{{flagathlete|[[José Doreste]]|ESP}}
+|{{flagathlete|[[Lasse Hjortnæs]]|DEN}}
+|{{flagathlete|[[Brian Richard Ledbetter]]|USA}}
+|-
+|1988 [[Ilha Bela]]<br>{{DetailsLink|1988 Finn Gold Cup}}
+|{{flagathlete|[[Thomas Schmid]]|FRG}}
+|{{flagathlete|[[Roy Heiner]]|NED}}
+|{{flagathlete|[[Gordon Anderson (sailor)|Gordon Anderson]]|CAN}}
+|-
+|1989 [[Alassio]]<br>{{DetailsLink|1989 Finn Gold Cup}}
+|{{flagathlete|[[Stig Westergaard]]|DEN}}
+|{{flagathlete|[[Eric Mergenthaler]]|MEX}}
+|{{flagathlete|{{Interlanguage link multi|Oleg Khoperski|ru|Хопёрский, Олег Николаевич}}|URS}}
+|-
+|1990 [[Porto Carras]]<br>{{DetailsLink|1990 Finn Gold Cup}}
+|{{flagathlete|[[Hank Lammens (sailor)|Hank Lammens]]|CAN}}
+|{{flagathlete|[[Lawrence Lemieux]]|CAN}}
+|{{flagathlete|[[Eric Mergenthaler]]|MEX}}
+|-
+|1991 [[Kingston, Ontario|Kingston]]<br>{{DetailsLink|1991 Finn Gold Cup}}
+|{{flagathlete|[[Hank Lammens (sailor)|Hank Lammens]]|CAN}}
+|{{flagathlete|[[Brian Richard Ledbetter]]|USA}}
+|{{flagathlete|[[Oleg Khoperski]]|URS}}
+|-
+|1992 [[Cadiz]]<br>{{DetailsLink|1992 Finn Gold Cup}}
+|{{flagathlete|[[Eric Mergenthaler]]|MEX}}
+|{{flagathlete|[[Glen Bourke]]|AUS}}
+|{{flagathlete|[[Hans Spitzauer]]|AUT}}
+|-
+|1993 [[Bangor, County Down|Bangor]]<br>{{DetailsLink|1993 Finn Gold Cup}}
+|{{flagathlete|[[Philippe Presti]]|FRA}}
+|{{flagathlete|[[Fredrik Lööf]]|SWE}}
+|{{flagathlete|[[Richard Clarke (sailor)|Richard Clarke]]|CAN}}
+|-
+|1994 [[Pärnu]]<br>{{DetailsLink|1994 Finn Gold Cup}}
+|{{flagathlete|[[Fredrik Lööf]]|SWE}}
+|{{flagathlete|[[Hank Lammens (sailor)|Hank Lammens]]|CAN}}
+|{{flagathlete|[[José van der Ploeg]]|ESP}}
+|-
+|1995 [[Melbourne]]<br>{{DetailsLink|1995 Finn Gold Cup}}
+|{{flagathlete|[[Hans Spitzauer]]|AUT}}
+|{{flagathlete|[[Fredrik Lööf]]|SWE}}
+|{{flagathlete|[[Philippe Presti]]|FRA}}
+|-
+|1996 [[La Rochelle]]<br>{{DetailsLink|1996 Finn Gold Cup}}
+|{{flagathlete|[[Philippe Presti]]|FRA}}
+|{{flagathlete|[[Hans Spitzauer]]|AUT}}
+|{{flagathlete|[[Fredrik Lööf]]|SWE}}
+|-
+|1997 [[Gdańsk]]<br>{{DetailsLink|1997 Finn Gold Cup}}
+|{{flagathlete|[[Fredrik Lööf]]|SWE}}
+|{{flagathlete|[[Luca Devoti]]|ITA}}
+|{{flagathlete|[[Xavier Rohart]]|FRA}}
+|-
+|1998 [[Athens]]<br>{{DetailsLink|1998 Finn Gold Cup}}
+|{{flagathlete|[[Mateusz Kusznierewicz]]|POL}}
+|{{flagathlete|[[Fredrik Lööf]]|SWE}}
+|{{flagathlete|[[Xavier Rohart]]|FRA}}
+|-
+|1999 [[Melbourne]]<br>{{DetailsLink|1999 Finn Gold Cup}}
+|{{flagathlete|[[Fredrik Lööf]]|SWE}}
+|{{flagathlete|[[Mateusz Kusznierewicz]]|POL}}
+|{{flagathlete|[[Richard Clarke (sailor)|Richard Clarke]]|CAN}}
+|-
+|2000 [[Weymouth, Dorset|Weymouth]]<br>{{DetailsLink|2000 Finn Gold Cup}}
+|{{flagathlete|[[Mateusz Kusznierewicz]]|POL}}
+|{{flagathlete|[[Sébastien Godefroid]]|BEL}}
+|{{flagathlete|[[Aimilios Papathanasiou]]|GRE}}
+|-
+|2001 [[Marblehead, Massachusetts|Marblehead]]<br>{{DetailsLink|2001 Finn Gold Cup}}
+|{{flagathlete|[[Sébastien Godefroid]]|BEL}}
+|{{flagathlete|[[Mateusz Kusznierewicz]]|POL}}
+|{{flagathlete|[[Aimilios Papathanasiou]]|GRE}}
+|-
+|2002 [[Athens]]<br>{{DetailsLink|2002 Finn Gold Cup}}
+|{{flagathlete|[[Ben Ainslie]]|GBR}}
+|{{flagathlete|[[Mateusz Kusznierewicz]]|POL}}
+|{{flagathlete|[[Aimilios Papathanasiou]]|GRE}}
+|-
+|2003 [[Cadiz]]<br>{{DetailsLink|2003 ISAF Sailing World Championships}}
+|{{flagathlete|[[Ben Ainslie]]|GBR}}
+|{{flagathlete|[[Rafael Trujillo (sailor)|Rafael Trujillo]]|ESP}}
+|{{flagathlete|[[Andrew Simpson (sailor)|Andrew Simpson]]|GBR}}
+|-
+|2004 [[Rio de Janeiro]]<br>{{DetailsLink|2004 Finn Gold Cup}}
+|{{flagathlete|[[Ben Ainslie]]|GBR}}
+|{{flagathlete|[[Richard Clarke (sailor)|Richard Clarke]]|CAN}}
+|{{flagathlete|[[David Burrows (sailor)|David Burrows]]|IRL}}
+|-
+|2005 [[Moscow]]<br>{{DetailsLink|2005 Finn Gold Cup}}
+|{{flagathlete|[[Ben Ainslie]]|GBR}}
+|{{flagathlete|[[Aimilios Papathanasiou]]|GRE}}
+|{{flagathlete|[[Chris Cook (sailor)|Chris Cook]]|CAN}}
+|-
+|2006 [[Split, Croatia|Split]]<br>{{DetailsLink|2006 Finn Gold Cup}}
+|{{nowrap|{{flagathlete|[[Jonas Høgh-Christensen]]|DEN}}}}
+|{{flagathlete|[[Aimilios Papathanasiou]]|GRE}}
+|{{flagathlete|[[Edward Wright (sailor)|Edward Wright]]|GBR}}
+|-
+|2007 [[Cascais]]<br>{{DetailsLink|2007 ISAF Sailing World Championships}}
+|{{flagathlete|[[Rafael Trujillo (sailor)|Rafael Trujillo]]|ESP}}
+|{{flagathlete|[[Pieter-Jan Postma]]|NED}}
+|{{flagathlete|[[Gasper Vincec]]|SLO}}
+|-
+|2008 [[Melbourne]]<br>{{DetailsLink|2008 Finn Gold Cup}}
+|{{flagathlete|[[Ben Ainslie]]|GBR}}
+|{{flagathlete|[[Dan Slater]]|NZL}}
+|{{nowrap|{{flagathlete|[[Jonas Høgh-Christensen]]|DEN}}}}
+|-
+|2009 [[Vallensbæk]]<br>{{DetailsLink|2009 Finn Gold Cup}}
+|{{flagathlete|[[Jonas Høgh-Christensen]]|DEN}}
+|{{flagathlete|[[Zach Railey]]|USA}}
+|{{flagathlete|[[Ivan Kljaković Gašpić]]|CRO}}
+|-
+| 2010 [[San Francisco]]<br>{{DetailsLink|2010 Finn Gold Cup}}
+|{{flagathlete|[[Edward Wright (sailor)|Edward Wright]]|GBR}}
+|{{flagathlete|[[Rafael Trujillo Villar|Rafael Trujillo]]|ESP}}
+|{{flagathlete|[[Giles Scott]]|GBR}}
+|-
+| 2011 [[Perth]]<br>{{DetailsLink|2011 ISAF Sailing World Championships – Finn}}
+|{{flagathlete|[[Giles Scott]]|GBR}}
+|{{flagathlete|[[Pieter-Jan Postma]]|NED}}
+|{{flagathlete|[[Edward Wright (sailor)|Edward Wright]]|GBR}}
+|-
+| 2012 [[Falmouth, Cornwall|Falmouth]]<br>{{DetailsLink|2012 Finn Gold Cup}}
+|{{flagathlete|[[Ben Ainslie]]|GBR}}
+|{{flagathlete|[[Edward Wright (sailor)|Edward Wright]]|GBR}}
+|{{flagathlete|[[Jonas Høgh-Christensen]]|DEN}}
+|-
+| 2013 [[Tallinn]]<br>{{DetailsLink|2013 Finn Gold Cup}}
+|{{flagathlete|[[Jorge Zarif]]|BRA}}
+|{{flagathlete|[[Edward Wright (sailor)|Edward Wright]]|GBR}}
+|{{flagathlete|[[Pieter-Jan Postma]]|NED}}
+|-
+| 2014 [[Santander, Spain|Santander]]<br>{{DetailsLink|2014 ISAF Sailing World Championships – Finn}}
+|{{flagathlete|[[Giles Scott]]|GBR}}
+|{{flagathlete|[[Ivan Kljaković Gašpić]]|CRO}}
+|{{flagathlete|[[Edward Wright (sailor)|Edward Wright]]|GBR}}
+|-
+| 2015 [[Takapuna, New Zealand|Takapuna]]<br>{{DetailsLink|2015 Finn Gold Cup}}
+|{{flagathlete|[[Giles Scott]]|GBR}}
+|{{flagathlete|[[Jonathan Lobert]]|FRA}}
+|{{flagathlete|[[Vasilij Žbogar]]|SLO}}
+|-
+| 2016 [[Gaeta]]<ref>{{cite web|url=https://www.finnclass.org/component/content/article/61-results/finn-gold-cup/931-2016-finn-gold-cup-gaeta-italy|title=Finn Class|first=Robert|last=Deaves|website=www.finnclass.org}}</ref><br>{{DetailsLink|2016 Finn Gold Cup}}
+|{{flagathlete|[[Giles Scott]]|GBR}}
+|{{nowrap|{{flagathlete|[[Jonas Høgh-Christensen]]|DEN}}}}
+|{{flagathlete|[[Pieter-Jan Postma]]|NED}}
+|-
+|nowrap| 2017 [[Balatonföldvár]]<ref>{{cite web|url=https://www.2017finngoldcup.org/results|title=2017finngoldcup|website=2017finngoldcup}}</ref><br>{{DetailsLink|2017 Finn Gold Cup}}
+|{{flagathlete|[[Max Salminen]]|SWE}}
+|{{flagathlete|[[Jonathan Lobert]]|FRA}}
+|{{flagathlete|[[Nicholas Heiner]]|NED}}
+|-
+| 2018 [[Aarhus]]<br>{{DetailsLink|2018 Sailing World Championships}}
+|{{flagathlete|[[Zsombor Berecz (sailor)|Zsombor Berecz]]|HUN}}
+|{{flagathlete|[[Max Salminen]]|SWE}}
+|{{flagathlete|[[Pieter-Jan Postma]]|NED}}
+|}
+

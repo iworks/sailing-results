@@ -1,0 +1,82 @@
+= Nacra 17 =
+{{Jacht infobox 
+ | nazwa = Nacra 17<ref>{{Cytuj stronę | url = http://www.sailing.org/classesandequipment/N17.php | tytuł = Nacra 17 : Classes & Equipment | opublikowany = World Sailing | język = en | data dostępu = 2018-06-28}}</ref>
+ | symbol = File:Necra 17.svg
+ | konstruktor = Morrelli & Melvin <br> & Nacra Sailing
+ | kraj = 
+ | rok = 2011
+ | ożaglowanie = [[skiff]]
+ | powierzchnia = 16,26
+ | grot = 14,45
+ | fok = 4
+ | spinaker =
+ | genaker = 18,5
+ | długość = 5,25
+ | lwk = 
+ | szerokość = 2,59
+ | wysokość = 
+ | masa = 142
+ | wyporność = 
+ | typ = [[katamaran]]
+ | materiał = kompozyt
+ | zmin = 
+ | zmax = 145
+ | balast = 
+ | załoga = 2
+ | trapez = 2
+ | silnik = 
+ | moc = 
+ | d-pn = 
+ | rya-pn =
+ | zdjęcie = File:Nacra 17.svg
+ | opisz = 
+ | commons = Category:Nacra 17
+}}
+ 
+The '''Nacra 17''' is a performance [[catamaran]] used for [[sailing]]. It was designed in 2011,  went into production in 2012 and has been the focus of multihull sailing at the [[Sailing at the Summer Olympics|Olympic Games]] since its conception.
+
+The Nacra has been converted to a [[sailing hydrofoil]] for the 2020 Tokyo Olympics.<ref>
+ {{cite web
+ |title=WHO CAN TAME THE FOILING CAT?
+ |url=https://www.yachtingnz.org.nz/news/201712/who-can-tame-the-foiling-cat|website=Yachting New Zealand
+ |accessdate=5 January 2018}}
+</ref>
+
+==Historia==
+The Nacra 17 was specifically created to meet the criteria laid down for the new olympic discipline a first for Olympic sailing a mixed crewed boat. In May 2012 [[International Sailing Federation]] chose the Nacra 17 as the equipment for the mixed multi hull at the [[Sailing at the 2016 Summer Olympics|2016 Olympic Sailing Regatta]] <ref>http://www.sailing.org/38281.php ISAF News Story</ref> and [[Sailing at the 2020 Summer Olympics|2020 Summer Olympics]] in Tokyo.<ref nazwa="ISAF_Muscat_2013">[http://www.sailing.org/news/36355.php 16 November 2013, 2013 ISAF Annual Conference Draws To A Close in Muscat, Sultanate of Oman]</ref>
+
+Morrelli & Melvin, the boat's konstruktors, summed up the design philosophy<ref>http://sailinganarchy.com/2012/05/04/the-choice/ Interview with the Designer</ref> with the following quote:
+{{blockquote|The [[Formula 16]] is on the small end of the scale for the crew weight range specified by ISAF (120 kg to 140 kg) and, in our opinion, would be more exciting and challenging to sail for Olympic-caliber sailors if it had a more powerful [[sail]] plan. The [[Formula 18|F18]] typical crew weights exceed the range specified by ISAF. The F18 is also quite a heavy boat for its length and could be made lighter, but the hull volume and surface area would be needlessly large for a lighter Olympic spec F18 platform.
+
+Since no existing design or class fit the ISAF specs, we decided to create an all-new design that is about 17 feet long, called the NACRA 17. Compared to an F16 class catamaran, it is 250mm longer, 100mm wider, has a taller [[mast (sailing)|mast]] and more sail area, and curved dagger boards.
+
+The curve boards also give an added dimension to the sailing.}}
+
+The ISAF Equipment Evaluation Panel wrote:<ref>http://www.sailing.org/38217.php ISAF Mixed Multihull Evaluation Report</ref>
+{{blockquote|The clear preference of the MNA Sailors and the Evaluation Panel was the innovative new NACRA 17. Designed specifically for the Mixed Multihull criteria the Evaluation Panel concluded the NACRA 17 is seen as the best option. Featuring curved dagger boards providing vertical lift, the NACRA 17 will carry a wider –range of crew weight better than the 16 footers and is considerably lighter than a Formula 18. The modern NACRA 17 also offers the sailors in the Mixed Multihull Event the exciting challenge of mastering the potential lift of the curved daggerboards.}}
+==Events==
+===Olympics===
+{{Olympic medallists in Nacra 17}}
+===World Championship===
+{{main|Nacra 17 World Championship}}
+{{Nacra 17 World Championship medallists}}
+
+==See also==
+*[[ISAF Sailing World Championships]]
+*[[World Sailing]]
+
+==Przypisy==
+{{Przypisy}}
+
+==Linki zewnętrzne==
+* [http://www.nacra17class.com/ Nacra 17 Class Association]
+* [http://www.sailing.org/classesandequipment/N17.php World Sailing Nacra Microsite]
+* [http://www.nacrasailing.com/ Nacra Sailing]
+
+{{Classes of World Sailing}}
+{{Olympic class sailboats}}
+
+[[:Kategoria:Nacra 17| ]]
+[[:Kategoria:Catamarans]]
+[[:Kategoria:Olympic sailing classes]]
+[[:Kategoria:Classes of World Sailing]]

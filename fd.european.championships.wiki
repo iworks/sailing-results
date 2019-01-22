@@ -1,0 +1,243 @@
+==== Mistrzostwa Europy ====
+Przypisy:<ref>{{cytuj| url=http://sports123.com/sai/oe-fdm.html| tytuł=European| archiwum=url=https://web.archive.org/web/20090625155115/http://sports123.com/sai/oe-fdm.html
+| zarchiwizowano = 2009-06-25}}</ref>
+
+{| class="wikitable"
+!Rok
+!Miejsce
+!{{trofeum| medal świat| złoty}} Zwycięzca
+!{{trofeum| medal świat| srebrny}} 2. miejsce
+!{{trofeum| medal świat| brązowy}} 3. miejsce
+!Liczba załóg
+|-
+| 1955
+|
+| {{Flaga|DEN}}<br>[[Paul Elvstrøm]]<br>[[Aage Birch]]
+|
+|
+| align = right |
+|-
+| 1956
+|
+| {{Flaga|ITA}}<br>Vittorio Porta<br>Beppe Barnao
+|
+|
+| align = right |
+|-
+| 1957<ref>{{cytuj<br>tytuł=Zbigniew Szpetulski<br>url=http://pya.org.pl/polski-zwiazek-zeglarski/page/zbigniew-szpetulski/<br>opublikowany = Polski Związek Żeglarski| data dostępu = 2018-11-06}}</ref>
+|
+| {{Flaga|SUI}}<br>Pierre Siegenthaler<br>Michel Buzzi
+| {{Flaga|POL}}<br>[[Zbigniew Szpetulski]]
+|
+| align = right |
+|-
+| 1959
+| {{Państwo| Dania}}<br>[[Juelsminde]]
+| {{Flaga|FRG}}<br>Detlev Kreidel<br>Joachim Möller
+| {{Flaga|AUT}}<br>Fereberger
+| {{Flaga|GBR}}<br>Adrian Jardine<br>Angus Fryer
+| align = right |
+|-
+| 1960
+| {{Państwo|Szwecja}}<br>[[Sandhamn]]
+| {{Flaga|DEN}}<br>Hans Fogh<br>[[Ole Gunnar Petersen]]
+| {{Flaga|SUI}}<br>Pierre Siegenthaler<br>Michel Buzzi
+| {{Flaga|GBR}}<br>Dawes
+| align = right |
+|-
+| 1961
+| {{Państwo|Austria}}<br>[[Attersee]]
+| {{Flaga|SUI}}<br>Pierre Siegenthaler<br>Michel Buzzi
+| {{Flaga|FRG}}<br>Kadelbach
+| {{Flaga|NED}}<br>Ben Verhagen
+| align = right |
+|-
+| 1962
+| {{Państwo|Holandia}}<br>[[Muiden]]
+| {{Flaga|GBR}}<br>N. Wooderson Johnson<br>Christopher Davies
+| {{Flaga|NOR}}<br>Peder Lunde Jr.<br>[[Bjørn Bergvall]]
+| {{Flaga|FRA}}<br>Auclair
+| align = right |
+|-
+| 1964
+| {{Państwo|GBR}}<br>[[Whitstable]]
+| {{Flaga|GBR}}<br>Keith Musto<br>Tony Morgan
+| {{Flaga|DEN}}<br>Hans Fogh<br>[[Ole Gunnar Petersen]]
+| {{Flaga|AUT}}<br>Geiger<br>Fisher
+| align = right |
+|-
+| 1966
+| {{Państwo|Norwegia}}<br>[[Horten]]
+| {{Flaga|GBR}}<br>John Oakeley<br>David Hunt
+| {{Flaga|GBR}}<br>Keith Musto<br>Tony Morgan
+| {{Flaga|FRA}}<br>Draeger<br>Gavier
+| align = right |
+|-
+| 1967
+| {{Państwo|Francja}}<br>[[Bandol]]
+| {{Flaga|GBR}}<br>John Oakeley<br>David Hunt
+| {{Flaga|GBR}}<br>Rodney Pattison<br>Iain MacDonald-Smith
+| {{Flaga|AUT}}<br>Geiger<br>Fischer
+| align = right |
+|-
+| 1968
+| {{Państwo|Węgry}}<br>[[Balatonfüred]]
+| {{Flaga|GBR}}<br>Rodney Pattison<br>Iain MacDonald-Smith
+| {{Flaga|FRA}}<br>Bertrand Cheret<br>Bernard Trouble
+| {{Flaga|NED}}<br>Ben Verhagen<br>Nick de Jong
+| align = right |
+|-
+| 1969
+| {{Państwo|GBR}}
+| {{Flaga|GBR}}<br>Rodney Pattison<br>Iain MacDonald-Smith
+|
+|
+| align = right |
+|-
+| 1970
+| {{Państwo|Hiszpania}}<br>[[Mar Menor]]
+| {{Flaga|GBR}}<br>Rodney Pattison<br>Iain MacDonald-Smith
+| {{Flaga|GDR}}<br>Herbert Hüttner<br>Dietmar Gede
+| {{Flaga|ITA}}<br>Massone
+| align = right |
+|-
+| 1971<ref name="Sport">{{Cytuj| url = http://www.bbc.co.uk/scotland/sportscotland/asportingnation/article/0074/| opublikowany = BBC| tytuł = Rodney Pattison retains Olympic Gold 1972| data dostępu = 2008-08-21}}</ref>
+| {{Państwo|Hiszpania}}<br>[[Arenys de Mar]]
+| {{Flaga|GBR}}<br>Rodney Pattison<br>Julian Brooke
+|
+|
+| align = right |
+|-
+| 1972
+| {{Państwo|Holandia}}<br>[[Medemblik]]
+| {{Flaga|GBR}}<br>Rodney Pattison<br>Christopher Davies
+| {{Flaga|GER}}<br>[[Ullrich Libor]]<br>[[Peter Naumann]]
+| {{Flaga|NED}}<br>Fred Imhoff<br>Simon Korver
+| align = right |
+|-
+| 1973
+| [[Thun]]
+| {{Flaga|GDR}}<br>Herbert Hüttner<br>Ulf Pagenkopf
+| {{Flaga|GDR}}<br>Fröbe<br>Mayer
+| {{Flaga|FRA}}<br>Marc Pajot<br>Yves Pajot
+| align = right |
+|-
+| 1975
+| {{Państwo|Niemcy}}<br>[[Travemünde]]
+| {{Flaga|GBR}}<br>Rodney Pattison<br>Julian Brooke-Houghton
+| {{Flaga|FRG}}<br>Albert Batzill<br>Rudolf Batzill
+| {{Flaga|SUI}}<br>J. Hotz<br>A. Nicolet
+| align = right |
+|-
+| 1976
+| [[Hyères]]
+| {{Flaga|CAN}}<br>Hans Fogh<br>Evert Bastet
+| {{Flaga|GDR}}<br>Uwe Steingross<br>Jörg Schramme
+| {{Flaga|FRG}}<br>Jörg Diesch<br>[[Eckart Diesch]]
+| align = right |
+|-
+| 1982
+| {{Państwo|Szwajcaria}}<br>[[Silvaplana]]
+| {{Flaga|DEN}}<br>[[Jørgen Bojsen-Møller]]<br>Jacob Bojsen-Møller
+| {{Flaga|FRG}}<br>Jörg Diesch<br>[[Eckart Diesch]]
+| {{Flaga|FRG}}<br>Wiesner<br>Dressendörfer
+| align = right |
+|-
+| 1986
+| {{Państwo|Jugosławia|SFR}}<br>[[Rijeka]]
+| {{Flaga|FRG}}<br>Jörg Diesch<br>[[Eckart Diesch]]
+| {{Flaga|CAN}}<br>Frank McLaughlin<br>John Millan
+| {{Flaga|JPN}}<br>Sato<br>Wakanaga
+| align = right |
+|-
+| 1987
+|
+| {{Flaga|FRA}}<br>Thierry Berger<br>Vincent Berger
+| {{Flaga|DEN}}<br>[[Jørgen Bojsen-Møller]]<br>Jacob Bojsen-Møller
+| {{Flaga|ESP}}<br>[[Luis Doreste Blanco]]<br>Andor Serra
+| align = right |
+|-
+| 1988
+| {{Państwo|Hiszpania}}<br>[[Palma de Mallorca]]
+| {{Flaga|ESP}}<br>[[Luis Doreste Blanco]]<br>[[Miguel Noguer]]
+| {{Flaga|NOR}}<br>Ole Petter Pollen<br>Erik Bjørkum
+| {{Flaga|FRG}}<br>Albert Batzill<br>Peter Lang
+| align = right |
+|-
+| 1989
+| {{Państwo|Węgry}}<br>[[Balatonfüred]]
+| {{Flaga|HUN}}<br>Tamás Pomucz<br>Béla Argay
+| {{Flaga|GDR}}<br>Ulf Lehmann<br>Stefan Mädicke
+| {{Flaga|GDR}}<br>Jörn Borowski<br>Matthias Kroh
+| align = right |
+|-
+| 1990
+|
+| {{Flaga|URS}}<br>Georgy Shayduko<br>Viktor Budanzev
+| {{Flaga|ESP}}<br>[[Luis Doreste Blanco]]<br>[[Domingo Manrique]]
+| {{Flaga|FRG}}<br>Andreas Willim<br>Carsten Kemmling
+| align = right |
+|-
+| 1991
+|
+| {{Flaga|ITA}}<br>Luca Santella<br>Flavio Grassi
+| {{Flaga|ESP}}<br>[[Luis Doreste Blanco]]<br>[[Domingo Manrique]]
+| {{Flaga|FRG}}<br>Albert Batzill<br>Peter Lang
+| align = right |
+|-
+| 1992
+|
+| {{Flaga|FRA}}<br>Thierry Berger<br>Vincent Berger
+| {{Flaga|ESP}}<br>[[Luis Doreste Blanco]]<br>[[Domingo Manrique]]
+| {{Flaga|CAN}}<br>Frank McLaughlin<br>John Millen
+| align = right |
+|-
+| 1997
+| {{Państwo|Hiszpania}}<br>Mar Menor
+| {{Flaga|HUN}}<br>Szabolcs Majthényi<br>András Domokos
+| {{Flaga|GER}}<br>Michael Dorrer<br>Josef Seebauer
+| {{Flaga|GER}}<br>Andreas Gillwald<br>Martin Romberg
+| align = right |
+|-
+| 2000
+| {{Państwo|Włochy}}<br>[[Elba]]
+| {{Flaga|HUN}}<br>Szabolcs Majthényi<br>András Domokos
+| {{Flaga|GER}}<br>Hans-Peter Schwarz<br>Roland Kirst
+| {{Flaga|DEN}}<br>Jørgen Schønherr<br>[[Jørgen Bojsen-Møller]]
+| align = right |
+|-
+| 2003
+| {{Państwo|Włochy}}<br>[[Dervio]]
+| {{Flaga|DEN}}<br>[[Jørgen Bojsen-Møller]]<br>Jacob Bojsen-Møller
+| {{Flaga|GER}}<br>Hans-Peter Schwarz<br>Roland Kirst
+| {{Flaga|HUN}}<br>Szabolcs Majthényi<br>András Domokos
+| align = right |
+|-
+| 2006
+| {{Państwo|Austria}}<br>[[Neusiedl]]
+| {{Flaga|HUN}}<br>Szabolcs Majthényi<br>András Domokos
+| {{Flaga|DEN}}<br>[[Jørgen Bojsen-Møller]]<br>Jacob Bojsen-Møller
+| {{Flaga|GER}}<br>Dirk Bogumil<br>Michael Lisken
+| align = right |
+|-
+| 2008
+| {{Państwo|Chorwacja}}<br>[[Rabac]]
+| {{Flaga|DEN}}<br>[[Jørgen Bojsen-Møller]]<br>Jacob Bojsen-Møller
+| {{Flaga|HUN}}<br>Szabolcs Majthényi<br>András Domokos
+| {{Flaga|AUS}}<br>Norman Rydge<br>Richard Scarr
+| align = right |
+|-
+| 2012<ref>{{cytuj|url=http://www.sailifdco.com/wp-content/uploads/2011/10/2012_EC_result.docx|tytuł=Flying Dutchman Class European Championship 2012. Altea. Spain 30/03/2012 - 06/04/2012|język=en|data dostępu=2018-11-07}}</ref>
+| {{Państwo|Hiszpania}}<br>[[Altea]]
+| {{Flaga|HUN}}<br>Szabolcs Majthényi<br>András Domokos
+| {{Flaga|DEN}}<br>[[Jørgen Bojsen-Møller]]<br>Jacob Bojsen-Møller
+| {{Flaga|NED}}<br>Enno Kramer<br>Ard Geelkerken
+| align = right | 42
+|-
+| 2015<ref>{{cytuj|url=https://www.facebook.com/1499042287056287/photos/pcb.1500437870250062/1500436603583522/?type=3&theater|tytuł=FD European Championship 2015|język=en|data=2015-09-18|data dostępu=2018-11-07}}</ref>
+| {{Państwo|Chorwacja}}<br>[[Umag]]
+| {{Flaga|HUN}}<br>Szabolcs Majthényi<br>András Domokos
+| {{Flaga|NED}}<br>Enno Kramer<br>Ard Geelkerken
+| {{Flaga|ITA}}<br>Nicola Vespasiani<br>Francesco Vespasiani
+| align = right | 70
+|}

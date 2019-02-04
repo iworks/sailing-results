@@ -77,7 +77,7 @@ foreach( $data as $row ) {
             if ( empty( $one ) ) {
                 continue;
             }
-            if ( preg_match( '/^([A-Z]{3}) (.+)$/', $one, $matches ) ) {
+            if ( preg_match( '/^([A-Z]{3})[ \t]+(.+)$/', $one, $matches ) ) {
                 $country = $matches[1];
                 $one = trim( $matches[2] );
                 if ( empty( $one ) ) {

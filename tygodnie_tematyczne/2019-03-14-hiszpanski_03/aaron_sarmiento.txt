@@ -1,0 +1,66 @@
+{{Medalista infobox
+ | imię i nazwisko = Aarón Sarmiento
+ | prawdziwe nazwisko = Aarón Sarmiento Padilla
+ | grafika = 
+ | opis = 
+ | data urodzenia = [[26 sierpnia]] [[1986]]
+ | miejsce urodzenia = [[Las Palmas de Gran Canaria]]
+ | narodowość = {{Państwo|ESP}}
+ | dyscypliny = [[Żeglarstwo]], [[470 (jacht)|470]]
+ | klub = [[Real Club Náutico de Gran Canaria]]
+ | trener = 
+ | wzrost = 
+ | masa ciała = 
+ | medale = 
+ | commons = 
+}}
+'''Aarón Sarmiento Padilla''' (ur. 26 sierpnia 1986 r.w [[Las Palmas de Gran Canaria]]) – reprezentant Hiszpanii w [[Żeglarstwo | żeglarstwie]] w klasie [[470 (jacht)|470]]
+to hiszpański żeglarz, specjalizujący się w klasie dwuosobowych łódek: [[420 (jacht)|420]] i [[470 (jacht)|470]]. [1] [2] Reprezentował Hiszpanię wraz ze [[Onán Barreiros|Onánem Barreiros]] w dwóch edycjach igrzysk olimpijskich (2008 i 2012), a także szkolił się w Royal Nautical Club w Gran Canaria (hiszpański: Real Club Náutico de Gran Canaria) przez większość jego kariera sportowa pod osobistym trenerem i mentorem Jorge Angulo. [1] [3] Od września 2013 r. Sarmiento zajmuje pierwsze miejsce. 14 na świecie dla dwuosobowej klasy pontonów Międzynarodowej Federacji Żeglarskiej.
+
+Sarmiento zadebiutował na Letnich Igrzyskach Olimpijskich 2008 w Pekinie, gdzie połączył siły z członkiem załogi Onánem Barreirosem w klasie 470 mężczyzn. Solidny i pewny siebie, hiszpański duet skończył poza medalami z piątym miejscem na 87 punktach, pokonując zadziornego francuskiego tandemu Nicolasa Charbonniera i Oliviera Bausseta z dziewięciopunktowym marginesem. [4] [5]
+
+Na Letnich Igrzyskach Olimpijskich 2012 w Londynie Sarmiento zakwalifikował się do Olimpiady po raz drugi jako członek załogi w klasie 470 mężczyzn, kończąc dziewiąte i otrzymując miejsce na Mistrzostwach Świata ISAF w Perth, Australia Zachodnia. [6] [7] Ponownie grając z Barreirosem w serii otwierającej, Sarmiento ledwo stracił szansę na zdobycie medalu przez jeden punkt za Szwedami, ponieważ hiszpański duet uplasował się na jedenastej flocie dwudziestu siedmiu łodzi z łącznym wynikiem netto 104 punktów . [8] [9]
+
+{{Cytuj stronę | url = http://www.london2012.com/athlete/sarmiento-aaron-1107289/ | tytuł = Aarón Sarmiento | język = en }}
+{{Cytuj stronę | url = http://www.teldedigital.com/migdalia-rodriguez-visita-a-los-olimpicos-aaron-sarmiento-y-onan-barreiros-en-taliarte/ | tytuł = Migdalia Rodríguez visita a los olímpicos Aarón Sarmiento y Onán Barreiros en Taliarte | data = 14 stycznia 2012 | opublikowany = Telde Digital | język = es | archiwum = https://web.archive.org/web/20160304035251/http://www.teldedigital.com/migdalia-rodriguez-visita-a-los-olimpicos-aaron-sarmiento-y-onan-barreiros-en-taliarte/ | zarchiwizowano = 4 marca 2016 }}
+{{Cytuj stronę | url = http://www.2008.nbcolympics.com/sailing/resultsandschedules/rsc=SAM005000/standings.html | tytuł = Men's 470 Class | opublikowany = [[NBC Olympics]] | język = en | archiwum = https://web.archive.org/web/20140105145909/http://www.2008.nbcolympics.com/sailing/resultsandschedules/rsc%3DSAM005000/standings.html | zarchiwizowano = 5 stycznia 2014 }}
+{{Cytuj stronę | url = http://www.rcngc.com/en/nautica_noticias_int.php?n=327 | tytuł = Olympics: Barreiros and Sarmiento finish a productive preseason training 'stage' in the Island | data = 18 stycznia 2012 | opublikowany = Real Club Náutico de Gran Canaria | język = en | archiwum = https://archive.is/20130914123329/http://www.rcngc.com/en/nautica_noticias_int.php?n=327 | zarchiwizowano = 14 września 2013 }}
+{{Cytuj stronę | url = http://www.470.org/content.asp?id=4918 | tytuł = Medal Race Contenders and Olympic Nation Selection Confirmed | data = 10 grudnia 2011 | opublikowany = [[470 World Championships]] | język = en }}
+{{Cytuj stronę | url = http://www.laprovincia.es/deportes/2011/12/13/barreiros-sarmiento-logran-plaza-londres2012/422746.html | tytuł = Barreiros y Sarmiento logran su plaza para Londres 2012 | data = 13 grudnia 2011 | opublikowany = [[La Provincia]] | język = es }}
+{{Cytuj stronę | url = http://www.london2012.com/sailing/event/470-men/phase=sam005910/doc=summary.html | tytuł = Men's 470 | opublikowany = [[London 2012]] | język = en }}
+{{Cytuj stronę | url = http://www.canarias7.es/articulo.cfm?Id=271041 | tytuł = Onán Barreiros y Aarón Sarmiento quedan fuera de la 'Medal Race' | data = 7 sierpnia 2012 | opublikowany = Canarias 7 | język = es }}
+
+
+| height = {{height|m=1.80|abbr=on}}
+| weight = {{convert|72|kg|lb|0|abbr=on}}
+| website = 
+| country = 
+| classes = [[Dinghy]]
+| club = {{yachtclub|Real Club Náutico de Gran Canaria}} <ref name=london2012/>
+| coach = Jorge Angulo<ref name=london2012/>
+| medaltemplates= 
+| show_medals = yes
+}}
+'''Aarón Sarmiento Padilla''' (born 26 August 1986 in [[Las Palmas]], [[Gran Canaria]]) is a Spanish sailor, who specialized in two-person dinghy ([[420 (dinghy)|420]] and [[470 (dinghy)|470]]) class.<ref name=london2012>{{cite web|title=Aarón Sarmiento|url=http://www.london2012.com/athlete/sarmiento-aaron-1107289/|work=[[London 2012]]|accessdate=14 September 2013}}</ref><ref>{{cite sports-reference|Aarón Sarmiento|https://www.sports-reference.com/olympics/athletes/sa/aaron-sarmiento-1.html|14 September 2013}}</ref> He represented [[Spain]], along with his partner [[Onán Barreiros]], in two editions of the Olympic Games (2008 and 2012), and has also been training for the Royal Nautical Club of Gran Canaria ({{lang-es|Real Club Náutico de Gran Canaria}}) throughout most of his sporting career under his personal coach and mentor Jorge Angulo.<ref name=london2012/><ref>{{cite news|title=Migdalia Rodríguez visita a los olímpicos Aarón Sarmiento y Onán Barreiros en Taliarte |trans-title=Migdalía Rodriguez visits Olympians Onán Barreiros and Aarón Sarmiento in Taliarte |language=Spanish |url=http://www.teldedigital.com/migdalia-rodriguez-visita-a-los-olimpicos-aaron-sarmiento-y-onan-barreiros-en-taliarte/ |publisher=Telde Digital |date=14 January 2012 |accessdate=14 September 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20160304035251/http://www.teldedigital.com/migdalia-rodriguez-visita-a-los-olimpicos-aaron-sarmiento-y-onan-barreiros-en-taliarte/ |archivedate=4 March 2016 }}</ref> As of September 2013, Sarmiento is ranked no. 14 in the world for two-person dinghy class by the [[International Sailing Federation]].
+
+Sarmiento made his official debut at the [[2008 Summer Olympics]] in [[Beijing]], where he paired up with crew member [[Onán Barreiros]] in the [[Sailing at the 2008 Summer Olympics – Men's 470 class|men's 470]] class. Solid and confident, the Spanish duo finished outside the medals with a fifth-place effort on 87 points, trailing the feisty French  tandem [[Nicolas Charbonnier]] and [[Olivier Bausset]] by a nine-point margin.<ref>{{cite web|title=Men's 470 Class |url=http://www.2008.nbcolympics.com/sailing/resultsandschedules/rsc=SAM005000/standings.html |work=[[Beijing 2008]] |publisher=[[NBC Olympics]] |accessdate=13 September 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20140105145909/http://www.2008.nbcolympics.com/sailing/resultsandschedules/rsc%3DSAM005000/standings.html |archivedate= 5 January 2014 |df= }}</ref><ref>{{cite news|title=Olympics: Barreiros and Sarmiento finish a productive preseason training 'stage' in the Island |url=http://www.rcngc.com/en/nautica_noticias_int.php?n=327 |archive-url=https://archive.is/20130914123329/http://www.rcngc.com/en/nautica_noticias_int.php?n=327 |dead-url=yes |archive-date=14 September 2013 |publisher=Real Club Náutico de Gran Canaria |date=18 January 2012 |accessdate=14 September 2013 }}</ref>
+
+At the [[2012 Summer Olympics]] in [[London]], Sarmiento qualified for an Olympics for the second time as a crew member in the [[Sailing at the 2012 Summer Olympics – Men's 470 class|men's 470]] class by finishing ninth and receiving a berth at the [[2011 ISAF Sailing World Championships|ISAF World Championships]] in [[Perth, Western Australia]].<ref>{{cite news|title=Medal Race Contenders and Olympic Nation Selection Confirmed |url=http://www.470.org/content.asp?id=4918 |publisher=[[470 World Championships]] |date=10 December 2011 |accessdate=14 September 2013 }}{{dead link|date=June 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite news|title=Barreiros y Sarmiento logran su plaza para Londres 2012|trans-title=Barreiros and Sarmiento achieve their place in London 2012|language=Spanish|url=http://www.laprovincia.es/deportes/2011/12/13/barreiros-sarmiento-logran-plaza-londres2012/422746.html|publisher=[[La Provincia]]|date=13 December 2011|accessdate=14 September 2013}}</ref> Teaming again with Barreiros in the opening series, Sarmiento narrowly missed a chance to sail for the medal race by a single point behind the Swedes, as the Spanish duo placed eleventh in a fleet of twenty-seven boats with an accumulated net score of 104 points.<ref>{{cite web|title=Men's 470|url=http://www.london2012.com/sailing/event/470-men/phase=sam005910/doc=summary.html|publisher=[[London 2012]]|accessdate=27 November 2012}}</ref><ref>{{cite news|title=Onán Barreiros y Aarón Sarmiento quedan fuera de la 'Medal Race'|trans-title=Onán Barreiros and Aarón Sarmiento fell outside the 'medal race'|language=Spanish|url=http://www.canarias7.es/articulo.cfm?Id=271041|publisher=Canarias 7|date=7 August 2012|accessdate=14 September 2013}}</ref>
+
+==Przypisy==
+{{Przypisy}}
+
+==External links==
+*[http://www.coe.es/COE/bd_perso.nsf/VBusqDeport/04EB7955E9950E5BC1256FE900384DC7?opendocument&query=Consulta=DEPORTISTAS_*2*!DEPORTISTAS_POR_DEPORTE?*=deportista=Aarón+Sarmiento+Padilla@-@3423 COE Profile] {{es icon}}
+*[http://www.sailing.org/bio.asp?ID=ESPAS2 ISAF Profile]
+*[http://www.2012.nbcolympics.com/athletes/athlete=sarmiento-aaron-1107289/index.html NBC Olympics Profile]
+
+{{DEFAULTSORT:Sarmiento, Aaron}}
+
+[[Kategoria:Urodzeni w 1986]]
+[[Kategoria:Hiszpańscy żeglarze sportowi]]
+[[Kategoria:Hiszpańscy żeglarze olimpijscy]]
+[[Kategoria:Uczestnicy Letnich Igrzysk Olimpijskich, Pekin 2008]]
+[[Kategoria:Uczestnicy Letnich Igrzysk Olimpijskich, Londyn 2012]]
+[[Kategoria:Ludzie urodzeni w Las Palmas de Gran Canaria]]
+

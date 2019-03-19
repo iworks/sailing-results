@@ -1,0 +1,202 @@
+{{Biogram infobox
+ |imię i nazwisko = Jack Holt
+ |imię i nazwisko org = John Lapworth Holt
+ |grafika = 
+ |opis grafiki = 
+ |data urodzenia = [[12 kwietnia]] [[1912]]
+ |miejsce urodzenia = [[Hammersmith]]
+ |data śmierci = [[1995]]
+ |miejsce śmierci = 
+ |zawód = konstruktor jachtów
+ |odznaczenia = {{order|OBE|C1}}
+ |commons = 
+ |www = 
+ |narodowość = {{Państwo|GBR}}
+ |małżeństwo = Iris
+ |dzieci = 
+}}
+
+'''Jack Holt''' (ur. [[12 kwietnia]] [[1912]] w [[Hammersmith]], zm. [[1995]] - brytyjski konstruktor jachtów sportowych i turystycznych jeden z ludzi, którzy najbardziej wpłyneli na to jak przez lata wyglądały łódki sportowe typu "dighy"<ref>{{Cytuj | url = https://www.yachtsandyachting.com/news/162593/Jack-Holt-OBE-1912-1995 | tytuł = Jack Holt. OBE 1912-1995 | data = 2012-04-18 | język = en | author = David Henshall | data dostępu = 2019-02-26 | opublikowany = Yachts and Yachting Online }}</ref>. Był pionierem w budowej kadłubów ze sklejki, a budowane w ten sposób kadłuby, po drugiej wojnie światowej, spopularyzowały żeglarstwo regatowe<ref name=obit>{{cytuj | autor = Beecher Moore| tytuł = Obituary: Jack Holt | url = https://www.independent.co.uk/opinion/obituaryjack-holt-1582198.html | opublikowany = [[The Independent]] | data =1995-11-16 | język = en }}</ref>.
+
+Urodzony w [[Hammersmith]] w [[Londyn]]ie niedaleko [[Tamiza|Tamizy]] Holt zaprojektował ponad 40 łodek, z których wiele jest wymienionych poniżej. Przez wiele lat pracował z entuzjastą żeglarstwa i biznesmenem [[Beecher Moore|Beecherem Moore]]<ref name=obit2>{{cytuj | autor = Peter Cook | tytuł = Obituary: Beecher Moore | url = https://www.independent.co.uk/news/obituaries/obituary--beecher-moore-1352431.html | opublikowany = [[The Independent]] | data = 1996-11-15 | język = en }}</ref>.
+
+W 1979 Jack Holt za swoje zasługi dla żeglarstwa został uchonorowany [[Order Imperium Brytyjskiego|Orderem Imperium Brytyjskiego]].
+
+== Kluby żeglarskie ==
+
+Jack Holt był związany z kilkoma klubami żeglarskimi. Jego pracowania, w której zaprojekował łódki [[Merlin Rocket]] i [[National 12]], znajdowała się tuż obok [[Ranelagh Sailing Club]]
+
+W 1956 był współzałożycielem [[Wraysbury Lake Sailing Club]]<ref>{{Cytuj | url = http://www.wlsc.org.uk/story.htm \ tytuł = Wraysbury Lake SC has large fleets of Enterprise and Solo dinghies | archiwum = https://web.archive.org/web/20060427175601/http://www.wlsc.org.uk/story.htm | zarchiwizowano = 2006-04-27 | opublikowany = wlsc.org.uk }}</ref>.
+
+Był blisko związany z London [[Corinthian Sailing Club]] [5] bardzo blisko jego lokalu Putneya.
+
+
+
+In 1956 he was a co-founder of [[Wraysbury Lake Sailing Club]].
+
+He was closely associated with the [[London Corinthian Sailing Club]],<ref>[http://www.lcsc.org.uk/history/print.php?page=History&PHPSESSID=c3372ad3bc884798b0ac86871fc4a34c&PHPSESSID=c3372ad3bc884798b0ac86871fc4a34c London Corininthian SC Club History] {{webarchive|url=https://web.archive.org/web/20051223130431/http://www.lcsc.org.uk/history/print.php?page=History&PHPSESSID=0dca4f5d4eb3873f399ce71d64c5c8d8&PHPSESSID=0dca4f5d4eb3873f399ce71d64c5c8d8 | data = 2005-12-23 }} ''lcsc.org.uk''</ref> very close to his Putney premises.
+
+==Jack Holt Designs==
+<!-- when you add an article to this list, please check that it has the Category:Jack Holt Designs added to it-->
+
+===Skonstruowane łódki===
+
+{| class="wikitable sortable" style="max-width=500px;"
+! Model<ref>{{Cytuj | url = http://sailboatdata.com/view_designer.asp?designer_id=358 | tytuł = Sailboats Designed By John Westell | język = en | data dostępu = 2019-02-20 }}</ref>
+! Długość
+! Rok
+! class="unsortable" style="max-width:300px" | Uwagi
+|-
+|-
+| [[Cadet]]<ref>{{Cytuj | url = https://sailboatdata.com/sailboat/cadet-int | tytuł = Cadet (INT) | data dostępu = 2019-02-26 | język = en | opublikowany = SailboatData.com }}</ref>
+| 1947
+| {{Convert|10.56|ft|m|adj=on}}
+| Zaprojektowany na zlecenie [[Yachting World]]
+|-
+| [[Diamond Keelboat]]<ref>{{Cytuj | url = https://sailboatdata.com/sailboat/yachting-world-diamond | tytuł = Yachting World Diamond | data dostępu = 2019-02-26 | język = en | opublikowany = SailboatData.com }}</ref>
+| 1961
+| {{Convert|30.12|ft|m|adj=on}}
+| The 'Diamond Keelboat' was Commissioned by [[Yachting World]]}}<ref>{{cite web |url=http://www.yachte.com.au/classes/ywdiamond.asp | tytuł = Y.W. Diamond (Yachting World Diamond) (ex Yachting World Keelboat) |accessdate=2009-08-16 |quote=Editors of Yachting World approach Jack Holt. The resultant boat is known as the Yachting World Keelboat. |deadurl=yes |archiveurl=https://web.archive.org/web/20090819073914/http://www.yachte.com.au/classes/ywdiamond.asp |archivedate=2009-08-19 |df= }}</ref>
+|-
+| [[Enterprise]]<ref>{{Cytuj | url = https://sailboatdata.com/sailboat/enterprise-int | tytuł = Enterprise (INT) | data dostępu = 2019-02-26 | język = en | opublikowany = SailboatData.com }}</ref>
+| 1956
+| {{Convert|13.29|ft|m|adj=on}}
+| The Enterprise was Originally the [[News Chronicle]] Enterprise, and was the first dinghy sponsored by a national paper
+|-
+| [[Explorer]]<ref>{{Cite web |url=http://www.cvrda.org/dinghydata/Designer.htm | tytuł = [Explorer] Also for Yachting World |access-date=2013-10-10 |archive-url=https://web.archive.org/web/20121003054424/http://www.cvrda.org/dinghydata/Designer.htm |archive-date=2012-10-03 |dead-url=yes |df= }}</ref><ref>{{Cytuj | url = https://sailboatdata.com/sailboat/explorer-15-holt | tytuł = Explorer 15 (Holt) | data dostępu = 2019-02-26 | język = en | opublikowany = SailboatData.com }}</ref>
+| 1961
+| {{Convert|14.75|ft|m|adj=on}}
+| 
+|-
+| [[GP14]]<ref>{{Cytuj | url = https://sailboatdata.com/sailboat/gp14 | tytuł = GP14 | data dostępu = 2019-02-26 | język = en | opublikowany = SailboatData.com }}</ref>
+| 1959
+| {{Convert|14|ft|m|adj=on}}
+| 
+|-
+| [[Heron (jacht)|Heron]]<ref>{{Cytuj | url = https://sailboatdata.com/sailboat/heron | tytuł = Heron | data dostępu = 2019-02-26 | język = en | opublikowany = SailboatData.com }}</ref>
+| 1950
+| {{Convert|11.25|ft|m|adj=on}}
+| 
+|-
+| [[Hornet (jacht)|Hornet]]<ref>{{Cytuj | url = https://sailboatdata.com/sailboat/hornet | tytuł = Hornet | data dostępu = 2019-02-26 | język = en | opublikowany = SailboatData.com }}</ref>
+| 1951
+| {{Convert|16|ft|m|adj=on}}
+| 
+|-
+| [[Ideal]]<ref>[http://www.cvrda.org/dinghydata/ideal/ Ideal dinghy] ''cvrda.org'', accessed 10 December 2018</ref>
+| 
+| 
+| 
+|-
+| [[International Canoe|International 10sq m Canoe]]<ref>[http://www.intcanoe.org.uk/evolution1.html The International Canoe 'Quest' was designed and built by Jack Holt] ''intcanoe.org.uk''</ref>
+| 
+| 
+| 
+|-
+| [[International 14]]
+| 
+| 
+| The International 14 is a development class.<ref>[http://www.international14.org/index.php?option=com_content&task=view&id=30&Itemid=29 Jack Holt is among many International 14 designers] ''international14.org''</ref>
+|-
+| [[Jacksnipe]]<ref>{{Cytuj | url = https://sailboatdata.com/sailboat/jacksnipe | tytuł = Jacksnipe | data dostępu = 2019-02-26 | język = en | opublikowany = SailboatData.com }}</ref>
+| 1968
+| {{Convert|15.5|ft|m|adj=on}}
+| 
+|-
+| [[Lazy E]]<ref>[http://www.sailbosun.freeserve.co.uk/Bosun%20History.html The Lazy E was one of several dinghies trialled by the Admiralty for sailing by the Royal Navy] ''sailbosun.freeserve.co.uk'' {{webarchive|url=https://web.archive.org/web/20060207102442/http://www.sailbosun.freeserve.co.uk/Bosun%20History.html | data = 2006-02-07 }}. The [[Ian Proctor]] designed [[Bosun (dinghy)|Bosun]] was selected</ref><ref>{{Cytuj | url = https://sailboatdata.com/sailboat/national-e-lazy-e | tytuł = National E (Lazy E) | data dostępu = 2019-02-26 | język = en | opublikowany = SailboatData.com }}</ref>
+| 1962
+| {{Convert|15.09|ft|m|adj=on}}
+| 
+|-
+| [[Merlin Rocket]]
+| 
+| 
+| Jack Holt collaborated with [[Beecher Moore]] in the design of the first Merlin Rocket <ref>[http://www.holt-group.co.uk/about/default.asp Holt - About us]{{dead link| data = December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|-
+| [[Miracle]]<ref>{{Cytuj | url = https://sailboatdata.com/sailboat/miracle-dinghy | tytuł = Miracle Dinghy | data dostępu = 2019-02-26 | język = en | opublikowany = SailboatData.com }}</ref>
+| 1975
+| {{Convert|12.76|ft|m|adj=on}}
+| 
+|-
+| [[Mirror (jacht)|Mirror]]<ref>{{Cytuj | url = https://sailboatdata.com/sailboat/mirror-dinghy-int | tytuł = Mirror Dinghy (INT) | data dostępu = 2019-02-26 | język = en | opublikowany = SailboatData.com }}</ref>
+| 1965
+| {{Convert|10.83|ft|m|adj=on}}
+| The Mirror was Designed by Jack Holt and [[Barry Bucknell]]
+|-
+| [[Mirror 16]]
+| 
+| 
+| The Mirror 16 was designed by Jack Holt as a larger version of the Mirror dinghy.
+|-
+| [[National 12 (dinghy)|National 12]]
+| 
+| 
+| National 12 is a development class, Holt had some very successful river designs
+|-
+| [[National E]]<ref>[http://hsc.asn.au/classes.htm The National E is 5m and uses a mainsail, jib, spinnaker and trapeze] {{webarchive|url=https://web.archive.org/web/20060427045648/http://hsc.asn.au/classes.htm | data = 2006-04-27 }}, accessed 10 December 2018</ref>
+| 
+| 
+| 
+|-
+| [[North Norfolk 16]]<ref>[http://www.uffafox.com/uffanews.htm Some later boats designed by Jack Holt, specifically Jack Holt designed 'Spritely'] ''uffafox.com'', accessed 10 December 2018</ref>
+| 
+| 
+| 
+|-
+| [[Pacer]]<ref>[http://www.pacersailing.org.au/pacer_history_text.php History of the Pacer Class] {{webarchive|url=https://web.archive.org/web/20090913190347/http://www.pacersailing.org.au/pacer_history_text.php | data = 2009-09-13 }}, accessed 10 December 2018 ''pacersailing.org.au''</ref><ref>{{Cytuj | url = https://sailboatdata.com/sailboat/pacer | tytuł = Pacer | data dostępu = 2019-02-26 | język = en | opublikowany = SailboatData.com }}</ref>
+| 1969
+| {{Convert|12.58|ft|m|adj=on}}
+| Pełna, formalna nazwa to ``Puffin Pacer``.
+|-
+| [[Rambler]]<ref>[http://szkutnikamator.pl/index.php/rambler-kumpel/203-rambler-qkumpelq Description and pictures of the boat repair to the Rambler 'Kumpel'] ''szkutnikamator.pl'', accessed 10 December 2018</ref><ref>{{Cytuj | url = https://sailboatdata.com/sailboat/yachting-world-rambler | tytuł = Yachting World Rambler | data dostępu = 2019-02-26 | język = en | opublikowany = SailboatData.com }}</ref>
+| 1961
+| {{Convert|17|ft|m|adj=on}}
+| 
+|-
+| [[Solo (jacht)|Solo]]<ref>{{Cytuj | url = https://sailboatdata.com/sailboat/solo | tytuł = Solo | data dostępu = 2019-02-26 | język = en | opublikowany = SailboatData.com }}</ref>
+| 
+| {{Convert|12.42|ft|m|adj=on}}
+| 
+|-
+| [[Streaker]]<ref>{{Cytuj | url = https://sailboatdata.com/sailboat/streaker | tytuł = Streaker | data dostępu = 2019-02-26 | język = en | opublikowany = SailboatData.com }}</ref>
+| 1975
+| {{Convert|12.73|ft|m|adj=on}}
+| 
+|-
+| [[Vagabond (dinghy)|Vagabond]]<ref>[http://www.cvrda.org/dinghydata/vagabond-2/ Vagabond dinghy] ''cvrda.org'', accessed 10 December 2018</ref>
+| 
+| 
+| 
+|}
+
+A selection of Jack Holt plans are held in the archives of the [[National Maritime Museum Cornwall]].
+
+== Budowniczy łodek ==
+
+Oprócz projektowania łodzi, Jack był także szkutnikiem i interes zajmujący sie okuwanie znajdował się na strychu nad warsztatem szkutniczym. Zbudował wszystkie zaprojektowane przez siebie łodzie, ale także budował łodzie zaprojektowane przez innych, w tym [[Albacore]].<ref>{{Cytuj | url = http://www.albacore.org/IAAMinutes1997.asp | tytuł = Minutes of the Meeting of the International Albacore Association held on July 28, July 29, and July 31, 1997 | archiwum = https://web.archive.org/web/20060824030851/http://www.albacore.org/IAAMinutes1997.asp | zarchiwizowano = 2006-08-24 | data dostępu 2018-12-10}}</ref>
+
+==Sailing fittings==
+
+Jack collaborated with Glen and Tony Allen from [[Essex]] to manufacture and supply a lightweight range of dinghy fittings, the fittings were known as ''Holt Allen'' fittings for 52 years until 2008 when the Allen side decided to distribute the fittings themselves under the brand ''Allen''.<ref>[https://web.archive.org/web/20110708075059/http://www.boatingbusiness.com/news101/holt_and_allen_split_after_52_years Holt and Allen to split (archived)] 29 Jan 2008 Originally at ''boatingbusiness.com'', accessed 10 December 2018</ref> The companies now trade separately as Holt Marine Ltd.<ref>[https://web.archive.org/web/20090322124226/http://holt.eu/about/ Holt Marine Ltd.-About: HOLT - Inspired design and innovation (archived)] ''holt.eu/about'', accessed 10 December 2018</ref> and Allen Brothers (Fittings) Ltd.<ref>[http://www.allenbrothers.co.uk Allen Brothers (Fittings) Ltd.- About us 'The Allen pedigree is unquestionable, the company having been in the marine business since 1956'] ''allenbrothers.co.uk'', accessed 10 December 2018</ref>
+
+== Żaglomistrz ==
+
+Żagle dla wczesnych Puffinów, z sylwetką maskonura na topie, były koloru ciemnoniebieskiego i zostały uszyte przez '''Jack Holt of Sails of Putney'''.
+
+
+== Linki zewnętrzne ==
+*[http://www.allenbrothers.co.uk/ Allen Brothers (Fittings) Ltd website]
+
+==Notes==
+{{notelist}}
+
+== Przypisy ==
+{{Przypisy}}
+
+{{DEFAULTSORT:Holt, Jack}}
+
+[[Kategoria:urodzeni w 1912]]
+[[Kategoria:zmarli w 1995]]
+[[Kategoria:Brytyjscy żeglarze sportowi]]
+[[Kategoria:Projektanci jachtów]]
+[[Kategoria:Brytyjscy projektanci jachtów]]

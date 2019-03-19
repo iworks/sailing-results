@@ -1,0 +1,86 @@
+﻿{{Biogram infobox
+ |imię i nazwisko      = John Westell
+ |imię i nazwisko org  = Woodroffe John Westell
+ |grafika              = 
+ |opis grafiki         = 
+ |data urodzenia       = [[11 marca]] [[1921]]
+ |miejsce urodzenia    = [[Devon]]
+ |data śmierci         = [[styczeń]] [[1989]]
+ |miejsce śmierci      = [[Devon]]
+ |zawód                = konstruktor jachtów
+ |odznaczenia          = 
+ |commons              = 
+ |www                  = 
+ |narodowość           = {{Państwo|GBR}}
+}}
+
+'''John Westell''' (ur. [[11 marca]] [[1921]] w [[Devon]], zm. styczeń [[1989]] w [[Devon]]) - brytyjski konstruktor jachtów sportowych i turystycznych<ref>{{Cytuj książkę |url=https://books.google.com/books?id=0AdUAAAAMAAJ&q=john+westell+sailboat+designer&dq=john+westell+sailboat+designer&hl=en&sa=X&ved=0ahUKEwiXq4-ty43bAhWwpFkKHbBeCM4Q6AEILzAB| tytuł = Cruising sailboat kinetics: the art, science, and magic of cruising boat design| autor = Greene,Danny |data = 1984 | wydawca = Seven Seas Press| isbn = 9780915160693| miejsce = | strony = 116| język = en}}</ref>, zapamiętany przede wszyskim jako konstruktor [[505 (jacht)|505tki]] <ref>{{Cytuj|url=https://www.bateaux.com/article/19436/Le-mythique-5o5-petit-mais-puissant|tytuł=Le mythique 5o5, petit mais whaou !|autor=Lottret,Chloé|data=September 19, 2016|opublikowany=Bateaux.com| data dostępu = 2018-05-17|język=fr-FR}}</ref> oraz [[trimaran]]u [[Ocean Bird]]<ref>{{Cytuj książkę |url=https://books.google.com/books?id=daWypAhrnX4C&q=john+westell+sailboat+designer&dq=john+westell+sailboat+designer&hl=en&sa=X&ved=0ahUKEwiXq4-ty43bAhWwpFkKHbBeCM4Q6AEIKTAA| tytuł = Sailboat design: yesterday, today, and tomorrow|autor=Gougeon,Meade;=Knoy,Ty|data=1974| wydawca = Collier Books| isbn = 9780020014003 | język = en}}</ref>.
+
+==Biografia==
+
+Ochrzczono go jako '''Woodroffe John Westell''' urodził się 11 marca 1921 r. w hrabstwie [[Devon]] w Anglii, ale zrezygnował z używania imienia "Woodroffe", ponieważ nie chciał być nazywany "Woody"{{r|the-four-wise-man}}. W wieku 16 lat wygrał regaty w klasie [[National 12]] w Exe, co było znaczącym wyczynem ze względu na siłę tej klasy. Po wybuchu wojny w 1939 r. zgłosił się na ochotnika do Królewskiej Rezerwy Marynarki Wojennej i jako marynarz trafił na trałowiec klasy Bird, który należało dostarczyć do nowozelandzkiej marynarki wojennej. Po powrocie został awansowany na podporucznika i w czasie szkolenia oficerskiego wybrał [[meteorologia|meteorologię]] na swoją specjalizację. Po ukończeniu szkolenia został wysłany na stację marynarki wojennej w [[Puttalam]] na terenie ówczesnego [[Cejlon]]u ([[Sri Lanka]]). Służba na placówce musiała być dość spokojna, ponieważ John zbudował łódkę klasy [[Sharpie]] na której spędzał mnóstwo czasu. Doświadczenia zebrane na żeglowaniu wpłynęły na jego późniejsze projekty.
+
+Pragnąc zdobyć pracę w branży żeglarskiej, John był jednym z założycieli magazynu [[Yachts & Yachting]], gdzie publikował artykuły, zarówno pod własnym nazwiskiem, jak i pod wieloma pseudonimami.
+
+Poślubił Rosemary, którą poznał w Exe SC. W 1950 roku urodziła się ich córka Gillian.<ref  name="the-four-wise-man">{{Cytuj|url=https://www.yachtsandyachting.com/news/191116/The-Fourth-Wise-Man| tytuł = The Fourth Wise Man| autor = Henshall,David | data = 2016-07-26 | opublikowany = YachtsandYachting.com|data dostępu=2018-05-17}}</ref>
+
+Zmarł na raka w styczniu 1989 roku w wieku 68 lat.
+
+==Projektowanie jachtów==
+
+Pierwszy łódka Westella to sklejkowe dinghy o długości {{Convert|16|ft|m|adj=on}} z tępo ściętym dziobem. We wczesnych latach pięćdziesiątych zainteresował się eksperymentowaniem z kształtami kadłuba klasy [[International 14]] oraz [[Latający Holender (jacht)|Latającym Holenderem]], wszystko to pod kątem poprawy charakterystyki [[Ślizg (żeglarstwo)|ślizgu]], co finalnie doprowadziło do powstania [[505 (jacht)|klasy 5O5]]{{r|the-four-wise-man}}.
+
+Pracował dla producenta łodzi w [[Rochester (Kent)|Rochester]] w hrabstwie [[Kent]], a następnie został dyrektorem technicznym produkcji w [[Honnor Marine]] w [[Totnes]] w hrabstwie [[Devon]]. W latach 70. w wyniku zainteresowania się turystycznymi trimaranami powstał projekt jachtu Ocean Bird ze składanymi, bocznymi pływakami{{r|the-four-wise-man}}.
+
+===Klasa 505===
+
+Żaglówka brała udział w konkursie ogłoszoną przez [[World Sailing|Międzynarodowa Federacja Żeglarska]], która odbyła się w 1953 roku we [[Francja|Francji]] w [[La Baule-Escoublac]]. Celem konkursu był wybór nowej, dwuosobowej żaglówki na [[Igrzyska olimpijskie]]. '''Coronet'''<ref name="coronet">{{Cytuj | url = http://1001boats.blogspot.com/2012/10/sacre-cinquo-is-505-really-french.html | tytul = Sacré Cinquo! – is the 505 really French? | język = en | data = 2012-10-19 | data dostępu = 2019-02-20 | opublikowany = 1001 Boats }}</ref> został odrzucony i nową łódką został [[Latający Holender (jacht)|Latający Holender]]. W 1954 roku francuskie stowarzyszenie [[:fr:Caneton (bateau)|Caneton Association]] poprosiło o skrócenie Coroneta do 5 metrów. Westell skorzystał z możliwości zawartych w przepisach pomiarowych klasy, które zakładały 1% tolerancje wymiaru i tym sposobem powstał kadłub o długości  5,05 m, dziś znany jako [[505 (jacht)|International 5O5]]. Klasa uzyskała międzynarodowy status IYRU w 1955 roku<ref name="Centreboard">{{Cytuj |url=http://www.sailohcc.ca/sailboats/international-505/ | tytuł = International 505 | wydawca = Outer Harbour Centreboard Club |data dostępu = 2013-07-20}}</ref>.
+
+===Oceaniczny trimaran Ocean Bird=== 
+
+Westell zaprojektował prototyp '''Ocean Bird''', który stał się trimaranem w 1970 roku. Posiadał on składane boczne pływaki na ramie ze stalowej belki. Pływaki zapewniają dużą stabilność w czasie żeglugi, zapobiegając większym przechyłom, a jednocześnie pozwala to na zmniejszenie szerokości w czasie wchodzenia do portu i w nim cumowania<ref name="doa">{{Cytuj |url= http://vads.ac.uk/diad/article.php?title=263&year=1970&article=d.263.30 |opublikowany =  Design Magazine |autor = Owen,David | tytuł =  Trimariner: David Owen looks at the Ocean Bird, a cruising trimaran which offers speed with stability}}</ref><ref>{{Cytuj|url=https://sailboatdata.com/sailboat/ocean-bird-30 | tytuł = Ocean Bird 30 | opublikowany = sailboatdata.com|data dostępu=2018-05-17}}</ref>.
+
+===Skonstruowane łódki===
+
+{| class="wikitable"
+! Model<ref>{{Cytuj | url = http://sailboatdata.com/view_designer.asp?designer_id=358 | tytuł = Sailboats Designed By John Westell | język = en | data dostępu = 2019-02-20 }}</ref>
+! Długość
+! Rok
+|-
+| Dingbat
+| {{Convert|16|ft|m|adj=on}}
+| [[1947]]
+|-
+| Coronet{{r|coronet}}
+| {{Convert|18|ft|m|adj=on}}
+| [[1953]]
+|-
+| [[505 (jacht)|505]]
+| 5.05 m
+| [[1954]]
+|-
+| Allegro (Westell)<ref>{{Cytuj | url = https://sailboatdata.com/sailboat/allegro-westell | tytuł = Allegro (Westell) | język = en | data dostępu = 2019-02-20 | opublikowany = SailboatData.com }}</ref>
+| {{Convert|20.75|ft|m|adj=on}}
+| [[1956]]
+|-
+| Cinder 22<ref>{{Cytuj | url =  | tytuł = Cinder 22 | język = en | data dostępu = 2019-02-20 | opublikowany = SailboatData.com }}</ref>
+| {{Convert|21.5|ft|m|adj=on}}
+| [[1966]]
+|-
+| Nova 27<ref>{{Cytuj | url = https://sailboatdata.com/sailboat/nova-27 | tytuł = Nova 27 | język = en | data dostępu = 2019-02-20 | opublikowany = SailboatData.com }}</ref>
+| {{Convert|27.67|ft|m|adj=on}}
+| [[1971]]
+|-
+| Ocean Bird 30{{r|doa}}
+| {{Convert|30|ft|m|adj=on}}
+| [[1970]]
+|}
+
+==Przypisy==
+{{Przypisy}}
+
+{{DEFAULTSORT:Westell, John}}
+
+[[Kategoria:Urodzeni w 1921]]
+[[Kategoria:Zmarli w 1989]]
+[[Kategoria:Brytyjscy żeglarze sportowi]]

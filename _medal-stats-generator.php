@@ -58,18 +58,20 @@ foreach( $data as $row ) {
             $v = trim( $v );
         }
         $s = explode( '/', $v );
-        if ( $show_country && preg_match( '/^(BRD|GDR|DDR|FRG|GER)$/i', $country ) ) {
-            $country = 'DEU';
-        }
-        if ( $show_country && preg_match( '/^(SFR)$/i', $country ) ) {
-            $country = 'YUG|SFR';
-        }
-        if ( $show_country && preg_match( '/^(PRL)$/i', $country ) ) {
-            $country = 'POL';
-        }
 
-        if ( $default_country === $country ) {
-            print_r( $row );die;
+        if ( $show_country ) {
+            if ( preg_match( '/^(BRD|GDR|DDR|FRG|GER)$/i', $country ) ) {
+                $country = 'DEU';
+            }
+            if ( preg_match( '/^(SFR)$/i', $country ) ) {
+                $country = 'YUG|SFR';
+            }
+            if ( preg_match( '/^(PRL)$/i', $country ) ) {
+                $country = 'POL';
+            }
+            if ($default_country === $country ) {
+                print_r( $row );die;
+            }
         }
 
         foreach ( $s as $one ) {

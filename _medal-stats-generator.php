@@ -32,9 +32,14 @@ if ( isset( $argv[4] ) && 'hide' === $argv[4] ) {
     $show_country = false;
 }
 
+$is_place_added = false;
+
 foreach( $argv as $a ) {
     if ( 'hide-country' === $a ) {
         $show_country = false;
+    }
+    if ( 'place-is-added' === $a ) {
+        $is_place_added = true;
     }
 }
 
@@ -46,6 +51,9 @@ foreach( $data as $row ) {
     $x = explode( ',', $row );
     $year = intval( array_shift( $x ) );
     $place = 1;
+    if ( $is_place_added ) {
+        array_shift( $x );
+    }
     foreach( $x as $v ) {
         $v = trim( $v );
         if ( empty( $v ) ) {

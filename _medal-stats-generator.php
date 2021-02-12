@@ -120,7 +120,7 @@ foreach ( $data as $row ) {
 					'start' => 0,
 					'name'  => $country,
 				);
-			}
+            }
 			$sailors[ $one ][ $place ]++;
 		}
 		$countries[ $country ] [ $place ]++;
@@ -348,7 +348,10 @@ function get_names() {
 		'Wilhelm Kuhweide'          => 'Wilhelm Kuhweide',
 		'Władysław Stefanowicz'     => 'Władysław Stefanowicz',
 		'Włodzimierz Radwaniecki'   => 'Włodzimierz Radwaniecki',
-		'Zach Railey'               => 'Zach Railey',
+        'Zach Railey'               => 'Zach Railey',
+        'Romuald Knasiecki' => 'Romuald Knasiecki',
+
+
 
 	);
 }

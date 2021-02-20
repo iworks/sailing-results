@@ -120,7 +120,7 @@ foreach ( $data as $row ) {
 					'start' => 0,
 					'name'  => $country,
 				);
-            }
+			}
 			$sailors[ $one ][ $place ]++;
 		}
 		$countries[ $country ] [ $place ]++;
@@ -306,8 +306,8 @@ function get_names() {
 		'Fredrik Lööf'              => 'Fredrik Lööf',
 		'Henryk Blaszka'            => 'Henryk Blaszka',
 		'Hubert Raudaschl'          => 'Hubert Raudaschl',
-		'Jacques Lebrun'            => 'Jacques Lebrun',
 		'Jacques Baptiste Lebrun'   => 'Jacques Lebrun',
+		'Jacques Lebrun'            => 'Jacques Lebrun',
 		'Jens Bojsen-Møller'        => 'Jens Bojsen-Møller',
 		'Jonas Høgh-Christensen'    => 'Jonas Høgh-Christensen',
 		'Jonathan Lobert'           => 'Jonathan Lobert',
@@ -320,6 +320,7 @@ function get_names() {
 		'Lucas Calabrese'           => 'Lucas Calabrese',
 		'Ludwik Raczyński'          => 'Ludwik Raczyński',
 		'Łukasz Zakrzewski'         => 'Łukasz Zakrzewski',
+		'Marcel Buffet'             => 'Marcel-André Buffet',
 		'Mateusz Kusznierewicz'     => 'Mateusz Kusznierewicz',
 		'Max Salminen'              => 'Max Salminen',
 		'Michał Burczyński'         => 'Michał Burczyński',
@@ -335,6 +336,7 @@ function get_names() {
 		'Rafał Szukiel'             => 'Rafał Szukiel',
 		'Reinaldo Conrad'           => 'Reinaldo Conrad',
 		'Rolly Tasker'              => 'Rolly Tasker',
+		'Romuald Knasiecki'         => 'Romuald Knasiecki',
 		'Ron Sherry'                => 'Ron Sherry',
 		'Ryszard Blaszka'           => 'Ryszard Blaszka',
 		'Ryszard Skarbiński'        => 'Ryszard Skarbiński',
@@ -348,10 +350,6 @@ function get_names() {
 		'Wilhelm Kuhweide'          => 'Wilhelm Kuhweide',
 		'Władysław Stefanowicz'     => 'Władysław Stefanowicz',
 		'Włodzimierz Radwaniecki'   => 'Włodzimierz Radwaniecki',
-        'Zach Railey'               => 'Zach Railey',
-        'Romuald Knasiecki' => 'Romuald Knasiecki',
-
-
-
+		'Zach Railey'               => 'Zach Railey',
 	);
 }

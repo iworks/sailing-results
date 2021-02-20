@@ -350,6 +350,7 @@ function get_names() {
 		'Wilhelm Kuhweide'          => 'Wilhelm Kuhweide',
 		'Władysław Stefanowicz'     => 'Władysław Stefanowicz',
 		'Włodzimierz Radwaniecki'   => 'Włodzimierz Radwaniecki',
+		'Yves Pajot'                => 'Yves Pajot',
 		'Zach Railey'               => 'Zach Railey',
 	);
 }

@@ -404,6 +404,7 @@ function get_universities() {
 		'UJ Kraków'               => 'Uniwersytet Jagielloński',
 		'UPr Poznań'              => 'Uniwersytet Przyrodniczy w Poznaniu',
 		'UWM Olsztyn'             => 'Uniwersytet Warmińsko-Mazurski w Olsztynie',
+		'WAT Warszawa'            => 'Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego',
 		'WSZ Gdańsk'              => 'Wyższa Szkoła Zdrowia w Gdańsku',
 	);
 }

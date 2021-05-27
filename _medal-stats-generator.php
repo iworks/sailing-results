@@ -32,20 +32,37 @@ if ( isset( $argv[4] ) && 'hide' === $argv[4] ) {
 	$show_country = false;
 }
 
+$use_country = true;
+
 $is_place_added = false;
 
+$count_only = 'person';
+
 foreach ( $argv as $a ) {
-	if ( 'hide-country' === $a ) {
-		$show_country = false;
-	}
-	if ( 'place-is-added' === $a ) {
-		$is_place_added = true;
+	switch ( $a ) {
+		case 'hide':
+		case 'hide-country':
+			$show_country = false;
+			break;
+		case 'place-is-added':
+			$is_place_added = true;
+			break;
+		case 'no-country-code':
+		case 'no-country':
+			$show_country = false;
+			$use_country  = false;
+			break;
+		case 'universities':
+			$count_only = 'universities';
+			break;
 	}
 }
 
 
 $sailors   = array();
 $countries = array();
+
+$universities = get_universities();
 
 foreach ( $data as $row ) {
 	$x     = explode( ',', $row );
@@ -60,10 +77,12 @@ foreach ( $data as $row ) {
 			continue;
 		}
 		$country = $default_country;
-		if ( preg_match( '/^([A-Z\?]{3}) /', $v, $matches ) ) {
-			$country = $matches[1];
-			$v       = preg_replace( '/^.{4}/', '', $v );
-			$v       = trim( $v );
+		if ( $use_country ) {
+			if ( preg_match( '/^([A-Z\?]{3}) /', $v, $matches ) ) {
+				$country = $matches[1];
+				$v       = preg_replace( '/^.{4}/', '', $v );
+				$v       = trim( $v );
+			}
 		}
 		$s = explode( '/', $v );
 
@@ -88,12 +107,20 @@ foreach ( $data as $row ) {
 			if ( empty( $one ) ) {
 				continue;
 			}
-			if ( preg_match( '/^([A-Z]{3})[ \t]+(.+)$/', $one, $matches ) ) {
-				$country = $matches[1];
-				$one     = trim( $matches[2] );
-				if ( empty( $one ) ) {
-					continue;
+			if ( $use_country ) {
+				if ( preg_match( '/^([A-Z]{3})[ \t]+(.+)$/', $one, $matches ) ) {
+					$country = $matches[1];
+					$one     = trim( $matches[2] );
+					if ( empty( $one ) ) {
+						continue;
+					}
 				}
+			}
+			if ( 'person' === $count_only && isset( $universities[ $one ] ) ) {
+				continue;
+			}
+			if ( 'universities' === $count_only && ! isset( $universities[ $one ] ) ) {
+				continue;
 			}
 			if ( ! isset( $sailors[ $one ] ) ) {
 				$sailors[ $one ] = array(
@@ -112,7 +139,7 @@ foreach ( $data as $row ) {
 			if ( $year > $sailors[ $one ]['end'] ) {
 				$sailors[ $one ]['end'] = $year;
 			}
-			if ( ! isset( $countries[ $country ] ) ) {
+			if ( $use_country && ! isset( $countries[ $country ] ) ) {
 				$countries[ $country ] = array(
 					'1'     => 0,
 					'2'     => 0,
@@ -123,7 +150,9 @@ foreach ( $data as $row ) {
 			}
 			$sailors[ $one ][ $place ]++;
 		}
-		$countries[ $country ] [ $place ]++;
+		if ( $use_country ) {
+			$countries[ $country ] [ $place ]++;
+		}
 		$place++;
 	}
 }
@@ -352,5 +381,26 @@ function get_names() {
 		'Włodzimierz Radwaniecki'   => 'Włodzimierz Radwaniecki',
 		'Yves Pajot'                => 'Yves Pajot',
 		'Zach Railey'               => 'Zach Railey',
+		'Stan Honey'                => 'Stan Honey',
+	) + get_universities();
+}
+
+		/**
+		 * uczelnie
+		 */
+function get_universities() {
+	return array(
+		'AGH Kraków'              => 'Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie',
+		'AWF Warszawa'            => 'Akademia Wychowania Fizycznego Józefa Piłsudskiego w Warszawie',
+		'AWFiS Gdańsk'            => 'Akademia Wychowania Fizycznego i Sportu im. Jędrzeja Śniadeckiego w Gdańsku',
+		'PG Gdańsk'               => 'Politechnika Gdańska',
+		'Politechnika Śląska'     => 'Politechnika Śląska',
+		'Politechnika Warszawska' => 'Politechnika Warszawska',
+		'SGH Warszawa'            => 'Szkoła Główna Handlowa w Warszawie',
+		'UG Gdańsk'               => 'Uniwersytet Gdański',
+		'UJ Kraków'               => 'Uniwersytet Jagielloński',
+		'UPr Poznań'              => 'Uniwersytet Przyrodniczy w Poznaniu',
+		'UWM Olsztyn'             => 'Uniwersytet Warmińsko-Mazurski w Olsztynie',
+		'WSZ Gdańsk'              => 'Wyższa Szkoła Zdrowia w Gdańsku',
 	);
 }

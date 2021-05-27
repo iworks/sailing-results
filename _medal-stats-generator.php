@@ -391,9 +391,12 @@ function get_names() {
 function get_universities() {
 	return array(
 		'AGH Kraków'              => 'Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie',
+		'Akademia Morska Gdynia'  => 'Uniwersytet Morski w Gdyni',
 		'AWF Warszawa'            => 'Akademia Wychowania Fizycznego Józefa Piłsudskiego w Warszawie',
 		'AWFiS Gdańsk'            => 'Akademia Wychowania Fizycznego i Sportu im. Jędrzeja Śniadeckiego w Gdańsku',
 		'PG Gdańsk'               => 'Politechnika Gdańska',
+		'Politechnika Poznańska'  => 'Politechnika Poznańska',
+		'Politechnika Rzeszowska' => 'Politechnika Rzeszowska im. Ignacego Łukasiewicza',
 		'Politechnika Śląska'     => 'Politechnika Śląska',
 		'Politechnika Warszawska' => 'Politechnika Warszawska',
 		'SGH Warszawa'            => 'Szkoła Główna Handlowa w Warszawie',

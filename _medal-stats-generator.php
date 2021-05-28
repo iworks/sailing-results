@@ -74,6 +74,7 @@ foreach ( $data as $row ) {
 	foreach ( $x as $v ) {
 		$v = trim( $v );
 		if ( empty( $v ) ) {
+			$place++;
 			continue;
 		}
 		$country = $default_country;

@@ -383,6 +383,7 @@ function get_names() {
 		'Yves Pajot'                => 'Yves Pajot',
 		'Zach Railey'               => 'Zach Railey',
 		'Stan Honey'                => 'Stan Honey',
+		'Wojciech Jacobson'         => 'Wojciech Jacobson',
 	) + get_universities();
 }
 

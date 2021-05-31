@@ -1,0 +1,727 @@
+=== Akademickie Mistrzostwa Polski ===
+Akademickie Mistrzostwa Polski są rozgrywane tylko w klasie standard.
+{| class="wikitable"
+!Rok
+!Miejsce
+!{{trofeum|medal świat|złoty}} Zwycięzca
+!{{trofeum|medal świat|srebrny}} 2. miejsce
+!{{trofeum|medal świat|brązowy}} 3. miejsce
+!Startujących
+|-
+| 2000
+|[[Wilkasy (powiat giżycki)|Wilkasy]]
+|
+|
+| Politechnika Śląska<ref name="pss">{{Cytuj stronę | url = https://www-arch.polsl.pl/Jednostki/RJM2-OS/Zeglarstwo/Strony/Sukcesy.aspx | tytuł = Sukcesy | opublikowany = Politechnika Śląska | data dostępu = 2021-05-27}}</ref>
+| align=right |
+|-
+| 2001
+|
+|
+| Michał Korneszczuk<ref>{{Cytuj stronę | url = http://www.korneszczuk.pl/wyniki-sportowe | tytuł = Najważniejsze wyniki sportowe | opublikowany = Michał Korneszczuk | data dostępu = 2021-05-27}}</ref>
+|
+| align=right |
+|-
+| 2002
+|[[Wilkasy (powiat giżycki)|Wilkasy]]
+| 
+|
+| Politechnika Śląska<br />'''Dominik Niśkiewicz'''{{r|pss}}
+| align=right |
+|-
+| 2003
+|
+| 
+|
+| 
+| align=right |
+|-
+| 2004
+|
+| 
+|
+| 
+| align=right |
+|-
+| 2005
+|
+| 
+|
+| 
+| align=right |
+|-
+| 2006
+|
+| 
+|
+| 
+| align=right |
+|-
+| 2007
+|[[Wilkasy (powiat giżycki)|Wilkasy]]
+|
+|
+| Politechnika Śląska<br />'''Oskar Śleziona'''{{r|pss}}
+| align=right |
+|-
+| 2008
+|[[Wilkasy (powiat giżycki)|Wilkasy]]
+| Politechnika Śląska<br />'''Oskar Śleziona'''
+| PG Gdańsk<br />'''Aleksander Fereniec'''
+| Politechnika Warszawska<br />'''Tobiasz Zajączkoski'''
+| align=right | 84
+|-
+| 2009
+|[[Wilkasy (powiat giżycki)|Wilkasy]]
+|
+|
+| 
+| align=right | 93
+|-
+| 2010<ref>{{Cytuj stronę | url = https://puss.pila.pl/aktualnosci/wiatr-w-zagle-czyli-studenckie-zalogi-zeglarskie-w-walce-o-medal-313.html | tytuł = Wiatr w żagle – czyli studenckie załogi żeglarskie w walce o medal! | data = 2010-10-18 | opublikowany = Państwowa Uczelnia Stanisława Staszica w Pile | data dostępu = 2021-05-27}}</ref>
+|[[Wilkasy (powiat giżycki)|Wilkasy]]
+| PG Gdańsk<br />'''Filip Pietrzak'''<br />Jakub Grzesiak<br />Karol Modrzyński
+| PG Gdańsk<br />'''Aleksander Fereniec'''<br />Paweł Bonikowski<br />Piotr Miszkiewicz
+| PG Gdańsk<br />'''Tymon Sadowski'''<br />Michał Wojtowicz<br />Karol Dołęga
+| align=right | 102
+|-
+| 2011<ref>{{Cytuj stronę | url = https://puss.pila.pl/aktualnosci/akademickie-mistrzostwa-polski-w-zeglarstwie-427.html | tytuł = Akademickie Mistrzostwa Polski w Żeglarstwie | data = 2011-09-28 | opublikowany = Państwowa Uczelnia Stanisława Staszica w Pile | data dostępu = 2021-05-27}}</ref>
+|[[Wilkasy (powiat giżycki)|Wilkasy]]
+| UJ Kraków<br />'''Piotr Rzepecki'''
+| UG Gdańsk<br />'''Grzegorz Goździk'''
+| UWM Olsztyn<br />'''Tomasz Januszewski'''
+| align=right |72
+|-
+| 2012<ref>{{Cytuj stronę | url = https://csa.pg.edu.pl/aktualnosci/-/asset_publisher/sWNC933wjU3Y/content/zeglarze-dodali-75-pkt-do-rankingu-amp-2012-dla-pg | tytuł = Żeglarze dodali 75 pkt. do rankingu AMP 2012 dla PG | data = 2012-07-01 | opublikowany = Centrum Sportu Akademickiego | data dostępu = 2021-05-27}}</ref>
+| [[Wilkasy (powiat giżycki)|Wilkasy]]
+| PG Gdańsk<br />'''Filip Pietrzak'''<br />Patryk Richter<br />Marek Zalewski 
+| UPr Poznań<br />'''Krzysztof Kluza'''
+| UG Gdańsk<br />'''Grzegorz Goździk'''
+| align=right |81
+|-
+| 2013<ref>{{Cytuj stronę | url = https://gazetaolsztynska.pl/159839,Akademickie-Mistrzostwa-Polski-w-zeglarstwie-17-20062013-r.html | tytuł = Akademickie Mistrzostwa Polski w żeglarstwie 17-20.06.2013 r. | data = 2013-06-16 | opublikowany = Gazeta Olsztyńska | data dostępu = 2021-05-27}}</ref>
+| [[Wilkasy (powiat giżycki)|Wilkasy]]
+|
+|
+|
+| align=right |81
+|-
+| 2014
+|[[Wilkasy (powiat giżycki)|Wilkasy]]
+| PG Gdańsk<br />'''Tymon Sadowski'''<br />Jacek Zalewski<br />Kacper Olszewski
+| PG Gdańsk<br />'''Patryk Richter'''<br />Jakub Surowiec<br />Marek Zalewski
+| AWF Warszawa<br />'''Krzysztof Królik''' 
+| align=right | 63
+|-
+| 2015<ref>{{Cytuj stronę | url = https://csa.pg.edu.pl/aktualnosci/-/asset_publisher/sWNC933wjU3Y/content/sekcja-zeglarska-politechniki-gdanskiej-podsumowala-udany-sezon | tytuł = Sekcja Żeglarska Politechniki Gdańskiej podsumowała udany sezon | data = 2015-11-24 | opublikowany = Centrum Sportu Akademickiego | data dostępu = 2021-05-27}}</ref>
+|[[Wilkasy (powiat giżycki)|Wilkasy]]
+| PG Gdańsk<br />'''Patryk Richter'''
+|
+| 
+| align=right |
+|-
+| 2016<ref>{{Cytuj stronę | url = https://csa.pg.edu.pl/aktualnosci/-/asset_publisher/sWNC933wjU3Y/content/reprezentacja-pg-deklasuje-rywali-na-amp-w-zeglarstwie | tytuł = Reprezentacja PG deklasuje rywali na AMP w żeglarstwie | data = 2016-06-03 | opublikowany = Centrum Sportu Akademickiego | data dostępu = 2021-05-27}}</ref>
+|[[Wilkasy (powiat giżycki)|Wilkasy]]
+| PG Gdańsk<br />'''Jakub Marciniak'''<br />Michał Pietrzak<br />Michał Masiulanis
+| PG Gdańsk<br />'''Sławomir Plichta'''<br />Mikołaj Gielnik<br />Patryk Płotka
+| PG Gdańsk<br />'''Patryk Richter'''<br />Marek Zalewki<br />Michał Piernicki
+| align=right |70
+|-
+| 2017<ref>{{Cytuj stronę | url = https://csa.pg.edu.pl/aktualnosci/-/asset_publisher/sWNC933wjU3Y/content/czwarty-raz-z-rzedu-zeglarze-pg-wygrywaja-amp | tytuł = Czwarty raz z rzędu żeglarze PG wygrywają AMP | data = 2017-05-29 | opublikowany = Centrum Sportu Akademickiego | data dostępu = 2021-05-27}}</ref>
+|[[Wilkasy (powiat giżycki)|Wilkasy]]
+| PG Gdańsk<br />'''Patryk Richter'''<br />Jakub Surowiec<br />Marek Zalewski
+| SGH Warszawa<br />'''Wojciech Chamier–Ciemiński''' 
+| WSZ Gdańsk<br />'''Igor Tarasiuk'''<br />Kacper Ślepowroński<br />Michał Pietrzak
+| align=right |68
+|-  
+| 2018<ref>{{Cytuj stronę | url = https://www.wsz.pl/akademickie-mistrzostwa-polski-w-zeglarstwie-4-7-czerwca-wilkasy/ | tytuł = Akademickie Mistrzostwa Polski w żeglarstwie, 4-7 czerwca, Wilkasy | opublikowany = Wyższa Szkoła Zdrowia w Gdańsku | data dostępu = 2021-05-27}}</ref>
+|[[Wilkasy (powiat giżycki)|Wilkasy]]
+| PG Gdańsk
+| SGH
+| WSZ Gdańsk<br />'''Igor Tarasiuk'''<br />Adam Kuźma<br />Marcin Polonis
+| align=right |71
+|-
+| 2019<ref>{{Cytuj stronę | url = https://zagle.se.pl/sport/pg-szosty-raz-z-rzedu-wygrywa-amp-w-zeglarstwie-aa-J9VF-sVoZ-zft8.html | tytuł = PG szósty raz z rzędu wygrywa AMP w Żeglarstwie | data = 2019-06-10 | opublikowany = Żagle | data dostępu = 2021-05-27}}</ref><ref>{{Cytuj stronę | url = https://ampy.pl/files/docs1819/wyniki/1819_zeglarstwo_wyniki.pdf | tytuł = 1819_zeglarstwo_wyniki.pdf | data = 2019-06-10 | opublikowany = Akademickie Mistrzostwa Polski | data dostępu = 2021-05-27}}</ref>
+|[[Wilkasy (powiat giżycki)|Wilkasy]]
+| POL 377<br />PG Gdańsk<br />'''Marcin Styborski'''<br />Jan Krasodomski<br />Dawid Płotka
+| POL 271<br />WSZ Gdańsk<br />'''Igor Tarasiuk'''<br />Adam Kuźma<br />Marcin Polonis
+| POL 331<br />AGH Kraków<br />'''Aleksander Michalski'''<br />Jędrzej Kurzępa<br />Robert Żaak
+| align=right |69
+|-
+| 2020<ref>{{Cytuj stronę | url = https://ampy.pl/files/docs1920/wyniki/1920_zeglarstwo_wyniki.pdf| tytuł = 1920_zeglarstwo_wyniki.pdf | data = 2020-09-03 | opublikowany = Akademickie Mistrzostwa Polski | data dostępu = 2021-05-27}}</ref>
+|[[Wilkasy (powiat giżycki)|Wilkasy]]
+| POL 240<br />PG Gdańsk<br />'''Aleksander Michalski'''<br />Jakub Padzik<br />Izabela Satrjan
+| POL 252<br />SGH Warszawa<br />'''Wojciech Chamier–Ciemiński'''<br />Jakub  Matla<br />Karolina Mikulec<br />Michał Sawicki
+| POL 377<br />PG Gdańsk<br />'''Marcin Styborski'''<br />Jan Krasodomski<br />Dawid Płotka
+| align=right |58
+|-
+| 2021<ref>{{Cytuj stronę | url = https://www.upwind24.pl/amp2021/results | tytuł = Akademickie Mistrzostwa Polski | data = 2021-05-27 | opublikowany = Upwind24 | data dostępu = 2021-05-27}}</ref>
+|[[Wilkasy (powiat giżycki)|Wilkasy]]
+| POL 51<br />PG Gdańsk<br />'''Marcin Styborski'''<br />Dawid Płotka<br />Paweł Leksycki<br />Tomasz Klimczuk
+| POL 68<br />UG Gdańsk<br />'''Łukasz Machowski'''<br />Jakub Błaszczyszyn<br />Oliwia Laskowska
+| POL 29<br />AWFiS Gdańsk<br />'''Seweryn Wysokiński'''<br />Kacper Paszek<br />Bartosz Reiter
+| align=right |70
+|}
+​
+==== Klasyfikacja medalowa ====
+===== Zawodnicy =====
+Poniższa tabela zawiera zestawienie zawodników, którzy zdobyli przynajmniej jeden medal akademickich mistrzostw polski klasy Omega Standard.
+​
+{| class="wikitable sortable"
+! Miejsce
+! Zawodnik
+! Lata<ref group=uwaga>Lata, w których dany zawodnik zdobywał medale mistrzostw polski.</ref>
+! Złoto
+! Srebro
+! Brąz
+! Razem
+|- align = center
+| 1.
+| align = left | Patryk Richter
+| 2012 – 2017
+| {{Żużel/Kolor|m1}} | 3
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 1
+| 5
+|- align = center
+| 2.
+| align = left | Marek Zalewski
+| 2012 – 2017
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 3
+|- align = center
+| 3.
+| align = left | Dawid Płotka
+| 2019 – 2021
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 3
+|- align = center
+| 3.
+| align = left | Marcin Styborski
+| 2019 – 2021
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 3
+|- align = center
+| 5.
+| align = left | Oskar Śleziona
+| 2007 – 2008
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 2
+|- align = center
+| 5.
+| align = left | Filip Pietrzak
+| 2010 – 2012
+| {{Żużel/Kolor|m1}} | 2
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 2
+|- align = center
+| 7.
+| align = left | Jakub Surowiec
+| 2014 – 2017
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 2
+|- align = center
+| 8.
+| align = left | Tymon Sadowski
+| 2010 – 2014
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 2
+|- align = center
+| 8.
+| align = left | Michał Pietrzak
+| 2016 – 2017
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 2
+|- align = center
+| 8.
+| align = left | Aleksander Michalski
+| 2019 – 2020
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 2
+|- align = center
+| 8.
+| align = left | Jan Krasodomski
+| 2019 – 2020
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 2
+|- align = center
+| 12.
+| align = left | Michał Korneszczuk
+| 2001
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 12.
+| align = left | Dominik Niśkiewicz
+| 2004
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 12.
+| align = left | Jakub Grzesiak
+| 2010
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 12.
+| align = left | Karol Modrzyński
+| 2010
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 12.
+| align = left | Piotr Rzepecki
+| 2011
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 12.
+| align = left | Jacek Zalewski
+| 2014
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 12.
+| align = left | Kacper Olszewski
+| 2014
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 12.
+| align = left | Jakub Marciniak
+| 2016
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 12.
+| align = left | Michał Masiulanis
+| 2016
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 12.
+| align = left | Izabela Satrjan
+| 2020
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 12.
+| align = left | Jakub Padzik
+| 2020
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 12.
+| align = left | Paweł Leksycki
+| 2021
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 12.
+| align = left | Tomasz Klimczuk
+| 2021
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 25.
+| align = left | Aleksander Fereniec
+| 2008 – 2010
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 2
+| {{Żużel/Kolor|m3}} | 0
+| 2
+|- align = center
+| 25.
+| align = left | Wojciech Chamier–Ciemiński
+| 2017 – 2020
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 2
+| {{Żużel/Kolor|m3}} | 0
+| 2
+|- align = center
+| 27.
+| align = left | Igor Tarasiuk
+| 2017 – 2019
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 2
+| 3
+|- align = center
+| 28.
+| align = left | Grzegorz Goździk
+| 2011 – 2012
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 1
+| 2
+|- align = center
+| 28.
+| align = left | Adam Kuźma
+| 2018 – 2019
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 1
+| 2
+|- align = center
+| 28.
+| align = left | Marcin Polonis
+| 2018 – 2019
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 1
+| 2
+|- align = center
+| 31.
+| align = left | Paweł Bonikowski
+| 2010
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 31.
+| align = left | Piotr Miszkiewicz
+| 2010
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 31.
+| align = left | Krzysztof Kluza
+| 2012
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 31.
+| align = left | Mikołaj Gielnik
+| 2016
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 31.
+| align = left | Patryk Płotka
+| 2016
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 31.
+| align = left | Sławomir Plichta
+| 2016
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 31.
+| align = left | Jakub Matla
+| 2020
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 31.
+| align = left | Karolina Mikulec
+| 2020
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 31.
+| align = left | Michał Sawicki
+| 2020
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 31.
+| align = left | Jakub Błaszczyszyn
+| 2021
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 31.
+| align = left | Oliwia Laskowska
+| 2021
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 31.
+| align = left | Łukasz Machowski
+| 2021
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 43.
+| align = left | Tobiasz Zajączkoski
+| 2008
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 43.
+| align = left | Karol Dołęga
+| 2010
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 43.
+| align = left | Michał Wojtowicz
+| 2010
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 43.
+| align = left | Tomasz Januszewski
+| 2011
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 43.
+| align = left | Krzysztof Królik
+| 2014
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 43.
+| align = left | Marek Zalewki
+| 2016
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 43.
+| align = left | Michał Piernicki
+| 2016
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 43.
+| align = left | Kacper Ślepowroński
+| 2017
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 43.
+| align = left | Jędrzej Kurzępa
+| 2019
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 43.
+| align = left | Robert Żaak
+| 2019
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 43.
+| align = left | Bartosz Reiter
+| 2021
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 43.
+| align = left | Kacper Paszek
+| 2021
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 43.
+| align = left | Seweryn Wysokiński
+| 2021
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|}
+
+===== Uczelnie =====
+Poniższa tabela zawiera zestawienie uczelni, którzych zawodnicy zdobyli przynajmniej jeden medal akademickich mistrzostw polski klasy Omega Standard.
+​
+{| class="wikitable sortable"
+! Miejsce
+! Uczelnia
+! Lata<ref group=uwaga>Lata, w których zawodnik danej uczelnia zdobywał medale mistrzostw polski.</ref>
+! Złoto
+! Srebro
+! Brąz
+! Razem
+|- align = center
+| 1.
+| align = left | {{sortname|PG|Gdańsk|Politechnika Gdańska}}
+| 2008 – 2021
+| {{Żużel/Kolor|m1}} | 10
+| {{Żużel/Kolor|m2}} | 4
+| {{Żużel/Kolor|m3}} | 3
+| 17
+|- align = center
+| 2.
+| align = left | {{sortname|Politechnika|Śląska}}
+| 2000 – 2008
+| {{Żużel/Kolor|m1}} | 4
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 4
+|- align = center
+| 3.
+| align = left | {{sortname|UJ|Kraków|Uniwersytet Jagielloński}}
+| 2011
+| {{Żużel/Kolor|m1}} | 1
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 4.
+| align = left | {{sortname|SGH|Warszawa|Szkoła Główna Handlowa w Warszawie}}
+| 2017 – 2020
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 3
+| {{Żużel/Kolor|m3}} | 0
+| 3
+|- align = center
+| 5.
+| align = left | {{sortname|UG|Gdańsk|Uniwersytet Gdański}}
+| 2011 – 2021
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 2
+| {{Żużel/Kolor|m3}} | 1
+| 3
+|- align = center
+| 6.
+| align = left | {{sortname|WSZ|Gdańsk|Wyższa Szkoła Zdrowia w Gdańsku}}
+| 2017 – 2019
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 2
+| 3
+|- align = center
+| 7.
+| align = left | {{sortname|UPr|Poznań|Uniwersytet Przyrodniczy w Poznaniu}}
+| 2012
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 1
+| {{Żużel/Kolor|m3}} | 0
+| 1
+|- align = center
+| 8.
+| align = left | {{sortname|Politechnika|Warszawska}}
+| 2008
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 8.
+| align = left | {{sortname|UWM|Olsztyn|Uniwersytet Warmińsko-Mazurski w Olsztynie}}
+| 2011
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 8.
+| align = left | {{sortname|AWF|Warszawa|Akademia Wychowania Fizycznego Józefa Piłsudskiego w Warszawie}}
+| 2014
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 8.
+| align = left | {{sortname|AGH|Kraków|Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie}}
+| 2019
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|- align = center
+| 8.
+| align = left | {{sortname|AWFiS|Gdańsk|Akademia Wychowania Fizycznego i Sportu im. Jędrzeja Śniadeckiego w Gdańsku}}
+| 2021
+| {{Żużel/Kolor|m1}} | 0
+| {{Żużel/Kolor|m2}} | 0
+| {{Żużel/Kolor|m3}} | 1
+| 1
+|}

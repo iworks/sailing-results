@@ -58,7 +58,6 @@ foreach ( $argv as $a ) {
 	}
 }
 
-
 $sailors   = array();
 $countries = array();
 
@@ -86,7 +85,6 @@ foreach ( $data as $row ) {
 			}
 		}
 		$s = explode( '/', $v );
-
 		if ( $show_country ) {
 			if ( preg_match( '/^(BRD|GDR|DDR|FRG|GER)$/i', $country ) ) {
 				$country = 'DEU';
@@ -102,7 +100,6 @@ foreach ( $data as $row ) {
 				die;
 			}
 		}
-
 		foreach ( $s as $one ) {
 			$one = trim( $one );
 			if ( empty( $one ) ) {
@@ -157,7 +154,6 @@ foreach ( $data as $row ) {
 		$place++;
 	}
 }
-
 
 $names = get_names();
 

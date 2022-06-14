@@ -114,6 +114,9 @@ foreach ( $data as $row ) {
 					}
 				}
 			}
+			if ( preg_match( '/^\d+$/', $one ) ) {
+				continue;
+			}
 			if ( 'person' === $count_only && isset( $universities[ $one ] ) ) {
 				continue;
 			}

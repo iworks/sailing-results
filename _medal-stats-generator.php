@@ -395,6 +395,7 @@ function get_universities() {
 		'Akademia Morska Gdynia'     => 'Uniwersytet Morski w Gdyni',
 		'AWF Warszawa'               => 'Akademia Wychowania Fizycznego Józefa Piłsudskiego w Warszawie',
 		'AWFiS Gdańsk'               => 'Akademia Wychowania Fizycznego i Sportu im. Jędrzeja Śniadeckiego w Gdańsku',
+		'GUMed Gdańsk'               => 'Gdański Uniwersytet Medyczny',
 		'PG Gdańsk'                  => 'Politechnika Gdańska',
 		'Politechnika Poznańska'     => 'Politechnika Poznańska',
 		'Politechnika Rzeszowska'    => 'Politechnika Rzeszowska im. Ignacego Łukasiewicza',

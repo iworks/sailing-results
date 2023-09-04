@@ -122,8 +122,8 @@ foreach ( $data as $row ) {
 			}
 			if ( 'universities' === $count_only && ! isset( $universities[ $one ] ) ) {
 				continue;
-            }
-            $one = trim(preg_replace( '/\d+/', '', $one ) );
+			}
+			// $one = trim(preg_replace( '/\d+/', '', $one ) );
 			if ( ! isset( $sailors[ $one ] ) ) {
 				$sailors[ $one ] = array(
 					'1'       => 0,

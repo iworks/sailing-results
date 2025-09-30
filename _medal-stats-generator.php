@@ -73,7 +73,7 @@ foreach ( $data as $row ) {
 	foreach ( $x as $v ) {
 		$v = trim( $v );
 		if ( empty( $v ) ) {
-			$place++;
+			++$place;
 			continue;
 		}
 		$country = $default_country;
@@ -150,12 +150,12 @@ foreach ( $data as $row ) {
 					'name'  => $country,
 				);
 			}
-			$sailors[ $one ][ $place ]++;
+			++$sailors[ $one ][ $place ];
 		}
 		if ( $use_country ) {
-			$countries[ $country ] [ $place ]++;
+			++$countries[ $country ] [ $place ];
 		}
-		$place++;
+		++$place;
 	}
 }
 
@@ -241,7 +241,7 @@ if ( $show_sailors ) {
 		if ( $last !== $current ) {
 			$comb = $i;
 		}
-		$i++;
+		++$i;
 		$last = $current;
 	}
 	// echo '|}';
@@ -278,7 +278,7 @@ if ( $show_countries ) {
 		echo '| ';
 		echo $data['1'] + $data['2'] + $data['3'];
 		echo PHP_EOL;
-		$i++;
+		++$i;
 		if ( $last !== $current ) {
 			$comb = $i;
 		}
@@ -410,5 +410,6 @@ function get_universities() {
 		'UWM Olsztyn'                => 'Uniwersytet Warmińsko-Mazurski w Olsztynie',
 		'WAT Warszawa'               => 'Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego',
 		'WSZ Gdańsk'                 => 'Wyższa Szkoła Zdrowia w Gdańsku',
+		'UJ CM Kraków'               => 'Uniwersytet Jagielloński',
 	);
 }

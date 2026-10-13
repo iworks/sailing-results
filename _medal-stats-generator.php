@@ -235,7 +235,7 @@ if ( $show_sailors ) {
 		echo PHP_EOL;
 		echo '| {{Żużel/Kolor|m3}} | ' . $data['3'];
 		echo PHP_EOL;
-		echo '| ';
+		echo '| align = right | ';
 		echo $data['1'] + $data['2'] + $data['3'];
 		echo PHP_EOL;
 		if ( $last !== $current ) {
